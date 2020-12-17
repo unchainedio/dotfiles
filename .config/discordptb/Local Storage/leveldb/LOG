@@ -1,0 +1,30 @@
+2020/12/07-12:18:20.168 dc1 Reusing MANIFEST /home/unchained/.config/discordptb/Local Storage/leveldb/MANIFEST-000001
+2020/12/07-12:18:20.169 dc1 Recovering log #7
+2020/12/07-12:18:20.171 dc1 Reusing old log /home/unchained/.config/discordptb/Local Storage/leveldb/000007.log 
+2020/12/07-12:19:21.005 eb8 Level-0 table #11: started
+2020/12/07-12:19:21.043 eb8 Level-0 table #11: 23917 bytes OK
+2020/12/07-12:19:21.044 eb8 Delete type=0 #7
+2020/12/08-22:00:58.205 eb8 Level-0 table #13: started
+2020/12/08-22:00:58.210 eb8 Level-0 table #13: 20201 bytes OK
+2020/12/08-22:00:58.212 eb8 Delete type=0 #10
+2020/12/09-18:21:23.447 eb8 Level-0 table #15: started
+2020/12/09-18:21:23.461 eb8 Level-0 table #15: 16789 bytes OK
+2020/12/09-18:21:23.464 eb8 Delete type=0 #12
+2020/12/10-04:54:44.372 eb8 Level-0 table #17: started
+2020/12/10-04:54:44.376 eb8 Level-0 table #17: 18272 bytes OK
+2020/12/10-04:54:44.378 eb8 Delete type=0 #14
+2020/12/10-04:54:44.379 eb8 Compacting 4@0 + 1@1 files
+2020/12/10-04:54:44.385 eb8 Generated table #18@0: 39 keys, 11273 bytes
+2020/12/10-04:54:44.385 eb8 Compacted 4@0 + 1@1 files => 11273 bytes
+2020/12/10-04:54:44.387 eb8 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/12/10-04:54:44.387 eb8 Delete type=2 #15
+2020/12/10-04:54:44.387 eb8 Delete type=2 #11
+2020/12/10-04:54:44.387 eb8 Delete type=2 #17
+2020/12/10-04:54:44.387 eb8 Delete type=2 #8
+2020/12/10-04:54:44.388 eb8 Delete type=2 #13
+2020/12/10-10:46:06.896 eb8 Level-0 table #20: started
+2020/12/10-10:46:06.899 eb8 Level-0 table #20: 15004 bytes OK
+2020/12/10-10:46:06.902 eb8 Delete type=0 #16
+2020/12/11-15:12:23.411 eb8 Level-0 table #22: started
+2020/12/11-15:12:23.413 eb8 Level-0 table #22: 16247 bytes OK
+2020/12/11-15:12:23.415 eb8 Delete type=0 #19

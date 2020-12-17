@@ -1,0 +1,73 @@
+2020/10/29-07:30:21.995 6c5bb Reusing MANIFEST /home/unchained/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_beta-wallet.trezor.io_0.indexeddb.leveldb/MANIFEST-000001
+2020/10/29-07:30:21.995 6c5bb Recovering log #3
+2020/10/29-07:30:21.996 6c5bb Reusing old log /home/unchained/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_beta-wallet.trezor.io_0.indexeddb.leveldb/000003.log 
+2020/10/29-07:57:22.166 c83 Level-0 table #5: started
+2020/10/29-07:57:22.232 c83 Level-0 table #5: 2053018 bytes OK
+2020/10/29-07:57:22.241 c83 Delete type=0 #3
+2020/10/29-08:49:17.921 c83 Level-0 table #7: started
+2020/10/29-08:49:17.984 c83 Level-0 table #7: 2085565 bytes OK
+2020/10/29-08:49:17.991 c83 Delete type=0 #4
+2020/10/29-08:59:06.640 c83 Compacting 1@1 + 1@2 files
+2020/10/29-08:59:06.694 c83 Generated table #8@1: 168 keys, 12426 bytes
+2020/10/29-08:59:06.694 c83 Compacted 1@1 + 1@2 files => 12426 bytes
+2020/10/29-08:59:06.696 c83 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/10/29-08:59:06.696 c83 Delete type=2 #5
+2020/10/29-08:59:06.696 c83 Delete type=2 #7
+2020/10/29-09:56:44.898 c83 Level-0 table #10: started
+2020/10/29-09:56:44.933 c83 Level-0 table #10: 2152615 bytes OK
+2020/10/29-09:56:44.937 c83 Delete type=0 #6
+2020/10/29-10:22:17.813 c83 Compacting 1@1 + 1@2 files
+2020/10/29-10:22:17.839 c83 Generated table #11@1: 174 keys, 15565 bytes
+2020/10/29-10:22:17.839 c83 Compacted 1@1 + 1@2 files => 15565 bytes
+2020/10/29-10:22:17.841 c83 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/10/29-10:22:17.842 c83 Delete type=2 #10
+2020/10/29-10:22:17.842 c83 Delete type=2 #8
+2020/10/29-11:03:14.666 c83 Level-0 table #13: started
+2020/10/29-11:03:14.737 c83 Level-0 table #13: 2132150 bytes OK
+2020/10/29-11:03:14.744 c83 Delete type=0 #9
+2020/10/29-11:31:53.802 c83 Compacting 1@1 + 1@2 files
+2020/10/29-11:31:53.830 c83 Generated table #14@1: 168 keys, 12317 bytes
+2020/10/29-11:31:53.830 c83 Compacted 1@1 + 1@2 files => 12317 bytes
+2020/10/29-11:31:53.832 c83 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/10/29-11:31:53.832 c83 Delete type=2 #11
+2020/10/29-11:31:53.832 c83 Delete type=2 #13
+2020/10/29-12:10:44.613 c83 Level-0 table #16: started
+2020/10/29-12:10:44.686 c83 Level-0 table #16: 2114448 bytes OK
+2020/10/29-12:10:44.693 c83 Delete type=0 #12
+2020/10/29-12:31:27.968 c83 Compacting 1@1 + 1@2 files
+2020/10/29-12:31:27.984 c83 Generated table #17@1: 165 keys, 11101 bytes
+2020/10/29-12:31:27.984 c83 Compacted 1@1 + 1@2 files => 11101 bytes
+2020/10/29-12:31:27.986 c83 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/10/29-12:31:27.986 c83 Delete type=2 #16
+2020/10/29-12:31:27.986 c83 Delete type=2 #14
+2020/10/29-13:17:57.690 c83 Level-0 table #19: started
+2020/10/29-13:17:57.711 c83 Level-0 table #19: 2107578 bytes OK
+2020/10/29-13:17:57.713 c83 Delete type=0 #15
+2020/10/29-13:42:40.758 c83 Compacting 1@1 + 1@2 files
+2020/10/29-13:42:40.784 c83 Generated table #20@1: 171 keys, 14108 bytes
+2020/10/29-13:42:40.784 c83 Compacted 1@1 + 1@2 files => 14108 bytes
+2020/10/29-13:42:40.786 c83 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/10/29-13:42:40.787 c83 Delete type=2 #19
+2020/10/29-13:42:40.787 c83 Delete type=2 #17
+2020/10/29-14:26:49.691 c83 Level-0 table #22: started
+2020/10/29-14:26:49.716 c83 Level-0 table #22: 2162635 bytes OK
+2020/10/29-14:26:49.719 c83 Delete type=0 #18
+2020/10/29-14:45:12.366 c83 Level-0 table #24: started
+2020/10/29-14:45:12.379 c83 Level-0 table #24: 460605 bytes OK
+2020/10/29-14:45:12.381 c83 Delete type=0 #21
+2020/10/29-14:45:12.381 c83 Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x01\x08\x02\x01\x03\x00l\x00t\x00c' @ 59034 : 1
+2020/10/29-14:45:12.381 c83 Compacting 1@0 + 1@1 files
+2020/10/29-14:45:12.406 c83 Generated table #25@0: 3546 keys, 35234 bytes
+2020/10/29-14:45:12.406 c83 Compacted 1@0 + 1@1 files => 35234 bytes
+2020/10/29-14:45:12.407 c83 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/10/29-14:45:12.407 c83 Delete type=2 #22
+2020/10/29-14:45:12.407 c83 Delete type=2 #24
+2020/10/29-14:45:12.409 c83 Manual compaction at level-0 from '\x00\x01\x08\x02\x01\x03\x00l\x00t\x00c' @ 59034 : 1 .. (end); will stop at (end)
+2020/10/29-14:45:12.409 c83 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x08\x02\x01\x03\x00l\x00t\x00c' @ 60880 : 1
+2020/10/29-14:45:12.409 c83 Compacting 1@1 + 1@2 files
+2020/10/29-14:45:12.412 c83 Generated table #26@1: 163 keys, 8778 bytes
+2020/10/29-14:45:12.412 c83 Compacted 1@1 + 1@2 files => 8778 bytes
+2020/10/29-14:45:12.414 c83 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/10/29-14:45:12.414 c83 Delete type=2 #25
+2020/10/29-14:45:12.414 c83 Delete type=2 #20
+2020/10/29-14:45:12.414 c83 Manual compaction at level-1 from '\x00\x01\x08\x02\x01\x03\x00l\x00t\x00c' @ 60880 : 1 .. (end); will stop at (end)

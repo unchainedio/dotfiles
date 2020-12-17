@@ -1,0 +1,15 @@
+2020/11/19-04:22:58.927 1a7f2 Reusing MANIFEST /home/unchained/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_localcryptos.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/19-04:22:58.928 1a7f2 Recovering log #19
+2020/11/19-04:22:58.928 1a7f2 Reusing old log /home/unchained/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_localcryptos.com_0.indexeddb.leveldb/000019.log 
+2020/11/19-04:23:33.398 1a779 Level-0 table #24: started
+2020/11/19-04:23:33.411 1a779 Level-0 table #24: 49177 bytes OK
+2020/11/19-04:23:33.413 1a779 Delete type=0 #19
+2020/11/19-04:23:33.413 1a779 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/11/19-04:23:33.413 1a779 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01 \x03\x00 \xb8m\xe8]wB\x00\x01;\x00s\x00t\x00a\x00t\x00i\x00c\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00l\x00o\x00c\x00a\x00l\x00c\x00r\x00y\x00p\x00t\x00o\x00s\x00.\x00c\x00o\x00m\x00/\x00l\x00a\x00n\x00d\x00i\x00n\x00g\x00/\x00i\x00m\x00a\x00g\x00e\x00s\x00/\x00f\x00l\x00a\x00g\x00s\x00/\x00e\x00g\x00.\x00s\x00v\x00g' @ 64647 : 1
+2020/11/19-04:23:33.413 1a779 Compacting 1@1 + 1@2 files
+2020/11/19-04:23:33.417 1a779 Generated table #25@1: 1221 keys, 56477 bytes
+2020/11/19-04:23:33.417 1a779 Compacted 1@1 + 1@2 files => 56477 bytes
+2020/11/19-04:23:33.418 1a779 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/11/19-04:23:33.418 1a779 Delete type=2 #24
+2020/11/19-04:23:33.418 1a779 Delete type=2 #21
+2020/11/19-04:23:33.419 1a779 Manual compaction at level-1 from '\x00\x02\x01 \x03\x00 \xb8m\xe8]wB\x00\x01;\x00s\x00t\x00a\x00t\x00i\x00c\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00l\x00o\x00c\x00a\x00l\x00c\x00r\x00y\x00p\x00t\x00o\x00s\x00.\x00c\x00o\x00m\x00/\x00l\x00a\x00n\x00d\x00i\x00n\x00g\x00/\x00i\x00m\x00a\x00g\x00e\x00s\x00/\x00f\x00l\x00a\x00g\x00s\x00/\x00e\x00g\x00.\x00s\x00v\x00g' @ 64647 : 1 .. (end); will stop at (end)

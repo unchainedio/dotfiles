@@ -1,0 +1,15 @@
+2020/06/27-10:39:03.636 1a8ee Reusing MANIFEST /home/unchained/.config/google-chrome/Default/IndexedDB/https_parler.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/06/27-10:39:03.637 1a8ee Recovering log #4
+2020/06/27-10:39:03.637 1a8ee Reusing old log /home/unchained/.config/google-chrome/Default/IndexedDB/https_parler.com_0.indexeddb.leveldb/000004.log 
+2020/06/27-10:40:45.564 1ab3e Level-0 table #8: started
+2020/06/27-10:40:45.577 1ab3e Level-0 table #8: 3919 bytes OK
+2020/06/27-10:40:45.579 1ab3e Delete type=0 #4
+2020/06/27-10:40:45.579 1ab3e Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/06/27-10:40:45.580 1ab3e Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01 \x03\x00\x906\xf2N/wB\x00\x01O\x00i\x00m\x00a\x00g\x00e\x00s\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00p\x00a\x00r\x00l\x00e\x00r\x00.\x00c\x00o\x00m\x00/\x00a\x00s\x00s\x00e\x00t\x00s\x00/\x00d\x00e\x00f\x00a\x00u\x00l\x00t\x00-\x00i\x00m\x00a\x00g\x00e\x00s\x00/\x00p\x00a\x00r\x00-\x00d\x00e\x00f\x00a\x00u\x00l\x00t\x00-\x00p\x00r\x00o\x00f\x00i\x00l\x00e\x00-\x00p\x00i\x00c\x00t\x00u\x00r\x00e\x00.\x00j\x00p\x00g' @ 243 : 1
+2020/06/27-10:40:45.580 1ab3e Compacting 1@1 + 1@2 files
+2020/06/27-10:40:45.582 1ab3e Generated table #9@1: 65 keys, 4063 bytes
+2020/06/27-10:40:45.582 1ab3e Compacted 1@1 + 1@2 files => 4063 bytes
+2020/06/27-10:40:45.584 1ab3e compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/06/27-10:40:45.584 1ab3e Delete type=2 #5
+2020/06/27-10:40:45.584 1ab3e Delete type=2 #8
+2020/06/27-10:40:45.585 1ab3e Manual compaction at level-1 from '\x00\x01\x01 \x03\x00\x906\xf2N/wB\x00\x01O\x00i\x00m\x00a\x00g\x00e\x00s\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00p\x00a\x00r\x00l\x00e\x00r\x00.\x00c\x00o\x00m\x00/\x00a\x00s\x00s\x00e\x00t\x00s\x00/\x00d\x00e\x00f\x00a\x00u\x00l\x00t\x00-\x00i\x00m\x00a\x00g\x00e\x00s\x00/\x00p\x00a\x00r\x00-\x00d\x00e\x00f\x00a\x00u\x00l\x00t\x00-\x00p\x00r\x00o\x00f\x00i\x00l\x00e\x00-\x00p\x00i\x00c\x00t\x00u\x00r\x00e\x00.\x00j\x00p\x00g' @ 243 : 1 .. (end); will stop at (end)

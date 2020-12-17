@@ -1,0 +1,4 @@
+hosts:
+    github.com:
+        oauth_token: 4ecae180b21852592826c9978066d9c018c0d3da
+        user: unchainedio

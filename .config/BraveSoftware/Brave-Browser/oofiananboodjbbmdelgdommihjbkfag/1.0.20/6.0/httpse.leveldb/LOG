@@ -1,0 +1,7 @@
+2020/12/16-18:47:43.152 6bf Recovering log #3
+2020/12/16-18:47:43.424 6bf Level-0 table #5: started
+2020/12/16-18:47:43.522 6bf Level-0 table #5: 2785958 bytes OK
+2020/12/16-18:47:43.541 6bf Recovering log #6
+2020/12/16-18:47:43.548 6bf Delete type=3 #2
+2020/12/16-18:47:43.548 6bf Delete type=0 #3
+2020/12/16-18:47:43.548 6bf Delete type=0 #6

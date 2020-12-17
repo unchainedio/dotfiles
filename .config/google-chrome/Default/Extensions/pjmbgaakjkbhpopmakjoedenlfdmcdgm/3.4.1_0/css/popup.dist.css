@@ -1,0 +1,272 @@
+.colors-dark html,
+.colors-dark body {
+  background-color: #414141;
+  color: #c4c4c4;
+}
+.colors-dark .badge {
+  background-color: #626262;
+}
+.colors-dark .part.error {
+  color: #f00;
+}
+.colors-dark .part.search {
+  background-color: #4a4a4a;
+}
+.colors-dark .part.search:focus-within {
+  background-color: #4f4f4f;
+}
+.colors-dark .part.search > .hint {
+  background-color: #d79921;
+  color: #363636;
+}
+.colors-dark .part.search > input[type="text"] {
+  background-color: transparent;
+  color: #eee;
+}
+.colors-dark .part.search > input[type="text"]::placeholder {
+  color: #a0a0a0;
+}
+.colors-dark .logins:not(:hover):not(:focus-within) .part.login:first-child > .name {
+  background-color: #393939;
+}
+.colors-dark .part.login > .name:hover,
+.colors-dark .part.login > .name:focus,
+.colors-dark .part.login > .action:hover,
+.colors-dark .part.login > .action:focus,
+.colors-dark .part.login:focus > .name {
+  background-color: #363636;
+}
+.colors-dark .part.login em {
+  background-color: transparent;
+  color: #d79921;
+}
+.colors-dark .updates {
+  border-top: 1px solid #363636;
+}
+.colors-dark .updates span,
+.colors-dark .updates a {
+  color: #f00;
+}
+.colors-light html,
+.colors-light body {
+  background-color: #f1f3f5;
+  color: #343a40;
+}
+.colors-light .badge {
+  background-color: #b8b8b8;
+}
+.colors-light .part.error {
+  color: #e03131;
+}
+.colors-light .part.search {
+  background-color: #eaeef1;
+}
+.colors-light .part.search:focus-within {
+  background-color: #e8ebee;
+}
+.colors-light .part.search > .hint {
+  background-color: #1c7ed6;
+  color: #e7f5ff;
+}
+.colors-light .part.search > input[type="text"] {
+  background-color: transparent;
+  color: #343a40;
+}
+.colors-light .part.search > input[type="text"]::placeholder {
+  color: #868e96;
+}
+.colors-light .logins:not(:hover):not(:focus-within) .part.login:first-child > .name {
+  background-color: #d8dee3;
+}
+.colors-light .part.login > .name:hover,
+.colors-light .part.login > .name:focus,
+.colors-light .part.login > .action:hover,
+.colors-light .part.login > .action:focus,
+.colors-light .part.login:focus > .name {
+  background-color: #ced4da;
+}
+.colors-light .part.login em {
+  background-color: #cfecff;
+  color: #1873ea;
+}
+.colors-light .updates {
+  border-top: 1px solid #ced4da;
+}
+.colors-light .updates span,
+.colors-light .updates a {
+  color: #e03131;
+}
+.colors-light .part.login .name .line1 .recent,
+.colors-light .part.login .action.copy-password,
+.colors-light .part.login .action.copy-user {
+  filter: invert(85%);
+}
+.colors-light .part.login .name .line1 .recent:focus,
+.colors-light .part.login .name .line1 .recent:hover,
+.colors-light .part.login .action.copy-password:focus,
+.colors-light .part.login .action.copy-password:hover,
+.colors-light .part.login .action.copy-user:focus,
+.colors-light .part.login .action.copy-user:hover {
+  background-color: #0c0804;
+}
+@font-face {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  src: local("Open Sans"), url("/fonts/OpenSans-Regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 300;
+  src: local("Open Sans Light"), url("/fonts/OpenSans-Light.ttf") format("truetype");
+}
+html,
+body {
+  font-family: "Open Sans";
+  font-size: 14px;
+  margin: 0;
+  padding: 0;
+  min-width: 260px;
+  overflow-x: hidden;
+  white-space: nowrap;
+}
+@media (min-resolution: 192dpi) {
+  html,
+  body {
+    font-weight: 300;
+  }
+}
+html::-webkit-scrollbar,
+body::-webkit-scrollbar {
+  display: none;
+}
+body {
+  display: flex;
+  flex-direction: column;
+}
+.logins {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  overflow-y: auto;
+  height: inherit;
+  max-height: 371px;
+}
+.badge {
+  display: flex;
+  align-items: center;
+  border-radius: 4px;
+  font-size: 12px;
+  margin-right: 8px;
+  padding: 1px 4px;
+}
+.part {
+  box-sizing: border-box;
+  display: flex;
+  flex-shrink: 0;
+  width: 100%;
+}
+.part:last-child {
+  border-bottom: none;
+}
+.part > .badge:first-child {
+  margin-left: 0;
+}
+.part.error {
+  white-space: normal;
+  padding: 7px;
+}
+.part.notice {
+  white-space: normal;
+  padding: 7px;
+}
+.part.search {
+  padding: 6px 28px 6px 6px;
+  background-image: url("/popup/icon-search.svg");
+  background-position: top 6px right 6px;
+  background-repeat: no-repeat;
+  background-size: 18px;
+}
+.part.search > .hint {
+  line-height: 19px;
+}
+.part.search > .hint > .remove-hint {
+  background-image: url("/popup/icon-bs-delete.svg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  cursor: pointer;
+  height: 12px;
+  margin: 3px 0 3px 4px;
+  width: 16px;
+}
+.part.search > input[type="text"] {
+  border: none;
+  outline: none;
+  width: 100%;
+  font-family: "Open Sans";
+}
+.part.search > input[type="text"]::placeholder {
+  opacity: 1;
+}
+.part.login > .name:hover,
+.part.login > .name:focus,
+.part.login > .action:hover,
+.part.login > .action:focus,
+.part.login:focus > .name {
+  outline: none;
+}
+.part.login {
+  display: flex;
+  cursor: pointer;
+  align-items: center;
+  height: 53px;
+}
+.part.login:hover,
+.part.login:focus {
+  outline: none;
+}
+.part.login .name {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 41px;
+  padding: 6px;
+}
+.part.login .name .line1 {
+  display: flex;
+  flex-direction: row;
+  font-size: 12px;
+}
+.part.login .name .line1 .recent {
+  background-image: url("/popup/icon-history.svg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: 8px;
+  width: 9.5px;
+  margin-top: 4px;
+}
+.part.login .name .line2 {
+  font-size: 18px;
+  margin-top: 2px;
+}
+.part.login .action {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 19px;
+  width: 30px;
+  height: 41px;
+  padding: 6px;
+}
+.part.login .action.copy-password {
+  background-image: url("/popup/icon-key.svg");
+}
+.part.login .action.copy-user {
+  background-image: url("/popup/icon-user.svg");
+}
+.part.login em {
+  font-style: normal;
+}
+.updates {
+  padding: 6px;
+}

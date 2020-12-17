@@ -1,0 +1,6 @@
+2020/06/01-08:05:17.826 7ed Reusing MANIFEST /home/unchained/.config/Franz/Partitions/service-0370433c-a99c-4365-9ab9-3345508f700a/Session Storage/MANIFEST-000001
+2020/06/01-08:05:17.829 7ed Recovering log #942
+2020/06/01-08:05:17.830 7ed Reusing old log /home/unchained/.config/Franz/Partitions/service-0370433c-a99c-4365-9ab9-3345508f700a/Session Storage/000942.log 
+2020/06/01-08:23:20.290 cf9 Level-0 table #946: started
+2020/06/01-08:23:20.303 cf9 Level-0 table #946: 13390 bytes OK
+2020/06/01-08:23:20.305 cf9 Delete type=0 #942

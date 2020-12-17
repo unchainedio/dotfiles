@@ -1,0 +1,8 @@
+2020/07/03-11:23:25.452 17f4b Reusing MANIFEST /home/unchained/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.airbnb.co.uk_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/03-11:23:25.452 17f4b Recovering log #15
+2020/07/03-11:23:25.453 17f4b Reusing old log /home/unchained/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.airbnb.co.uk_0.indexeddb.leveldb/000015.log 
+2020/07/03-11:24:08.488 17e7 Level-0 table #20: started
+2020/07/03-11:24:08.488 17e7 Level-0 table #20: 0 bytes OK
+2020/07/03-11:24:08.491 17e7 Delete type=0 #15
+2020/07/03-11:24:08.491 17e7 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/07/03-11:24:08.491 17e7 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

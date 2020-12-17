@@ -1,0 +1,26 @@
+2020/07/18-09:23:01.590 83239 Reusing MANIFEST /home/unchained/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_beincrypto.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/18-09:23:01.590 83239 Recovering log #12
+2020/07/18-09:23:01.590 83239 Reusing old log /home/unchained/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_beincrypto.com_0.indexeddb.leveldb/000012.log 
+2020/07/18-09:23:08.671 e19 Level-0 table #18: started
+2020/07/18-09:23:08.673 e19 Level-0 table #18: 534 bytes OK
+2020/07/18-09:23:08.675 e19 Delete type=0 #12
+2020/07/18-09:23:08.675 e19 Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
+2020/07/18-09:23:10.679 e19 Level-0 table #20: started
+2020/07/18-09:23:10.682 e19 Level-0 table #20: 237 bytes OK
+2020/07/18-09:23:10.684 e19 Delete type=0 #17
+2020/07/18-09:23:10.684 e19 Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x00\x00\x002\x02\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 60 : 0
+2020/07/18-09:23:10.684 e19 Compacting 1@0 + 1@1 files
+2020/07/18-09:23:10.686 e19 Generated table #21@0: 3 keys, 215 bytes
+2020/07/18-09:23:10.686 e19 Compacted 1@0 + 1@1 files => 215 bytes
+2020/07/18-09:23:10.687 e19 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/07/18-09:23:10.688 e19 Delete type=2 #20
+2020/07/18-09:23:10.688 e19 Delete type=2 #18
+2020/07/18-09:23:10.688 e19 Manual compaction at level-0 from '\x00\x00\x00\x002\x02\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 60 : 0 .. (end); will stop at (end)
+2020/07/18-09:23:10.689 e19 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x05' @ 62 : 1
+2020/07/18-09:23:10.689 e19 Compacting 1@1 + 1@2 files
+2020/07/18-09:23:10.691 e19 Generated table #22@1: 5 keys, 237 bytes
+2020/07/18-09:23:10.691 e19 Compacted 1@1 + 1@2 files => 237 bytes
+2020/07/18-09:23:10.692 e19 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/07/18-09:23:10.693 e19 Delete type=2 #15
+2020/07/18-09:23:10.693 e19 Delete type=2 #21
+2020/07/18-09:23:10.693 e19 Manual compaction at level-1 from '\x00\x00\x00\x00\x05' @ 62 : 1 .. (end); will stop at (end)

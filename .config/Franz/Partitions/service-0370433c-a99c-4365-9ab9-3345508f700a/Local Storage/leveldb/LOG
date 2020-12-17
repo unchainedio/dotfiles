@@ -1,0 +1,5 @@
+2020/06/01-08:05:18.767 8d2 Reusing MANIFEST /home/unchained/.config/Franz/Partitions/service-0370433c-a99c-4365-9ab9-3345508f700a/Local Storage/leveldb/MANIFEST-000001
+2020/06/01-08:05:18.767 8d2 Recovering log #151
+2020/06/01-08:05:18.774 8d2 Level-0 table #153: started
+2020/06/01-08:05:18.785 8d2 Level-0 table #153: 275869 bytes OK
+2020/06/01-08:05:18.787 8d2 Delete type=0 #151

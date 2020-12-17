@@ -1,0 +1,18 @@
+2020/12/15-18:26:06.814 543 Reusing MANIFEST /home/unchained/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2020/12/15-18:26:06.815 543 Recovering log #414
+2020/12/15-18:26:06.817 543 Reusing old log /home/unchained/.config/discord/Local Storage/leveldb/000414.log 
+2020/12/15-19:14:11.400 19a1 Level-0 table #418: started
+2020/12/15-19:14:11.404 19a1 Level-0 table #418: 18300 bytes OK
+2020/12/15-19:14:11.407 19a1 Delete type=0 #414
+2020/12/16-15:41:30.499 19a1 Level-0 table #420: started
+2020/12/16-15:41:30.502 19a1 Level-0 table #420: 19288 bytes OK
+2020/12/16-15:41:30.504 19a1 Delete type=0 #417
+2020/12/16-15:41:30.505 19a1 Compacting 4@0 + 1@1 files
+2020/12/16-15:41:30.511 19a1 Generated table #421@0: 92 keys, 27408 bytes
+2020/12/16-15:41:30.511 19a1 Compacted 4@0 + 1@1 files => 27408 bytes
+2020/12/16-15:41:30.513 19a1 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/12/16-15:41:30.513 19a1 Delete type=2 #415
+2020/12/16-15:41:30.514 19a1 Delete type=2 #410
+2020/12/16-15:41:30.514 19a1 Delete type=2 #420
+2020/12/16-15:41:30.514 19a1 Delete type=2 #418
+2020/12/16-15:41:30.514 19a1 Delete type=2 #413

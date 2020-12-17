@@ -1,0 +1,21 @@
+00:00:00.356195 VirtualBox GUI VM Selector Window 6.1.14 r140239 linux.amd64 (Sep  7 2020 21:01:30) release log
+00:00:00.356199 Log opened 2020-10-09T08:56:26.598867000Z
+00:00:00.356200 Build Type: release
+00:00:00.356203 OS Product: Linux
+00:00:00.356204 OS Release: 5.8.11-1-MANJARO
+00:00:00.356205 OS Version: #1 SMP PREEMPT Wed Sep 23 14:35:40 UTC 2020
+00:00:00.356240 DMI Product Name: 20QD003MCX
+00:00:00.356252 DMI Product Version: ThinkPad X1 Carbon 7th
+00:00:00.356258 Firmware type: UEFI
+00:00:00.356528 Secure Boot: Disabled
+00:00:00.356578 Host RAM: 15691MB (15.3GB) total, 5455MB (5.3GB) available
+00:00:00.356583 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.356584 Process ID: 122738
+00:00:00.356585 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.356625 Qt version: 5.15.1
+00:00:00.449853 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:03.637564 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:05.285357 GUI: UIInvisibleWindow::sltFallback: Move event haven't came. Screen: 0, work area: 1021x575 x 75x50
+00:00:05.285426 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 1021x575 x 75x50
+00:00:13.139738 ERROR [COM]: aRC=NS_ERROR_UNEXPECTED (0x8000ffff) aIID={c0447716-ff5a-4795-b57a-ecd5fffa18a4} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0
+00:24:28.403820 GUI: UIMediumEnumerator: Medium-enumeration finished!

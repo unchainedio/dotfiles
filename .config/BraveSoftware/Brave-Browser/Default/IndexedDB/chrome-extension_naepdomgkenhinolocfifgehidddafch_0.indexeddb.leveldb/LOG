@@ -1,0 +1,15 @@
+2020/05/29-07:24:48.569 2551 Reusing MANIFEST /home/unchained/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/chrome-extension_naepdomgkenhinolocfifgehidddafch_0.indexeddb.leveldb/MANIFEST-000001
+2020/05/29-07:24:48.570 2551 Recovering log #4
+2020/05/29-07:24:48.570 2551 Reusing old log /home/unchained/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/chrome-extension_naepdomgkenhinolocfifgehidddafch_0.indexeddb.leveldb/000004.log 
+2020/05/29-12:38:07.699 db0 Level-0 table #8: started
+2020/05/29-12:38:07.700 db0 Level-0 table #8: 484 bytes OK
+2020/05/29-12:38:07.701 db0 Delete type=0 #4
+2020/05/29-12:38:07.702 db0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/05/29-12:38:07.702 db0 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x03\x00\xc03=\xee%wB' @ 74 : 1
+2020/05/29-12:38:07.702 db0 Compacting 1@1 + 1@2 files
+2020/05/29-12:38:07.703 db0 Generated table #9@1: 24 keys, 780 bytes
+2020/05/29-12:38:07.703 db0 Compacted 1@1 + 1@2 files => 780 bytes
+2020/05/29-12:38:07.704 db0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/05/29-12:38:07.705 db0 Delete type=2 #5
+2020/05/29-12:38:07.705 db0 Delete type=2 #8
+2020/05/29-12:38:07.705 db0 Manual compaction at level-1 from '\x00\x01\x01\x02\x03\x00\xc03=\xee%wB' @ 74 : 1 .. (end); will stop at (end)

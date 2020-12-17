@@ -1,0 +1,15 @@
+2020/06/05-05:35:39.420 3d92a Reusing MANIFEST /home/unchained/.config/google-chrome/Default/IndexedDB/chrome-extension_pjmbgaakjkbhpopmakjoedenlfdmcdgm_0.indexeddb.leveldb/MANIFEST-000001
+2020/06/05-05:35:39.421 3d92a Recovering log #7
+2020/06/05-05:35:39.421 3d92a Reusing old log /home/unchained/.config/google-chrome/Default/IndexedDB/chrome-extension_pjmbgaakjkbhpopmakjoedenlfdmcdgm_0.indexeddb.leveldb/000007.log 
+2020/06/05-05:35:50.160 3dc28 Level-0 table #12: started
+2020/06/05-05:35:50.162 3dc28 Level-0 table #12: 477 bytes OK
+2020/06/05-05:35:50.164 3dc28 Delete type=0 #7
+2020/06/05-05:35:50.164 3dc28 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/06/05-05:35:50.165 3dc28 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x03\x000\x8a\xc6((wB' @ 97 : 1
+2020/06/05-05:35:50.165 3dc28 Compacting 1@1 + 1@2 files
+2020/06/05-05:35:50.167 3dc28 Generated table #13@1: 27 keys, 886 bytes
+2020/06/05-05:35:50.167 3dc28 Compacted 1@1 + 1@2 files => 886 bytes
+2020/06/05-05:35:50.168 3dc28 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/06/05-05:35:50.169 3dc28 Delete type=2 #12
+2020/06/05-05:35:50.169 3dc28 Delete type=2 #9
+2020/06/05-05:35:50.169 3dc28 Manual compaction at level-1 from '\x00\x01\x01\x02\x03\x000\x8a\xc6((wB' @ 97 : 1 .. (end); will stop at (end)

@@ -1,0 +1,15 @@
+2020/05/26-15:41:55.546 20b01 Reusing MANIFEST /home/unchained/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_unchained-app.clickfunnels.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/05/26-15:41:55.546 20b01 Recovering log #7
+2020/05/26-15:41:55.546 20b01 Reusing old log /home/unchained/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_unchained-app.clickfunnels.com_0.indexeddb.leveldb/000007.log 
+2020/05/26-15:42:17.525 17e4 Level-0 table #12: started
+2020/05/26-15:42:17.526 17e4 Level-0 table #12: 22574 bytes OK
+2020/05/26-15:42:17.527 17e4 Delete type=0 #7
+2020/05/26-15:42:17.527 17e4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/05/26-15:42:17.528 17e4 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01C\x00f\x00i\x00r\x00e\x00b\x00a\x00s\x00e\x00:\x00a\x00u\x00t\x00h\x00U\x00s\x00e\x00r\x00:\x00A\x00I\x00z\x00a\x00S\x00y\x00A\x00n\x00-\x005\x00m\x00p\x00N\x00U\x00r\x00p\x005\x00V\x00y\x00j\x00j\x00X\x00C\x00m\x00Y\x00F\x00F\x00H\x00z\x00J\x00p\x00P\x00T\x00s\x00_\x00a\x00y\x001\x00c\x00:\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]' @ 164 : 1
+2020/05/26-15:42:17.528 17e4 Compacting 1@1 + 1@2 files
+2020/05/26-15:42:17.529 17e4 Generated table #13@1: 20 keys, 2357 bytes
+2020/05/26-15:42:17.529 17e4 Compacted 1@1 + 1@2 files => 2357 bytes
+2020/05/26-15:42:17.530 17e4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/05/26-15:42:17.530 17e4 Delete type=2 #12
+2020/05/26-15:42:17.530 17e4 Delete type=2 #9
+2020/05/26-15:42:17.530 17e4 Manual compaction at level-1 from '\x00\x01\x01\x02\x01C\x00f\x00i\x00r\x00e\x00b\x00a\x00s\x00e\x00:\x00a\x00u\x00t\x00h\x00U\x00s\x00e\x00r\x00:\x00A\x00I\x00z\x00a\x00S\x00y\x00A\x00n\x00-\x005\x00m\x00p\x00N\x00U\x00r\x00p\x005\x00V\x00y\x00j\x00j\x00X\x00C\x00m\x00Y\x00F\x00F\x00H\x00z\x00J\x00p\x00P\x00T\x00s\x00_\x00a\x00y\x001\x00c\x00:\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]' @ 164 : 1 .. (end); will stop at (end)

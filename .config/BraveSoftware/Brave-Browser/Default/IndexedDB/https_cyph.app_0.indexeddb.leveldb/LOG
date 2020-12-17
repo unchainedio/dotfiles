@@ -1,0 +1,30 @@
+2020/07/17-12:58:50.472 77cc2 Reusing MANIFEST /home/unchained/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_cyph.app_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/17-12:59:16.359 e19 Level-0 table #5: started
+2020/07/17-12:59:16.394 e19 Level-0 table #5: 2652900 bytes OK
+2020/07/17-12:59:16.395 e19 Delete type=0 #3
+2020/07/17-12:59:17.607 e19 Level-0 table #7: started
+2020/07/17-12:59:17.721 e19 Level-0 table #7: 9029222 bytes OK
+2020/07/17-12:59:17.723 e19 Delete type=0 #4
+2020/07/18-18:50:10.833 e19 Level-0 table #9: started
+2020/07/18-18:50:10.849 e19 Level-0 table #9: 804423 bytes OK
+2020/07/18-18:50:10.851 e19 Delete type=0 #6
+2020/07/18-18:50:10.852 e19 Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x01\x0e\x00_\x00_\x00s\x00a\x00k\x005\x009\x005\x001\x000\x007\x001\x003\x000' @ 413 : 1
+2020/07/18-18:50:10.852 e19 Compacting 1@0 + 1@1 files
+2020/07/18-18:50:11.108 e19 Generated table #10@0: 205 keys, 9400457 bytes
+2020/07/18-18:50:11.116 e19 Generated table #11@0: 41 keys, 308322 bytes
+2020/07/18-18:50:11.116 e19 Compacted 1@0 + 1@1 files => 9708779 bytes
+2020/07/18-18:50:11.118 e19 compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/07/18-18:50:11.118 e19 Delete type=2 #7
+2020/07/18-18:50:11.118 e19 Delete type=2 #9
+2020/07/18-18:50:11.120 e19 Manual compaction at level-0 from '\x00\x02\x01\x02\x01\x0e\x00_\x00_\x00s\x00a\x00k\x005\x009\x005\x001\x000\x007\x001\x003\x000' @ 413 : 1 .. (end); will stop at (end)
+2020/07/18-18:50:11.120 e19 Expanding@1 1+1 (9400457+2652900 bytes) to 2+1 (9708779+2652900 bytes)
+2020/07/18-18:50:11.120 e19 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x00\x00\xc8\x14\x00f\x00i\x00r\x00e\x00b\x00a\x00s\x00e\x00L\x00o\x00c\x00a\x00l\x00S\x00t\x00o\x00r\x00a\x00g\x00e' @ 348 : 1
+2020/07/18-18:50:11.120 e19 Compacting 2@1 + 1@2 files
+2020/07/18-18:50:11.332 e19 Generated table #12@1: 52 keys, 10563910 bytes
+2020/07/18-18:50:11.377 e19 Generated table #13@1: 75 keys, 1793626 bytes
+2020/07/18-18:50:11.377 e19 Compacted 2@1 + 1@2 files => 12357536 bytes
+2020/07/18-18:50:11.378 e19 compacted to: files[ 0 0 2 0 0 0 0 ]
+2020/07/18-18:50:11.379 e19 Delete type=2 #10
+2020/07/18-18:50:11.379 e19 Delete type=2 #5
+2020/07/18-18:50:11.379 e19 Delete type=2 #11
+2020/07/18-18:50:11.381 e19 Manual compaction at level-1 from '\x00\x02\x00\x00\xc8\x14\x00f\x00i\x00r\x00e\x00b\x00a\x00s\x00e\x00L\x00o\x00c\x00a\x00l\x00S\x00t\x00o\x00r\x00a\x00g\x00e' @ 348 : 1 .. (end); will stop at (end)

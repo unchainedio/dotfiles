@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>CloudApp Display</title>
+    </head>
+
+    <body>
+        <div id="cloudapp-video-container">
+            <div id="cloudapp-video-circle">
+                <video id="cloudapp-display-video" autoplay></video>
+            </div>
+        </div>
+        <div id="cloudapp-video-controls" style="display: none;">
+            <!-- <div class="cloudapp-video-control status-icon">
+                <img
+                    src="/assets/img/recording.svg"
+                    id="cloudapp-status-icon"
+                />
+            </div> -->
+            <div id="cloudapp-video-counter">00:00</div>
+            <div class="cloudapp-video-control pause-button">
+                <img
+                    src="/assets/img/rec-btn-pause.png"
+                    class="cloudapp-rec-button"
+                    id="cloudapp-button-pause-recording"
+                />
+            </div>
+            <div class="cloudapp-video-control finish-button">
+                <img
+                    src="/assets/img/rec-btn-done.png"
+                    class="cloudapp-rec-button"
+                    id="cloudapp-button-finish-recording"
+                />
+            </div>
+            <div class="cloudapp-video-control cancel-button video-last-control">
+                <img
+                    src="/assets/img/cancel.svg"
+                    class="cloudapp-rec-button"
+                    id="cloudapp-button-cancel-recording"
+                />
+            </div>
+        </div>
+    <script type="text/javascript" src="displaycamera_frame.js"></script></body>
+</html>

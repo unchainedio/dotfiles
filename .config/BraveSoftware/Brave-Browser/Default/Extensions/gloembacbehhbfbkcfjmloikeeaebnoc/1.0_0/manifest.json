@@ -1,0 +1,36 @@
+{
+   "background": {
+      "scripts": [ "build/background/contextMenu.js", "build/background/upload.js", "build/background/functions.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "16": "src/images/icon16.png",
+         "24": "src/images/icon48.png",
+         "32": "src/images/icon128.png"
+      },
+      "default_popup": "build/html/popup.html",
+      "default_title": "Slate"
+   },
+   "commands": {
+      "screenshot": {
+         "description": "Take a screenshot",
+         "suggested_key": {
+            "default": "Alt+S",
+            "mac": "Alt+S"
+         }
+      }
+   },
+   "description": "Upload images to Slate from anywhere on the web.",
+   "icons": {
+      "128": "src/images/icon128.png",
+      "16": "src/images/icon16.png",
+      "48": "src/images/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA8Pmu3itFrM7IoBEyvF3tC/+vaHv8oX+CKmiewcaXOF+onuUbDPMuNAOVy9rPnqVmVi1ZygqrviKLExpXSGb5IAWT+qKf1Hg4Pw1KX+W0EiWP1pdJ4cjxfwAuzBP+H2+XEy8AZebt9ra8wXAMblfO/IN2jNml5HxxPE/3x+PzXmfJUSznBJrk+S8pRMc99GVM4cj6fDWMGF1D58GnP0kjGWvspeFIPnHNJ68M91qz8kjFZuRaBawto+rtPPfr7xS/M2+NkBIxdFGWwVPMPSSWJHJK9NlgT/tqjqNwQcBjhMvRZ/eEmYJHU8bR8dEs2EYVkvI53dpwCIIxfLBU9GKtRwIDAQAB",
+   "manifest_version": 2,
+   "name": "Slate",
+   "offline_enabled": true,
+   "permissions": [ "contextMenus", "tabs", "activeTab", "storage", "https://slate.host/", "\u003Call_urls>" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0"
+}

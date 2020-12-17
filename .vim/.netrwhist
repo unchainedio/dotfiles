@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='/home/unchained/.config/pulse'
+let g:netrw_dirhist_6='/etc/wireguard'
+let g:netrw_dirhist_5='/home/unchained/.mutt/imaps:me@hytham.me@imap.fastmail.com:993'
+let g:netrw_dirhist_4='/home'
+let g:netrw_dirhist_3='/home/unchained'
+let g:netrw_dirhist_2='/home/unchained/.mutt'
+let g:netrw_dirhist_1='/home/unchained/.mutt/imaps:me@hytham.me@imap.fastmail.com:993'

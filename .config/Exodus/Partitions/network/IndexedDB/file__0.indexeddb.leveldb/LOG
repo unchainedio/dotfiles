@@ -1,0 +1,3 @@
+2020/11/29-05:40:19.721 5dfa Reusing MANIFEST /home/unchained/.config/Exodus/Partitions/network/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2020/11/29-05:40:19.721 5dfa Recovering log #3
+2020/11/29-05:40:19.722 5dfa Reusing old log /home/unchained/.config/Exodus/Partitions/network/IndexedDB/file__0.indexeddb.leveldb/000003.log 

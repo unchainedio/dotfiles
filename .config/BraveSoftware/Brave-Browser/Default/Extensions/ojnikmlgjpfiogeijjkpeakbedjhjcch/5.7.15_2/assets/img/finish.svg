@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="66" height="28" viewBox="0 0 66 28">
+    <g fill="none" fill-rule="evenodd">
+        <rect width="66" height="28" fill="#2FA580" rx="14"/>
+        <text fill="#FFF" font-family="SFProText-Medium, SF Pro Text" font-size="14" font-weight="400" letter-spacing="-.408">
+            <tspan x="14" y="19">Finish</tspan>
+        </text>
+    </g>
+</svg>

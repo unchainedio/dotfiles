@@ -1,0 +1,5 @@
+2020/06/18-14:05:52.158 4512c Reusing MANIFEST /home/unchained/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.navidiku.rs_0.indexeddb.leveldb/MANIFEST-000001
+2020/06/18-14:06:02.327 c43 Level-0 table #5: started
+2020/06/18-14:06:02.331 c43 Level-0 table #5: 11297 bytes OK
+2020/06/18-14:06:02.333 c43 Delete type=0 #3
+2020/06/18-14:06:02.333 c43 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

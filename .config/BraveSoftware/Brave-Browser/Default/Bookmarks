@@ -1,0 +1,54 @@
+{
+   "checksum": "f92d0d2ba804e7a334c9bf531a3d2d56",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13246268164841634",
+            "guid": "e3db3b47-8c2a-4272-b429-ac9fdc3bbe69",
+            "id": "5",
+            "name": "ECD.rs - Prodaja",
+            "type": "url",
+            "url": "https://exchange.ecd.rs/"
+         }, {
+            "date_added": "13251668606220814",
+            "guid": "73ec00c6-3814-4891-96d8-c064facdacfb",
+            "id": "7",
+            "name": "(6806) Subscriptions - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/feed/subscriptions"
+         }, {
+            "date_added": "13251934803844155",
+            "guid": "877a73c3-f880-455f-aa4c-4cec2d528ee7",
+            "id": "9",
+            "name": "DASHUSD 96.90872111 ▼ −4.58% ETCBTC",
+            "type": "url",
+            "url": "https://www.tradingview.com/chart/7poqvU2J/"
+         } ],
+         "date_added": "13235968176064639",
+         "date_modified": "13251934803844155",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13235968176064648",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13235968176064650",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

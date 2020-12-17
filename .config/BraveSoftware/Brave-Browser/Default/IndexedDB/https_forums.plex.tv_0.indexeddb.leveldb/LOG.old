@@ -1,0 +1,15 @@
+2020/06/02-11:55:24.559 20465 Reusing MANIFEST /home/unchained/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_forums.plex.tv_0.indexeddb.leveldb/MANIFEST-000001
+2020/06/02-11:55:24.560 20465 Recovering log #11
+2020/06/02-11:55:24.560 20465 Reusing old log /home/unchained/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_forums.plex.tv_0.indexeddb.leveldb/000011.log 
+2020/06/02-11:57:26.983 4bd2 Level-0 table #16: started
+2020/06/02-11:57:27.002 4bd2 Level-0 table #16: 124364 bytes OK
+2020/06/02-11:57:27.004 4bd2 Delete type=0 #11
+2020/06/02-11:57:27.004 4bd2 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/06/02-11:57:27.005 4bd2 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01 \x03\x000\xc0VG'wB\x00\x01l\x00d\x00i\x00s\x00c\x00o\x00u\x00r\x00s\x00e\x00-\x001\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00a\x00w\x00s\x001\x00.\x00d\x00i\x00s\x00c\x00o\x00u\x00r\x00s\x00e\x00-\x00c\x00d\x00n\x00.\x00c\x00o\x00m\x00/\x00p\x00l\x00e\x00x\x00/\x00o\x00r\x00i\x00g\x00i\x00n\x00a\x00l\x00/\x003\x00X\x00/\x002\x00/\x00a\x00/\x002\x00a\x00c\x00b\x009\x007\x006\x005\x004\x000\x006\x00f\x006\x003\x002\x009\x003\x00d\x003\x005\x007\x00b\x004\x00e\x00c\x005\x000\x009\x00e\x00c\x003\x009\x00a\x00a\x002\x008\x00f\x002\x00a\x00d\x00.\x00p\x00n\x00g' @ 8038 : 1
+2020/06/02-11:57:27.005 4bd2 Compacting 1@1 + 1@2 files
+2020/06/02-11:57:27.016 4bd2 Generated table #17@1: 1054 keys, 102040 bytes
+2020/06/02-11:57:27.016 4bd2 Compacted 1@1 + 1@2 files => 102040 bytes
+2020/06/02-11:57:27.017 4bd2 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/06/02-11:57:27.017 4bd2 Delete type=2 #16
+2020/06/02-11:57:27.017 4bd2 Delete type=2 #13
+2020/06/02-11:57:27.018 4bd2 Manual compaction at level-1 from '\x00\x01\x01 \x03\x000\xc0VG'wB\x00\x01l\x00d\x00i\x00s\x00c\x00o\x00u\x00r\x00s\x00e\x00-\x001\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00a\x00w\x00s\x001\x00.\x00d\x00i\x00s\x00c\x00o\x00u\x00r\x00s\x00e\x00-\x00c\x00d\x00n\x00.\x00c\x00o\x00m\x00/\x00p\x00l\x00e\x00x\x00/\x00o\x00r\x00i\x00g\x00i\x00n\x00a\x00l\x00/\x003\x00X\x00/\x002\x00/\x00a\x00/\x002\x00a\x00c\x00b\x009\x007\x006\x005\x004\x000\x006\x00f\x006\x003\x002\x009\x003\x00d\x003\x005\x007\x00b\x004\x00e\x00c\x005\x000\x009\x00e\x00c\x003\x009\x00a\x00a\x002\x008\x00f\x002\x00a\x00d\x00.\x00p\x00n\x00g' @ 8038 : 1 .. (end); will stop at (end)

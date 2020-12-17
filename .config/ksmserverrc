@@ -1,0 +1,21 @@
+[$Version]
+update_info=ksmserver_update_loginMode_value.upd:ksmserver_update_loginMode_value_default_enum
+
+[LegacySession: saved at previous logout]
+count=0
+
+[Session: saved at previous logout]
+clientId1=1013a104141130000159030123600000679040003
+clientId2=1013a104141130000159030123600000679040005
+count=2
+discardCommand2[$e]=rm,$HOME/.config/session/kwin_1013a104141130000159030123600000679040005_1590301918_327283
+program1=/usr/bin/msm_notifier
+program2=/usr/bin/kwin_x11
+restartCommand1=/usr/bin/msm_notifier,-session,1013a104141130000159030123600000679040003_1590301918_296769
+restartCommand2=/usr/bin/kwin_x11,-session,1013a104141130000159030123600000679040005_1590301918_327283
+restartStyleHint1=0
+restartStyleHint2=0
+userId1=unchained
+userId2=unchained
+wasWm1=false
+wasWm2=true

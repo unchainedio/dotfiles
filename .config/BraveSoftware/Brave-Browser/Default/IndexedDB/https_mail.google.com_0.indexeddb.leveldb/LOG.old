@@ -1,0 +1,6 @@
+2020/10/31-00:51:35.080 96a62 Reusing MANIFEST /home/unchained/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/10/31-00:51:35.080 96a62 Recovering log #36
+2020/10/31-00:51:35.112 96a62 Reusing old log /home/unchained/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000036.log 
+2020/10/31-00:56:40.379 96a60 Level-0 table #41: started
+2020/10/31-00:56:40.397 96a60 Level-0 table #41: 1813247 bytes OK
+2020/10/31-00:56:40.400 96a60 Delete type=0 #36

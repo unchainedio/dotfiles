@@ -1,0 +1,15 @@
+2020/05/21-06:09:43.241 4db1 Reusing MANIFEST /home/unchained/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_hackernoon.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/05/21-06:09:43.241 4db1 Recovering log #4
+2020/05/21-06:09:43.241 4db1 Reusing old log /home/unchained/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_hackernoon.com_0.indexeddb.leveldb/000004.log 
+2020/05/21-06:15:43.877 504a Level-0 table #8: started
+2020/05/21-06:15:43.879 504a Level-0 table #8: 516 bytes OK
+2020/05/21-06:15:43.881 504a Delete type=0 #4
+2020/05/21-06:15:43.881 504a Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/05/21-06:15:43.881 504a Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x0e\x00_\x00_\x00s\x00a\x00k\x005\x001\x008\x002\x007\x004\x008\x000\x006' @ 63 : 1
+2020/05/21-06:15:43.881 504a Compacting 1@1 + 1@2 files
+2020/05/21-06:15:43.883 504a Generated table #9@1: 18 keys, 555 bytes
+2020/05/21-06:15:43.883 504a Compacted 1@1 + 1@2 files => 555 bytes
+2020/05/21-06:15:43.884 504a compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/05/21-06:15:43.885 504a Delete type=2 #5
+2020/05/21-06:15:43.885 504a Delete type=2 #8
+2020/05/21-06:15:43.885 504a Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x0e\x00_\x00_\x00s\x00a\x00k\x005\x001\x008\x002\x007\x004\x008\x000\x006' @ 63 : 1 .. (end); will stop at (end)

@@ -1,0 +1,5 @@
+2020/06/05-16:53:32.352 498a8 Reusing MANIFEST /home/unchained/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.gatesfoundation.org_0.indexeddb.leveldb/MANIFEST-000001
+2020/06/05-16:54:04.377 321f5 Level-0 table #5: started
+2020/06/05-16:54:04.379 321f5 Level-0 table #5: 1400 bytes OK
+2020/06/05-16:54:04.381 321f5 Delete type=0 #3
+2020/06/05-16:54:04.382 321f5 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,735 @@
+2020/05/29-06:43:45.126 692 Reusing MANIFEST /home/unchained/.config/Franz/Partitions/service-0370433c-a99c-4365-9ab9-3345508f700a/Session Storage/MANIFEST-000001
+2020/05/29-06:43:45.126 692 Recovering log #628
+2020/05/29-06:43:45.127 692 Reusing old log /home/unchained/.config/Franz/Partitions/service-0370433c-a99c-4365-9ab9-3345508f700a/Session Storage/000628.log 
+2020/05/29-06:53:47.726 da3 Level-0 table #632: started
+2020/05/29-06:53:47.738 da3 Level-0 table #632: 14158 bytes OK
+2020/05/29-06:53:47.740 da3 Delete type=0 #628
+2020/05/29-06:53:47.740 da3 Compacting 4@0 + 1@1 files
+2020/05/29-06:53:47.745 da3 Generated table #633@0: 116 keys, 17125 bytes
+2020/05/29-06:53:47.745 da3 Compacted 4@0 + 1@1 files => 17125 bytes
+2020/05/29-06:53:47.747 da3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/05/29-06:53:47.748 da3 Delete type=2 #629
+2020/05/29-06:53:47.748 da3 Delete type=2 #627
+2020/05/29-06:53:47.748 da3 Delete type=2 #625
+2020/05/29-06:53:47.748 da3 Delete type=2 #623
+2020/05/29-06:53:47.748 da3 Delete type=2 #632
+2020/05/29-07:22:47.727 da3 Level-0 table #635: started
+2020/05/29-07:22:47.765 da3 Level-0 table #635: 12736 bytes OK
+2020/05/29-07:22:47.767 da3 Delete type=0 #631
+2020/05/29-07:48:47.727 da3 Level-0 table #637: started
+2020/05/29-07:48:47.740 da3 Level-0 table #637: 13723 bytes OK
+2020/05/29-07:48:47.742 da3 Delete type=0 #634
+2020/05/29-08:10:47.729 da3 Level-0 table #639: started
+2020/05/29-08:10:47.742 da3 Level-0 table #639: 12695 bytes OK
+2020/05/29-08:10:47.744 da3 Delete type=0 #636
+2020/05/29-08:33:47.726 da3 Level-0 table #641: started
+2020/05/29-08:33:47.738 da3 Level-0 table #641: 13468 bytes OK
+2020/05/29-08:33:47.740 da3 Delete type=0 #638
+2020/05/29-08:33:47.741 da3 Compacting 4@0 + 1@1 files
+2020/05/29-08:33:47.745 da3 Generated table #642@0: 116 keys, 17216 bytes
+2020/05/29-08:33:47.745 da3 Compacted 4@0 + 1@1 files => 17216 bytes
+2020/05/29-08:33:47.747 da3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/05/29-08:33:47.747 da3 Delete type=2 #639
+2020/05/29-08:33:47.747 da3 Delete type=2 #637
+2020/05/29-08:33:47.747 da3 Delete type=2 #635
+2020/05/29-08:33:47.747 da3 Delete type=2 #641
+2020/05/29-08:33:47.747 da3 Delete type=2 #633
+2020/05/29-09:00:47.727 da3 Level-0 table #644: started
+2020/05/29-09:00:47.740 da3 Level-0 table #644: 14019 bytes OK
+2020/05/29-09:00:47.742 da3 Delete type=0 #640
+2020/05/29-09:32:47.726 da3 Level-0 table #646: started
+2020/05/29-09:32:47.732 da3 Level-0 table #646: 13835 bytes OK
+2020/05/29-09:32:47.733 da3 Delete type=0 #643
+2020/05/29-10:03:47.726 da3 Level-0 table #648: started
+2020/05/29-10:03:47.738 da3 Level-0 table #648: 12257 bytes OK
+2020/05/29-10:03:47.741 da3 Delete type=0 #645
+2020/05/29-10:32:47.727 da3 Level-0 table #650: started
+2020/05/29-10:32:47.765 da3 Level-0 table #650: 14089 bytes OK
+2020/05/29-10:32:47.766 da3 Delete type=0 #647
+2020/05/29-10:32:47.767 da3 Compacting 4@0 + 1@1 files
+2020/05/29-10:32:47.772 da3 Generated table #651@0: 116 keys, 17114 bytes
+2020/05/29-10:32:47.772 da3 Compacted 4@0 + 1@1 files => 17114 bytes
+2020/05/29-10:32:47.774 da3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/05/29-10:32:47.775 da3 Delete type=2 #650
+2020/05/29-10:32:47.775 da3 Delete type=2 #648
+2020/05/29-10:32:47.775 da3 Delete type=2 #646
+2020/05/29-10:32:47.775 da3 Delete type=2 #642
+2020/05/29-10:32:47.775 da3 Delete type=2 #644
+2020/05/29-10:56:47.726 da3 Level-0 table #653: started
+2020/05/29-10:56:47.739 da3 Level-0 table #653: 12436 bytes OK
+2020/05/29-10:56:47.741 da3 Delete type=0 #649
+2020/05/29-11:21:47.726 da3 Level-0 table #655: started
+2020/05/29-11:21:47.739 da3 Level-0 table #655: 14256 bytes OK
+2020/05/29-11:21:47.741 da3 Delete type=0 #652
+2020/05/29-11:48:47.726 da3 Level-0 table #657: started
+2020/05/29-11:48:47.729 da3 Level-0 table #657: 13670 bytes OK
+2020/05/29-11:48:47.731 da3 Delete type=0 #654
+2020/05/29-12:17:47.725 da3 Level-0 table #659: started
+2020/05/29-12:17:47.727 da3 Level-0 table #659: 14646 bytes OK
+2020/05/29-12:17:47.728 da3 Delete type=0 #656
+2020/05/29-12:17:47.729 da3 Compacting 4@0 + 1@1 files
+2020/05/29-12:17:47.730 da3 Generated table #660@0: 116 keys, 16801 bytes
+2020/05/29-12:17:47.730 da3 Compacted 4@0 + 1@1 files => 16801 bytes
+2020/05/29-12:17:47.732 da3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/05/29-12:17:47.732 da3 Delete type=2 #657
+2020/05/29-12:17:47.732 da3 Delete type=2 #655
+2020/05/29-12:17:47.732 da3 Delete type=2 #653
+2020/05/29-12:17:47.732 da3 Delete type=2 #659
+2020/05/29-12:17:47.732 da3 Delete type=2 #651
+2020/05/29-12:47:47.725 da3 Level-0 table #662: started
+2020/05/29-12:47:47.738 da3 Level-0 table #662: 13487 bytes OK
+2020/05/29-12:47:47.740 da3 Delete type=0 #658
+2020/05/29-13:13:47.726 da3 Level-0 table #664: started
+2020/05/29-13:13:47.728 da3 Level-0 table #664: 13399 bytes OK
+2020/05/29-13:13:47.730 da3 Delete type=0 #661
+2020/05/29-13:39:47.728 da3 Level-0 table #666: started
+2020/05/29-13:39:47.742 da3 Level-0 table #666: 13834 bytes OK
+2020/05/29-13:39:47.744 da3 Delete type=0 #663
+2020/05/29-14:06:47.725 da3 Level-0 table #668: started
+2020/05/29-14:06:47.729 da3 Level-0 table #668: 13678 bytes OK
+2020/05/29-14:06:47.731 da3 Delete type=0 #665
+2020/05/29-14:06:47.732 da3 Compacting 4@0 + 1@1 files
+2020/05/29-14:06:47.736 da3 Generated table #669@0: 116 keys, 17149 bytes
+2020/05/29-14:06:47.736 da3 Compacted 4@0 + 1@1 files => 17149 bytes
+2020/05/29-14:06:47.738 da3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/05/29-14:06:47.739 da3 Delete type=2 #668
+2020/05/29-14:06:47.739 da3 Delete type=2 #660
+2020/05/29-14:06:47.739 da3 Delete type=2 #662
+2020/05/29-14:06:47.739 da3 Delete type=2 #666
+2020/05/29-14:06:47.739 da3 Delete type=2 #664
+2020/05/29-14:33:47.728 da3 Level-0 table #671: started
+2020/05/29-14:33:47.731 da3 Level-0 table #671: 14965 bytes OK
+2020/05/29-14:33:47.733 da3 Delete type=0 #667
+2020/05/29-15:05:47.726 da3 Level-0 table #673: started
+2020/05/29-15:05:47.739 da3 Level-0 table #673: 13793 bytes OK
+2020/05/29-15:05:47.742 da3 Delete type=0 #670
+2020/05/29-15:31:47.728 da3 Level-0 table #675: started
+2020/05/29-15:31:47.731 da3 Level-0 table #675: 13437 bytes OK
+2020/05/29-15:31:47.733 da3 Delete type=0 #672
+2020/05/29-15:57:47.730 da3 Level-0 table #677: started
+2020/05/29-15:57:47.733 da3 Level-0 table #677: 13776 bytes OK
+2020/05/29-15:57:47.735 da3 Delete type=0 #674
+2020/05/29-15:57:47.735 da3 Compacting 4@0 + 1@1 files
+2020/05/29-15:57:47.740 da3 Generated table #678@0: 116 keys, 16722 bytes
+2020/05/29-15:57:47.740 da3 Compacted 4@0 + 1@1 files => 16722 bytes
+2020/05/29-15:57:47.742 da3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/05/29-15:57:47.742 da3 Delete type=2 #675
+2020/05/29-15:57:47.742 da3 Delete type=2 #671
+2020/05/29-15:57:47.742 da3 Delete type=2 #673
+2020/05/29-15:57:47.743 da3 Delete type=2 #669
+2020/05/29-15:57:47.743 da3 Delete type=2 #677
+2020/05/29-16:28:47.727 da3 Level-0 table #680: started
+2020/05/29-16:28:47.730 da3 Level-0 table #680: 13016 bytes OK
+2020/05/29-16:28:47.732 da3 Delete type=0 #676
+2020/05/29-16:53:47.726 da3 Level-0 table #682: started
+2020/05/29-16:53:47.739 da3 Level-0 table #682: 13897 bytes OK
+2020/05/29-16:53:47.741 da3 Delete type=0 #679
+2020/05/29-17:21:47.726 da3 Level-0 table #684: started
+2020/05/29-17:21:47.730 da3 Level-0 table #684: 14654 bytes OK
+2020/05/29-17:21:47.732 da3 Delete type=0 #681
+2020/05/29-17:53:47.725 da3 Level-0 table #686: started
+2020/05/29-17:53:47.738 da3 Level-0 table #686: 14057 bytes OK
+2020/05/29-17:53:47.740 da3 Delete type=0 #683
+2020/05/29-17:53:47.741 da3 Compacting 4@0 + 1@1 files
+2020/05/29-17:53:47.746 da3 Generated table #687@0: 116 keys, 16658 bytes
+2020/05/29-17:53:47.746 da3 Compacted 4@0 + 1@1 files => 16658 bytes
+2020/05/29-17:53:47.748 da3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/05/29-17:53:47.748 da3 Delete type=2 #686
+2020/05/29-17:53:47.748 da3 Delete type=2 #680
+2020/05/29-17:53:47.748 da3 Delete type=2 #684
+2020/05/29-17:53:47.748 da3 Delete type=2 #678
+2020/05/29-17:53:47.748 da3 Delete type=2 #682
+2020/05/29-18:20:47.727 da3 Level-0 table #689: started
+2020/05/29-18:20:47.730 da3 Level-0 table #689: 14158 bytes OK
+2020/05/29-18:20:47.731 da3 Delete type=0 #685
+2020/05/29-18:47:47.727 da3 Level-0 table #691: started
+2020/05/29-18:47:47.740 da3 Level-0 table #691: 12706 bytes OK
+2020/05/29-18:47:47.742 da3 Delete type=0 #688
+2020/05/29-19:17:47.726 da3 Level-0 table #693: started
+2020/05/29-19:17:47.740 da3 Level-0 table #693: 14034 bytes OK
+2020/05/29-19:17:47.742 da3 Delete type=0 #690
+2020/05/29-21:10:35.446 da3 Level-0 table #695: started
+2020/05/29-21:10:35.459 da3 Level-0 table #695: 14341 bytes OK
+2020/05/29-21:10:35.461 da3 Delete type=0 #692
+2020/05/29-21:10:35.462 da3 Compacting 4@0 + 1@1 files
+2020/05/29-21:10:35.470 da3 Generated table #696@0: 116 keys, 17492 bytes
+2020/05/29-21:10:35.470 da3 Compacted 4@0 + 1@1 files => 17492 bytes
+2020/05/29-21:10:35.472 da3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/05/29-21:10:35.472 da3 Delete type=2 #687
+2020/05/29-21:10:35.472 da3 Delete type=2 #695
+2020/05/29-21:10:35.472 da3 Delete type=2 #691
+2020/05/29-21:10:35.472 da3 Delete type=2 #693
+2020/05/29-21:10:35.472 da3 Delete type=2 #689
+2020/05/29-21:37:35.446 da3 Level-0 table #698: started
+2020/05/29-21:37:35.458 da3 Level-0 table #698: 14330 bytes OK
+2020/05/29-21:37:35.460 da3 Delete type=0 #694
+2020/05/29-22:06:35.450 da3 Level-0 table #700: started
+2020/05/29-22:06:35.454 da3 Level-0 table #700: 14373 bytes OK
+2020/05/29-22:06:35.455 da3 Delete type=0 #697
+2020/05/29-22:34:35.451 da3 Level-0 table #702: started
+2020/05/29-22:34:35.464 da3 Level-0 table #702: 13747 bytes OK
+2020/05/29-22:34:35.466 da3 Delete type=0 #699
+2020/05/30-03:41:57.036 da3 Level-0 table #704: started
+2020/05/30-03:41:57.039 da3 Level-0 table #704: 13179 bytes OK
+2020/05/30-03:41:57.041 da3 Delete type=0 #701
+2020/05/30-03:41:57.042 da3 Compacting 4@0 + 1@1 files
+2020/05/30-03:41:57.046 da3 Generated table #705@0: 116 keys, 16541 bytes
+2020/05/30-03:41:57.046 da3 Compacted 4@0 + 1@1 files => 16541 bytes
+2020/05/30-03:41:57.047 da3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/05/30-03:41:57.048 da3 Delete type=2 #704
+2020/05/30-03:41:57.048 da3 Delete type=2 #696
+2020/05/30-03:41:57.048 da3 Delete type=2 #700
+2020/05/30-03:41:57.048 da3 Delete type=2 #702
+2020/05/30-03:41:57.048 da3 Delete type=2 #698
+2020/05/30-04:10:57.037 da3 Level-0 table #707: started
+2020/05/30-04:10:57.050 da3 Level-0 table #707: 12561 bytes OK
+2020/05/30-04:10:57.052 da3 Delete type=0 #703
+2020/05/30-04:31:57.036 da3 Level-0 table #709: started
+2020/05/30-04:31:57.039 da3 Level-0 table #709: 12134 bytes OK
+2020/05/30-04:31:57.041 da3 Delete type=0 #706
+2020/05/30-04:59:57.040 da3 Level-0 table #711: started
+2020/05/30-04:59:57.052 da3 Level-0 table #711: 13841 bytes OK
+2020/05/30-04:59:57.055 da3 Delete type=0 #708
+2020/05/30-05:27:57.035 da3 Level-0 table #713: started
+2020/05/30-05:27:57.048 da3 Level-0 table #713: 13257 bytes OK
+2020/05/30-05:27:57.050 da3 Delete type=0 #710
+2020/05/30-05:27:57.050 da3 Compacting 4@0 + 1@1 files
+2020/05/30-05:27:57.054 da3 Generated table #714@0: 116 keys, 16533 bytes
+2020/05/30-05:27:57.054 da3 Compacted 4@0 + 1@1 files => 16533 bytes
+2020/05/30-05:27:57.055 da3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/05/30-05:27:57.056 da3 Delete type=2 #713
+2020/05/30-05:27:57.056 da3 Delete type=2 #711
+2020/05/30-05:27:57.056 da3 Delete type=2 #709
+2020/05/30-05:27:57.056 da3 Delete type=2 #707
+2020/05/30-05:27:57.056 da3 Delete type=2 #705
+2020/05/30-05:56:57.036 da3 Level-0 table #716: started
+2020/05/30-05:56:57.049 da3 Level-0 table #716: 13851 bytes OK
+2020/05/30-05:56:57.051 da3 Delete type=0 #712
+2020/05/30-06:28:57.032 da3 Level-0 table #718: started
+2020/05/30-06:28:57.044 da3 Level-0 table #718: 14266 bytes OK
+2020/05/30-06:28:57.045 da3 Delete type=0 #715
+2020/05/30-06:53:57.038 da3 Level-0 table #720: started
+2020/05/30-06:53:57.041 da3 Level-0 table #720: 12689 bytes OK
+2020/05/30-06:53:57.043 da3 Delete type=0 #717
+2020/05/30-07:20:57.035 da3 Level-0 table #722: started
+2020/05/30-07:20:57.037 da3 Level-0 table #722: 13152 bytes OK
+2020/05/30-07:20:57.039 da3 Delete type=0 #719
+2020/05/30-07:20:57.040 da3 Compacting 4@0 + 1@1 files
+2020/05/30-07:20:57.045 da3 Generated table #723@0: 116 keys, 17111 bytes
+2020/05/30-07:20:57.045 da3 Compacted 4@0 + 1@1 files => 17111 bytes
+2020/05/30-07:20:57.046 da3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/05/30-07:20:57.047 da3 Delete type=2 #720
+2020/05/30-07:20:57.047 da3 Delete type=2 #714
+2020/05/30-07:20:57.047 da3 Delete type=2 #722
+2020/05/30-07:20:57.047 da3 Delete type=2 #716
+2020/05/30-07:20:57.047 da3 Delete type=2 #718
+2020/05/30-07:45:57.037 da3 Level-0 table #725: started
+2020/05/30-07:45:57.040 da3 Level-0 table #725: 13329 bytes OK
+2020/05/30-07:45:57.042 da3 Delete type=0 #721
+2020/05/30-08:12:57.048 da3 Level-0 table #727: started
+2020/05/30-08:12:57.052 da3 Level-0 table #727: 13618 bytes OK
+2020/05/30-08:12:57.055 da3 Delete type=0 #724
+2020/05/30-08:38:57.041 da3 Level-0 table #729: started
+2020/05/30-08:38:57.054 da3 Level-0 table #729: 14061 bytes OK
+2020/05/30-08:38:57.056 da3 Delete type=0 #726
+2020/05/30-10:41:54.033 da3 Level-0 table #731: started
+2020/05/30-10:41:54.035 da3 Level-0 table #731: 14491 bytes OK
+2020/05/30-10:41:54.038 da3 Delete type=0 #728
+2020/05/30-10:41:54.038 da3 Compacting 4@0 + 1@1 files
+2020/05/30-10:41:54.044 da3 Generated table #732@0: 116 keys, 17234 bytes
+2020/05/30-10:41:54.044 da3 Compacted 4@0 + 1@1 files => 17234 bytes
+2020/05/30-10:41:54.045 da3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/05/30-10:41:54.046 da3 Delete type=2 #731
+2020/05/30-10:41:54.046 da3 Delete type=2 #727
+2020/05/30-10:41:54.046 da3 Delete type=2 #725
+2020/05/30-10:41:54.046 da3 Delete type=2 #729
+2020/05/30-10:41:54.046 da3 Delete type=2 #723
+2020/05/30-11:06:54.029 da3 Level-0 table #734: started
+2020/05/30-11:06:54.041 da3 Level-0 table #734: 12921 bytes OK
+2020/05/30-11:06:54.043 da3 Delete type=0 #730
+2020/05/30-11:36:54.033 da3 Level-0 table #736: started
+2020/05/30-11:36:54.045 da3 Level-0 table #736: 13481 bytes OK
+2020/05/30-11:36:54.048 da3 Delete type=0 #733
+2020/05/30-12:02:54.027 da3 Level-0 table #738: started
+2020/05/30-12:02:54.029 da3 Level-0 table #738: 13360 bytes OK
+2020/05/30-12:02:54.031 da3 Delete type=0 #735
+2020/05/30-12:31:54.032 da3 Level-0 table #740: started
+2020/05/30-12:31:54.036 da3 Level-0 table #740: 13799 bytes OK
+2020/05/30-12:31:54.038 da3 Delete type=0 #737
+2020/05/30-12:31:54.039 da3 Compacting 4@0 + 1@1 files
+2020/05/30-12:31:54.045 da3 Generated table #741@0: 116 keys, 17247 bytes
+2020/05/30-12:31:54.045 da3 Compacted 4@0 + 1@1 files => 17247 bytes
+2020/05/30-12:31:54.046 da3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/05/30-12:31:54.046 da3 Delete type=2 #740
+2020/05/30-12:31:54.046 da3 Delete type=2 #738
+2020/05/30-12:31:54.046 da3 Delete type=2 #734
+2020/05/30-12:31:54.046 da3 Delete type=2 #732
+2020/05/30-12:31:54.046 da3 Delete type=2 #736
+2020/05/30-13:06:54.035 da3 Level-0 table #743: started
+2020/05/30-13:06:54.038 da3 Level-0 table #743: 14419 bytes OK
+2020/05/30-13:06:54.040 da3 Delete type=0 #739
+2020/05/30-13:33:54.036 da3 Level-0 table #745: started
+2020/05/30-13:33:54.039 da3 Level-0 table #745: 13251 bytes OK
+2020/05/30-13:33:54.041 da3 Delete type=0 #742
+2020/05/30-14:01:54.026 da3 Level-0 table #747: started
+2020/05/30-14:01:54.037 da3 Level-0 table #747: 13787 bytes OK
+2020/05/30-14:01:54.039 da3 Delete type=0 #744
+2020/05/30-14:27:54.029 da3 Level-0 table #749: started
+2020/05/30-14:27:54.032 da3 Level-0 table #749: 13971 bytes OK
+2020/05/30-14:27:54.034 da3 Delete type=0 #746
+2020/05/30-14:27:54.034 da3 Compacting 4@0 + 1@1 files
+2020/05/30-14:27:54.038 da3 Generated table #750@0: 116 keys, 16886 bytes
+2020/05/30-14:27:54.038 da3 Compacted 4@0 + 1@1 files => 16886 bytes
+2020/05/30-14:27:54.039 da3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/05/30-14:27:54.039 da3 Delete type=2 #741
+2020/05/30-14:27:54.040 da3 Delete type=2 #749
+2020/05/30-14:27:54.040 da3 Delete type=2 #747
+2020/05/30-14:27:54.040 da3 Delete type=2 #745
+2020/05/30-14:27:54.040 da3 Delete type=2 #743
+2020/05/30-14:59:54.029 da3 Level-0 table #752: started
+2020/05/30-14:59:54.044 da3 Level-0 table #752: 15231 bytes OK
+2020/05/30-14:59:54.045 da3 Delete type=0 #748
+2020/05/30-15:36:54.028 da3 Level-0 table #754: started
+2020/05/30-15:36:54.031 da3 Level-0 table #754: 14806 bytes OK
+2020/05/30-15:36:54.033 da3 Delete type=0 #751
+2020/05/30-16:02:54.031 da3 Level-0 table #756: started
+2020/05/30-16:02:54.033 da3 Level-0 table #756: 13682 bytes OK
+2020/05/30-16:02:54.035 da3 Delete type=0 #753
+2020/05/30-16:32:54.026 da3 Level-0 table #758: started
+2020/05/30-16:32:54.028 da3 Level-0 table #758: 13095 bytes OK
+2020/05/30-16:32:54.030 da3 Delete type=0 #755
+2020/05/30-16:32:54.030 da3 Compacting 4@0 + 1@1 files
+2020/05/30-16:32:54.034 da3 Generated table #759@0: 116 keys, 16810 bytes
+2020/05/30-16:32:54.034 da3 Compacted 4@0 + 1@1 files => 16810 bytes
+2020/05/30-16:32:54.035 da3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/05/30-16:32:54.036 da3 Delete type=2 #752
+2020/05/30-16:32:54.036 da3 Delete type=2 #750
+2020/05/30-16:32:54.036 da3 Delete type=2 #756
+2020/05/30-16:32:54.036 da3 Delete type=2 #754
+2020/05/30-16:32:54.036 da3 Delete type=2 #758
+2020/05/30-16:58:54.030 da3 Level-0 table #761: started
+2020/05/30-16:58:54.033 da3 Level-0 table #761: 13346 bytes OK
+2020/05/30-16:58:54.034 da3 Delete type=0 #757
+2020/05/30-17:24:54.031 da3 Level-0 table #763: started
+2020/05/30-17:24:54.033 da3 Level-0 table #763: 14310 bytes OK
+2020/05/30-17:24:54.036 da3 Delete type=0 #760
+2020/05/30-17:53:54.030 da3 Level-0 table #765: started
+2020/05/30-17:53:54.042 da3 Level-0 table #765: 14686 bytes OK
+2020/05/30-17:53:54.044 da3 Delete type=0 #762
+2020/05/30-18:27:54.033 da3 Level-0 table #767: started
+2020/05/30-18:27:54.045 da3 Level-0 table #767: 14056 bytes OK
+2020/05/30-18:27:54.046 da3 Delete type=0 #764
+2020/05/30-18:27:54.046 da3 Compacting 4@0 + 1@1 files
+2020/05/30-18:27:54.048 da3 Generated table #768@0: 116 keys, 16770 bytes
+2020/05/30-18:27:54.049 da3 Compacted 4@0 + 1@1 files => 16770 bytes
+2020/05/30-18:27:54.050 da3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/05/30-18:27:54.050 da3 Delete type=2 #767
+2020/05/30-18:27:54.050 da3 Delete type=2 #759
+2020/05/30-18:27:54.050 da3 Delete type=2 #765
+2020/05/30-18:27:54.050 da3 Delete type=2 #763
+2020/05/30-18:27:54.050 da3 Delete type=2 #761
+2020/05/30-18:54:54.026 da3 Level-0 table #770: started
+2020/05/30-18:54:54.028 da3 Level-0 table #770: 12893 bytes OK
+2020/05/30-18:54:54.029 da3 Delete type=0 #766
+2020/05/30-19:20:54.037 da3 Level-0 table #772: started
+2020/05/30-19:20:54.039 da3 Level-0 table #772: 13595 bytes OK
+2020/05/30-19:20:54.041 da3 Delete type=0 #769
+2020/05/30-19:47:54.029 da3 Level-0 table #774: started
+2020/05/30-19:47:54.041 da3 Level-0 table #774: 13383 bytes OK
+2020/05/30-19:47:54.044 da3 Delete type=0 #771
+2020/05/30-20:14:54.029 da3 Level-0 table #776: started
+2020/05/30-20:14:54.031 da3 Level-0 table #776: 14376 bytes OK
+2020/05/30-20:14:54.032 da3 Delete type=0 #773
+2020/05/30-20:14:54.032 da3 Compacting 4@0 + 1@1 files
+2020/05/30-20:14:54.034 da3 Generated table #777@0: 116 keys, 16558 bytes
+2020/05/30-20:14:54.034 da3 Compacted 4@0 + 1@1 files => 16558 bytes
+2020/05/30-20:14:54.035 da3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/05/30-20:14:54.035 da3 Delete type=2 #772
+2020/05/30-20:14:54.035 da3 Delete type=2 #776
+2020/05/30-20:14:54.035 da3 Delete type=2 #768
+2020/05/30-20:14:54.035 da3 Delete type=2 #770
+2020/05/30-20:14:54.035 da3 Delete type=2 #774
+2020/05/30-20:44:54.034 da3 Level-0 table #779: started
+2020/05/30-20:44:54.036 da3 Level-0 table #779: 14755 bytes OK
+2020/05/30-20:44:54.038 da3 Delete type=0 #775
+2020/05/30-21:13:54.032 da3 Level-0 table #781: started
+2020/05/30-21:13:54.044 da3 Level-0 table #781: 13652 bytes OK
+2020/05/30-21:13:54.047 da3 Delete type=0 #778
+2020/05/30-21:40:54.032 da3 Level-0 table #783: started
+2020/05/30-21:40:54.035 da3 Level-0 table #783: 13494 bytes OK
+2020/05/30-21:40:54.037 da3 Delete type=0 #780
+2020/05/30-22:09:54.032 da3 Level-0 table #785: started
+2020/05/30-22:09:54.044 da3 Level-0 table #785: 14516 bytes OK
+2020/05/30-22:09:54.046 da3 Delete type=0 #782
+2020/05/30-22:09:54.046 da3 Compacting 4@0 + 1@1 files
+2020/05/30-22:09:54.051 da3 Generated table #786@0: 116 keys, 16759 bytes
+2020/05/30-22:09:54.051 da3 Compacted 4@0 + 1@1 files => 16759 bytes
+2020/05/30-22:09:54.052 da3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/05/30-22:09:54.052 da3 Delete type=2 #783
+2020/05/30-22:09:54.052 da3 Delete type=2 #781
+2020/05/30-22:09:54.052 da3 Delete type=2 #785
+2020/05/30-22:09:54.052 da3 Delete type=2 #777
+2020/05/30-22:09:54.052 da3 Delete type=2 #779
+2020/05/30-22:36:54.029 da3 Level-0 table #788: started
+2020/05/30-22:36:54.031 da3 Level-0 table #788: 14107 bytes OK
+2020/05/30-22:36:54.033 da3 Delete type=0 #784
+2020/05/30-23:05:54.035 da3 Level-0 table #790: started
+2020/05/30-23:05:54.038 da3 Level-0 table #790: 15703 bytes OK
+2020/05/30-23:05:54.040 da3 Delete type=0 #787
+2020/05/30-23:40:54.032 da3 Level-0 table #792: started
+2020/05/30-23:40:54.034 da3 Level-0 table #792: 14406 bytes OK
+2020/05/30-23:40:54.036 da3 Delete type=0 #789
+2020/05/31-00:06:54.035 da3 Level-0 table #794: started
+2020/05/31-00:06:54.038 da3 Level-0 table #794: 13881 bytes OK
+2020/05/31-00:06:54.040 da3 Delete type=0 #791
+2020/05/31-00:06:54.040 da3 Compacting 4@0 + 1@1 files
+2020/05/31-00:06:54.044 da3 Generated table #795@0: 116 keys, 16776 bytes
+2020/05/31-00:06:54.044 da3 Compacted 4@0 + 1@1 files => 16776 bytes
+2020/05/31-00:06:54.045 da3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/05/31-00:06:54.045 da3 Delete type=2 #790
+2020/05/31-00:06:54.046 da3 Delete type=2 #794
+2020/05/31-00:06:54.046 da3 Delete type=2 #786
+2020/05/31-00:06:54.046 da3 Delete type=2 #788
+2020/05/31-00:06:54.046 da3 Delete type=2 #792
+2020/05/31-00:36:54.036 da3 Level-0 table #797: started
+2020/05/31-00:36:54.038 da3 Level-0 table #797: 13451 bytes OK
+2020/05/31-00:36:54.041 da3 Delete type=0 #793
+2020/05/31-01:01:54.040 da3 Level-0 table #799: started
+2020/05/31-01:01:54.052 da3 Level-0 table #799: 13115 bytes OK
+2020/05/31-01:01:54.054 da3 Delete type=0 #796
+2020/05/31-01:28:54.024 da3 Level-0 table #801: started
+2020/05/31-01:28:54.027 da3 Level-0 table #801: 14214 bytes OK
+2020/05/31-01:28:54.029 da3 Delete type=0 #798
+2020/05/31-02:02:54.037 da3 Level-0 table #803: started
+2020/05/31-02:02:54.041 da3 Level-0 table #803: 14697 bytes OK
+2020/05/31-02:02:54.043 da3 Delete type=0 #800
+2020/05/31-02:02:54.043 da3 Compacting 4@0 + 1@1 files
+2020/05/31-02:02:54.047 da3 Generated table #804@0: 116 keys, 16799 bytes
+2020/05/31-02:02:54.047 da3 Compacted 4@0 + 1@1 files => 16799 bytes
+2020/05/31-02:02:54.048 da3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/05/31-02:02:54.049 da3 Delete type=2 #803
+2020/05/31-02:02:54.049 da3 Delete type=2 #799
+2020/05/31-02:02:54.049 da3 Delete type=2 #801
+2020/05/31-02:02:54.049 da3 Delete type=2 #797
+2020/05/31-02:02:54.049 da3 Delete type=2 #795
+2020/05/31-02:28:54.023 da3 Level-0 table #806: started
+2020/05/31-02:28:54.026 da3 Level-0 table #806: 13545 bytes OK
+2020/05/31-02:28:54.028 da3 Delete type=0 #802
+2020/05/31-02:56:54.030 da3 Level-0 table #808: started
+2020/05/31-02:56:54.031 da3 Level-0 table #808: 13195 bytes OK
+2020/05/31-02:56:54.033 da3 Delete type=0 #805
+2020/05/31-03:27:54.026 da3 Level-0 table #810: started
+2020/05/31-03:27:54.039 da3 Level-0 table #810: 15177 bytes OK
+2020/05/31-03:27:54.041 da3 Delete type=0 #807
+2020/05/31-03:51:54.030 da3 Level-0 table #812: started
+2020/05/31-03:51:54.043 da3 Level-0 table #812: 13206 bytes OK
+2020/05/31-03:51:54.045 da3 Delete type=0 #809
+2020/05/31-03:51:54.045 da3 Compacting 4@0 + 1@1 files
+2020/05/31-03:51:54.049 da3 Generated table #813@0: 116 keys, 16759 bytes
+2020/05/31-03:51:54.049 da3 Compacted 4@0 + 1@1 files => 16759 bytes
+2020/05/31-03:51:54.051 da3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/05/31-03:51:54.051 da3 Delete type=2 #810
+2020/05/31-03:51:54.051 da3 Delete type=2 #806
+2020/05/31-03:51:54.051 da3 Delete type=2 #808
+2020/05/31-03:51:54.051 da3 Delete type=2 #804
+2020/05/31-03:51:54.051 da3 Delete type=2 #812
+2020/05/31-04:25:54.026 da3 Level-0 table #815: started
+2020/05/31-04:25:54.027 da3 Level-0 table #815: 14291 bytes OK
+2020/05/31-04:25:54.029 da3 Delete type=0 #811
+2020/05/31-04:59:54.040 da3 Level-0 table #817: started
+2020/05/31-04:59:54.043 da3 Level-0 table #817: 14103 bytes OK
+2020/05/31-04:59:54.045 da3 Delete type=0 #814
+2020/05/31-05:27:54.025 da3 Level-0 table #819: started
+2020/05/31-05:27:54.028 da3 Level-0 table #819: 13226 bytes OK
+2020/05/31-05:27:54.030 da3 Delete type=0 #816
+2020/05/31-05:54:54.023 da3 Level-0 table #821: started
+2020/05/31-05:54:54.026 da3 Level-0 table #821: 13910 bytes OK
+2020/05/31-05:54:54.028 da3 Delete type=0 #818
+2020/05/31-05:54:54.028 da3 Compacting 4@0 + 1@1 files
+2020/05/31-05:54:54.033 da3 Generated table #822@0: 116 keys, 16897 bytes
+2020/05/31-05:54:54.033 da3 Compacted 4@0 + 1@1 files => 16897 bytes
+2020/05/31-05:54:54.034 da3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/05/31-05:54:54.035 da3 Delete type=2 #813
+2020/05/31-05:54:54.035 da3 Delete type=2 #821
+2020/05/31-05:54:54.035 da3 Delete type=2 #815
+2020/05/31-05:54:54.035 da3 Delete type=2 #819
+2020/05/31-05:54:54.035 da3 Delete type=2 #817
+2020/05/31-06:21:54.025 da3 Level-0 table #824: started
+2020/05/31-06:21:54.037 da3 Level-0 table #824: 13246 bytes OK
+2020/05/31-06:21:54.039 da3 Delete type=0 #820
+2020/05/31-06:48:54.040 da3 Level-0 table #826: started
+2020/05/31-06:48:54.043 da3 Level-0 table #826: 13976 bytes OK
+2020/05/31-06:48:54.045 da3 Delete type=0 #823
+2020/05/31-07:25:54.024 da3 Level-0 table #828: started
+2020/05/31-07:25:54.036 da3 Level-0 table #828: 13056 bytes OK
+2020/05/31-07:25:54.038 da3 Delete type=0 #825
+2020/05/31-07:49:54.030 da3 Level-0 table #830: started
+2020/05/31-07:49:54.043 da3 Level-0 table #830: 11941 bytes OK
+2020/05/31-07:49:54.044 da3 Delete type=0 #827
+2020/05/31-07:49:54.045 da3 Compacting 4@0 + 1@1 files
+2020/05/31-07:49:54.049 da3 Generated table #831@0: 116 keys, 16547 bytes
+2020/05/31-07:49:54.049 da3 Compacted 4@0 + 1@1 files => 16547 bytes
+2020/05/31-07:49:54.050 da3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/05/31-07:49:54.051 da3 Delete type=2 #824
+2020/05/31-07:49:54.051 da3 Delete type=2 #830
+2020/05/31-07:49:54.051 da3 Delete type=2 #826
+2020/05/31-07:49:54.051 da3 Delete type=2 #822
+2020/05/31-07:49:54.051 da3 Delete type=2 #828
+2020/05/31-08:17:54.028 da3 Level-0 table #833: started
+2020/05/31-08:17:54.042 da3 Level-0 table #833: 14430 bytes OK
+2020/05/31-08:17:54.044 da3 Delete type=0 #829
+2020/05/31-08:41:54.035 da3 Level-0 table #835: started
+2020/05/31-08:41:54.048 da3 Level-0 table #835: 13658 bytes OK
+2020/05/31-08:41:54.050 da3 Delete type=0 #832
+2020/05/31-09:12:54.028 da3 Level-0 table #837: started
+2020/05/31-09:12:54.031 da3 Level-0 table #837: 14914 bytes OK
+2020/05/31-09:12:54.033 da3 Delete type=0 #834
+2020/05/31-09:47:54.032 da3 Level-0 table #839: started
+2020/05/31-09:47:54.044 da3 Level-0 table #839: 13790 bytes OK
+2020/05/31-09:47:54.047 da3 Delete type=0 #836
+2020/05/31-09:47:54.047 da3 Compacting 4@0 + 1@1 files
+2020/05/31-09:47:54.052 da3 Generated table #840@0: 116 keys, 16608 bytes
+2020/05/31-09:47:54.052 da3 Compacted 4@0 + 1@1 files => 16608 bytes
+2020/05/31-09:47:54.053 da3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/05/31-09:47:54.054 da3 Delete type=2 #835
+2020/05/31-09:47:54.054 da3 Delete type=2 #833
+2020/05/31-09:47:54.054 da3 Delete type=2 #839
+2020/05/31-09:47:54.054 da3 Delete type=2 #837
+2020/05/31-09:47:54.054 da3 Delete type=2 #831
+2020/05/31-10:15:54.030 da3 Level-0 table #842: started
+2020/05/31-10:15:54.033 da3 Level-0 table #842: 14491 bytes OK
+2020/05/31-10:15:54.035 da3 Delete type=0 #838
+2020/05/31-10:38:54.021 da3 Level-0 table #844: started
+2020/05/31-10:38:54.024 da3 Level-0 table #844: 13104 bytes OK
+2020/05/31-10:38:54.026 da3 Delete type=0 #841
+2020/05/31-11:05:54.040 da3 Level-0 table #846: started
+2020/05/31-11:05:54.054 da3 Level-0 table #846: 14175 bytes OK
+2020/05/31-11:05:54.056 da3 Delete type=0 #843
+2020/05/31-11:35:54.034 da3 Level-0 table #848: started
+2020/05/31-11:35:54.036 da3 Level-0 table #848: 13955 bytes OK
+2020/05/31-11:35:54.038 da3 Delete type=0 #845
+2020/05/31-11:35:54.039 da3 Compacting 4@0 + 1@1 files
+2020/05/31-11:35:54.043 da3 Generated table #849@0: 116 keys, 16707 bytes
+2020/05/31-11:35:54.043 da3 Compacted 4@0 + 1@1 files => 16707 bytes
+2020/05/31-11:35:54.045 da3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/05/31-11:35:54.045 da3 Delete type=2 #844
+2020/05/31-11:35:54.045 da3 Delete type=2 #842
+2020/05/31-11:35:54.045 da3 Delete type=2 #840
+2020/05/31-11:35:54.045 da3 Delete type=2 #846
+2020/05/31-11:35:54.045 da3 Delete type=2 #848
+2020/05/31-12:11:54.036 da3 Level-0 table #851: started
+2020/05/31-12:11:54.039 da3 Level-0 table #851: 13782 bytes OK
+2020/05/31-12:11:54.041 da3 Delete type=0 #847
+2020/05/31-12:35:54.027 da3 Level-0 table #853: started
+2020/05/31-12:35:54.039 da3 Level-0 table #853: 12757 bytes OK
+2020/05/31-12:35:54.041 da3 Delete type=0 #850
+2020/05/31-13:00:54.029 da3 Level-0 table #855: started
+2020/05/31-13:00:54.031 da3 Level-0 table #855: 12819 bytes OK
+2020/05/31-13:00:54.033 da3 Delete type=0 #852
+2020/05/31-13:25:54.033 da3 Level-0 table #857: started
+2020/05/31-13:25:54.045 da3 Level-0 table #857: 13057 bytes OK
+2020/05/31-13:25:54.047 da3 Delete type=0 #854
+2020/05/31-13:25:54.048 da3 Compacting 4@0 + 1@1 files
+2020/05/31-13:25:54.052 da3 Generated table #858@0: 116 keys, 16735 bytes
+2020/05/31-13:25:54.052 da3 Compacted 4@0 + 1@1 files => 16735 bytes
+2020/05/31-13:25:54.053 da3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/05/31-13:25:54.053 da3 Delete type=2 #855
+2020/05/31-13:25:54.053 da3 Delete type=2 #857
+2020/05/31-13:25:54.053 da3 Delete type=2 #853
+2020/05/31-13:25:54.053 da3 Delete type=2 #849
+2020/05/31-13:25:54.053 da3 Delete type=2 #851
+2020/05/31-13:57:54.026 da3 Level-0 table #860: started
+2020/05/31-13:57:54.038 da3 Level-0 table #860: 14661 bytes OK
+2020/05/31-13:57:54.040 da3 Delete type=0 #856
+2020/05/31-14:31:54.030 da3 Level-0 table #862: started
+2020/05/31-14:31:54.035 da3 Level-0 table #862: 13810 bytes OK
+2020/05/31-14:31:54.037 da3 Delete type=0 #859
+2020/05/31-15:00:54.044 da3 Level-0 table #864: started
+2020/05/31-15:00:54.047 da3 Level-0 table #864: 13653 bytes OK
+2020/05/31-15:00:54.048 da3 Delete type=0 #861
+2020/05/31-15:30:54.039 da3 Level-0 table #866: started
+2020/05/31-15:30:54.042 da3 Level-0 table #866: 13481 bytes OK
+2020/05/31-15:30:54.044 da3 Delete type=0 #863
+2020/05/31-15:30:54.044 da3 Compacting 4@0 + 1@1 files
+2020/05/31-15:30:54.048 da3 Generated table #867@0: 116 keys, 16735 bytes
+2020/05/31-15:30:54.048 da3 Compacted 4@0 + 1@1 files => 16735 bytes
+2020/05/31-15:30:54.050 da3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/05/31-15:30:54.050 da3 Delete type=2 #860
+2020/05/31-15:30:54.050 da3 Delete type=2 #862
+2020/05/31-15:30:54.050 da3 Delete type=2 #864
+2020/05/31-15:30:54.050 da3 Delete type=2 #858
+2020/05/31-15:30:54.050 da3 Delete type=2 #866
+2020/05/31-15:56:54.025 da3 Level-0 table #869: started
+2020/05/31-15:56:54.028 da3 Level-0 table #869: 13430 bytes OK
+2020/05/31-15:56:54.030 da3 Delete type=0 #865
+2020/05/31-16:23:54.027 da3 Level-0 table #871: started
+2020/05/31-16:23:54.039 da3 Level-0 table #871: 13734 bytes OK
+2020/05/31-16:23:54.041 da3 Delete type=0 #868
+2020/05/31-16:53:54.038 da3 Level-0 table #873: started
+2020/05/31-16:53:54.041 da3 Level-0 table #873: 14544 bytes OK
+2020/05/31-16:53:54.043 da3 Delete type=0 #870
+2020/05/31-17:24:54.032 da3 Level-0 table #875: started
+2020/05/31-17:24:54.034 da3 Level-0 table #875: 14949 bytes OK
+2020/05/31-17:24:54.036 da3 Delete type=0 #872
+2020/05/31-17:24:54.037 da3 Compacting 4@0 + 1@1 files
+2020/05/31-17:24:54.041 da3 Generated table #876@0: 116 keys, 16777 bytes
+2020/05/31-17:24:54.041 da3 Compacted 4@0 + 1@1 files => 16777 bytes
+2020/05/31-17:24:54.043 da3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/05/31-17:24:54.043 da3 Delete type=2 #871
+2020/05/31-17:24:54.043 da3 Delete type=2 #875
+2020/05/31-17:24:54.043 da3 Delete type=2 #869
+2020/05/31-17:24:54.043 da3 Delete type=2 #867
+2020/05/31-17:24:54.043 da3 Delete type=2 #873
+2020/05/31-17:50:54.034 da3 Level-0 table #878: started
+2020/05/31-17:50:54.036 da3 Level-0 table #878: 13154 bytes OK
+2020/05/31-17:50:54.038 da3 Delete type=0 #874
+2020/05/31-18:17:54.035 da3 Level-0 table #880: started
+2020/05/31-18:17:54.048 da3 Level-0 table #880: 12696 bytes OK
+2020/05/31-18:17:54.050 da3 Delete type=0 #877
+2020/05/31-18:42:54.023 da3 Level-0 table #882: started
+2020/05/31-18:42:54.035 da3 Level-0 table #882: 13250 bytes OK
+2020/05/31-18:42:54.037 da3 Delete type=0 #879
+2020/05/31-19:13:54.034 da3 Level-0 table #884: started
+2020/05/31-19:13:54.037 da3 Level-0 table #884: 14607 bytes OK
+2020/05/31-19:13:54.039 da3 Delete type=0 #881
+2020/05/31-19:13:54.039 da3 Compacting 4@0 + 1@1 files
+2020/05/31-19:13:54.043 da3 Generated table #885@0: 116 keys, 16843 bytes
+2020/05/31-19:13:54.043 da3 Compacted 4@0 + 1@1 files => 16843 bytes
+2020/05/31-19:13:54.044 da3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/05/31-19:13:54.044 da3 Delete type=2 #884
+2020/05/31-19:13:54.044 da3 Delete type=2 #882
+2020/05/31-19:13:54.044 da3 Delete type=2 #878
+2020/05/31-19:13:54.044 da3 Delete type=2 #880
+2020/05/31-19:13:54.044 da3 Delete type=2 #876
+2020/05/31-19:45:54.041 da3 Level-0 table #887: started
+2020/05/31-19:45:54.054 da3 Level-0 table #887: 14791 bytes OK
+2020/05/31-19:45:54.056 da3 Delete type=0 #883
+2020/05/31-20:15:54.036 da3 Level-0 table #889: started
+2020/05/31-20:15:54.049 da3 Level-0 table #889: 13436 bytes OK
+2020/05/31-20:15:54.051 da3 Delete type=0 #886
+2020/05/31-20:43:54.019 da3 Level-0 table #891: started
+2020/05/31-20:43:54.022 da3 Level-0 table #891: 13515 bytes OK
+2020/05/31-20:43:54.023 da3 Delete type=0 #888
+2020/05/31-21:08:54.023 da3 Level-0 table #893: started
+2020/05/31-21:08:54.026 da3 Level-0 table #893: 13969 bytes OK
+2020/05/31-21:08:54.028 da3 Delete type=0 #890
+2020/05/31-21:08:54.028 da3 Compacting 4@0 + 1@1 files
+2020/05/31-21:08:54.032 da3 Generated table #894@0: 116 keys, 16892 bytes
+2020/05/31-21:08:54.032 da3 Compacted 4@0 + 1@1 files => 16892 bytes
+2020/05/31-21:08:54.033 da3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/05/31-21:08:54.034 da3 Delete type=2 #891
+2020/05/31-21:08:54.034 da3 Delete type=2 #889
+2020/05/31-21:08:54.034 da3 Delete type=2 #885
+2020/05/31-21:08:54.034 da3 Delete type=2 #887
+2020/05/31-21:08:54.034 da3 Delete type=2 #893
+2020/05/31-21:39:54.034 da3 Level-0 table #896: started
+2020/05/31-21:39:54.046 da3 Level-0 table #896: 14911 bytes OK
+2020/05/31-21:39:54.048 da3 Delete type=0 #892
+2020/05/31-22:11:54.027 da3 Level-0 table #898: started
+2020/05/31-22:11:54.029 da3 Level-0 table #898: 14854 bytes OK
+2020/05/31-22:11:54.031 da3 Delete type=0 #895
+2020/05/31-22:44:54.032 da3 Level-0 table #900: started
+2020/05/31-22:44:54.034 da3 Level-0 table #900: 14163 bytes OK
+2020/05/31-22:44:54.036 da3 Delete type=0 #897
+2020/05/31-23:12:54.030 da3 Level-0 table #902: started
+2020/05/31-23:12:54.033 da3 Level-0 table #902: 14347 bytes OK
+2020/05/31-23:12:54.035 da3 Delete type=0 #899
+2020/05/31-23:12:54.035 da3 Compacting 4@0 + 1@1 files
+2020/05/31-23:12:54.039 da3 Generated table #903@0: 116 keys, 17235 bytes
+2020/05/31-23:12:54.039 da3 Compacted 4@0 + 1@1 files => 17235 bytes
+2020/05/31-23:12:54.041 da3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/05/31-23:12:54.042 da3 Delete type=2 #894
+2020/05/31-23:12:54.042 da3 Delete type=2 #900
+2020/05/31-23:12:54.042 da3 Delete type=2 #898
+2020/05/31-23:12:54.042 da3 Delete type=2 #896
+2020/05/31-23:12:54.042 da3 Delete type=2 #902
+2020/05/31-23:40:54.029 da3 Level-0 table #905: started
+2020/05/31-23:40:54.032 da3 Level-0 table #905: 13421 bytes OK
+2020/05/31-23:40:54.034 da3 Delete type=0 #901
+2020/06/01-00:12:54.022 da3 Level-0 table #907: started
+2020/06/01-00:12:54.024 da3 Level-0 table #907: 14354 bytes OK
+2020/06/01-00:12:54.026 da3 Delete type=0 #904
+2020/06/01-00:39:54.022 da3 Level-0 table #909: started
+2020/06/01-00:39:54.025 da3 Level-0 table #909: 15161 bytes OK
+2020/06/01-00:39:54.027 da3 Delete type=0 #906
+2020/06/01-01:14:54.041 da3 Level-0 table #911: started
+2020/06/01-01:14:54.044 da3 Level-0 table #911: 15131 bytes OK
+2020/06/01-01:14:54.046 da3 Delete type=0 #908
+2020/06/01-01:14:54.046 da3 Compacting 4@0 + 1@1 files
+2020/06/01-01:14:54.050 da3 Generated table #912@0: 116 keys, 16736 bytes
+2020/06/01-01:14:54.050 da3 Compacted 4@0 + 1@1 files => 16736 bytes
+2020/06/01-01:14:54.051 da3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/06/01-01:14:54.052 da3 Delete type=2 #909
+2020/06/01-01:14:54.052 da3 Delete type=2 #911
+2020/06/01-01:14:54.052 da3 Delete type=2 #903
+2020/06/01-01:14:54.052 da3 Delete type=2 #907
+2020/06/01-01:14:54.052 da3 Delete type=2 #905
+2020/06/01-01:41:54.026 da3 Level-0 table #914: started
+2020/06/01-01:41:54.038 da3 Level-0 table #914: 13325 bytes OK
+2020/06/01-01:41:54.040 da3 Delete type=0 #910
+2020/06/01-02:09:54.027 da3 Level-0 table #916: started
+2020/06/01-02:09:54.029 da3 Level-0 table #916: 13438 bytes OK
+2020/06/01-02:09:54.031 da3 Delete type=0 #913
+2020/06/01-02:38:54.021 da3 Level-0 table #918: started
+2020/06/01-02:38:54.024 da3 Level-0 table #918: 13955 bytes OK
+2020/06/01-02:38:54.026 da3 Delete type=0 #915
+2020/06/01-03:07:54.035 da3 Level-0 table #920: started
+2020/06/01-03:07:54.048 da3 Level-0 table #920: 13571 bytes OK
+2020/06/01-03:07:54.050 da3 Delete type=0 #917
+2020/06/01-03:07:54.051 da3 Compacting 4@0 + 1@1 files
+2020/06/01-03:07:54.055 da3 Generated table #921@0: 116 keys, 16842 bytes
+2020/06/01-03:07:54.055 da3 Compacted 4@0 + 1@1 files => 16842 bytes
+2020/06/01-03:07:54.057 da3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/06/01-03:07:54.057 da3 Delete type=2 #918
+2020/06/01-03:07:54.057 da3 Delete type=2 #912
+2020/06/01-03:07:54.057 da3 Delete type=2 #916
+2020/06/01-03:07:54.057 da3 Delete type=2 #914
+2020/06/01-03:07:54.057 da3 Delete type=2 #920
+2020/06/01-03:35:54.034 da3 Level-0 table #923: started
+2020/06/01-03:35:54.047 da3 Level-0 table #923: 14203 bytes OK
+2020/06/01-03:35:54.049 da3 Delete type=0 #919
+2020/06/01-04:03:54.033 da3 Level-0 table #925: started
+2020/06/01-04:03:54.046 da3 Level-0 table #925: 13022 bytes OK
+2020/06/01-04:03:54.047 da3 Delete type=0 #922
+2020/06/01-04:30:54.034 da3 Level-0 table #927: started
+2020/06/01-04:30:54.036 da3 Level-0 table #927: 13420 bytes OK
+2020/06/01-04:30:54.038 da3 Delete type=0 #924
+2020/06/01-04:58:54.035 da3 Level-0 table #929: started
+2020/06/01-04:58:54.037 da3 Level-0 table #929: 13795 bytes OK
+2020/06/01-04:58:54.039 da3 Delete type=0 #926
+2020/06/01-04:58:54.040 da3 Compacting 4@0 + 1@1 files
+2020/06/01-04:58:54.044 da3 Generated table #930@0: 116 keys, 16767 bytes
+2020/06/01-04:58:54.044 da3 Compacted 4@0 + 1@1 files => 16767 bytes
+2020/06/01-04:58:54.045 da3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/06/01-04:58:54.046 da3 Delete type=2 #927
+2020/06/01-04:58:54.046 da3 Delete type=2 #929
+2020/06/01-04:58:54.046 da3 Delete type=2 #925
+2020/06/01-04:58:54.046 da3 Delete type=2 #921
+2020/06/01-04:58:54.046 da3 Delete type=2 #923
+2020/06/01-05:24:54.037 da3 Level-0 table #932: started
+2020/06/01-05:24:54.040 da3 Level-0 table #932: 12904 bytes OK
+2020/06/01-05:24:54.042 da3 Delete type=0 #928
+2020/06/01-05:57:54.027 da3 Level-0 table #934: started
+2020/06/01-05:57:54.029 da3 Level-0 table #934: 14330 bytes OK
+2020/06/01-05:57:54.031 da3 Delete type=0 #931
+2020/06/01-06:30:54.032 da3 Level-0 table #936: started
+2020/06/01-06:30:54.035 da3 Level-0 table #936: 13973 bytes OK
+2020/06/01-06:30:54.037 da3 Delete type=0 #933
+2020/06/01-06:58:54.031 da3 Level-0 table #938: started
+2020/06/01-06:58:54.044 da3 Level-0 table #938: 13575 bytes OK
+2020/06/01-06:58:54.046 da3 Delete type=0 #935
+2020/06/01-06:58:54.046 da3 Compacting 4@0 + 1@1 files
+2020/06/01-06:58:54.051 da3 Generated table #939@0: 116 keys, 16645 bytes
+2020/06/01-06:58:54.051 da3 Compacted 4@0 + 1@1 files => 16645 bytes
+2020/06/01-06:58:54.053 da3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/06/01-06:58:54.053 da3 Delete type=2 #930
+2020/06/01-06:58:54.053 da3 Delete type=2 #938
+2020/06/01-06:58:54.053 da3 Delete type=2 #934
+2020/06/01-06:58:54.053 da3 Delete type=2 #936
+2020/06/01-06:58:54.053 da3 Delete type=2 #932
+2020/06/01-07:26:54.046 da3 Level-0 table #941: started
+2020/06/01-07:26:54.059 da3 Level-0 table #941: 13532 bytes OK
+2020/06/01-07:26:54.061 da3 Delete type=0 #937
+2020/06/01-07:52:54.049 da3 Level-0 table #943: started
+2020/06/01-07:52:54.051 da3 Level-0 table #943: 13314 bytes OK
+2020/06/01-07:52:54.053 da3 Delete type=0 #940

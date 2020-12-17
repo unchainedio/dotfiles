@@ -1,0 +1,8 @@
+2020/12/17-02:15:57.037 570d Reusing MANIFEST /home/unchained/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/17-02:15:57.037 570d Recovering log #1103
+2020/12/17-02:15:57.037 570d Reusing old log /home/unchained/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.google.com_0.indexeddb.leveldb/001103.log 
+2020/12/17-02:16:47.868 522d Level-0 table #1107: started
+2020/12/17-02:16:47.868 522d Level-0 table #1107: 0 bytes OK
+2020/12/17-02:16:47.880 522d Delete type=0 #1103
+2020/12/17-02:16:47.880 522d Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/12/17-02:16:47.880 522d Manual compaction at level-1 from (begin) .. (end); will stop at (end)

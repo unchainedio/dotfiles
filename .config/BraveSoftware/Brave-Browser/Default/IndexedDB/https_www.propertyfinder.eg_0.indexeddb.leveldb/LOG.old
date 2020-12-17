@@ -1,0 +1,341 @@
+2020/10/17-14:12:23.724 6b070 Reusing MANIFEST /home/unchained/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.propertyfinder.eg_0.indexeddb.leveldb/MANIFEST-000001
+2020/10/17-14:12:23.724 6b070 Recovering log #223
+2020/10/17-14:12:23.725 6b070 Reusing old log /home/unchained/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.propertyfinder.eg_0.indexeddb.leveldb/000223.log 
+2020/10/17-14:12:26.993 b80 Level-0 table #233: started
+2020/10/17-14:12:27.008 b80 Level-0 table #233: 1200040 bytes OK
+2020/10/17-14:12:27.009 b80 Delete type=0 #223
+2020/10/17-14:12:27.016 b80 Level-0 table #235: started
+2020/10/17-14:12:27.032 b80 Level-0 table #235: 1268325 bytes OK
+2020/10/17-14:12:27.034 b80 Delete type=0 #232
+2020/10/17-14:12:27.038 b80 Level-0 table #237: started
+2020/10/17-14:12:27.052 b80 Level-0 table #237: 1297712 bytes OK
+2020/10/17-14:12:27.054 b80 Delete type=0 #234
+2020/10/17-14:12:27.064 b80 Level-0 table #239: started
+2020/10/17-14:12:27.079 b80 Level-0 table #239: 1295284 bytes OK
+2020/10/17-14:12:27.081 b80 Delete type=0 #236
+2020/10/17-14:12:27.087 b80 Level-0 table #241: started
+2020/10/17-14:12:27.103 b80 Level-0 table #241: 1283401 bytes OK
+2020/10/17-14:12:27.105 b80 Delete type=0 #238
+2020/10/17-14:12:27.106 b80 Compacting 4@0 + 1@1 files
+2020/10/17-14:12:27.135 b80 Generated table #242@0: 13326 keys, 2149324 bytes
+2020/10/17-14:12:27.166 b80 Generated table #243@0: 13352 keys, 2149178 bytes
+2020/10/17-14:12:27.191 b80 Level-0 table #246: started
+2020/10/17-14:12:27.214 b80 Level-0 table #246: 1272865 bytes OK
+2020/10/17-14:12:27.216 b80 Delete type=0 #240
+2020/10/17-14:12:27.246 b80 Generated table #244@0: 49696 keys, 2045430 bytes
+2020/10/17-14:12:27.246 b80 Compacted 4@0 + 1@1 files => 6343932 bytes
+2020/10/17-14:12:27.247 b80 compacted to: files[ 1 3 3 0 0 0 0 ]
+2020/10/17-14:12:27.247 b80 Delete type=2 #235
+2020/10/17-14:12:27.247 b80 Delete type=2 #239
+2020/10/17-14:12:27.247 b80 Delete type=2 #241
+2020/10/17-14:12:27.247 b80 Delete type=2 #237
+2020/10/17-14:12:27.247 b80 Delete type=2 #233
+2020/10/17-14:12:27.284 b80 Compacting 1@0 + 3@1 files
+2020/10/17-14:12:27.339 b80 Generated table #247@0: 48732 keys, 2191611 bytes
+2020/10/17-14:12:27.369 b80 Generated table #248@0: 13360 keys, 2149397 bytes
+2020/10/17-14:12:27.402 b80 Generated table #249@0: 14367 keys, 2152609 bytes
+2020/10/17-14:12:27.450 b80 Generated table #250@0: 81063 keys, 1123125 bytes
+2020/10/17-14:12:27.450 b80 Compacted 1@0 + 3@1 files => 7616742 bytes
+2020/10/17-14:12:27.451 b80 compacted to: files[ 0 4 3 0 0 0 0 ]
+2020/10/17-14:12:27.455 b80 Expanding@1 1+3 (1123125+6233026 bytes) to 4+3 (7616742+6233026 bytes)
+2020/10/17-14:12:27.456 b80 Compacting 4@1 + 3@2 files
+2020/10/17-14:12:27.465 b80 Level-0 table #253: started
+2020/10/17-14:12:27.483 b80 Level-0 table #253: 946618 bytes OK
+2020/10/17-14:12:27.485 b80 Delete type=2 #242
+2020/10/17-14:12:27.485 b80 Delete type=2 #244
+2020/10/17-14:12:27.485 b80 Delete type=2 #243
+2020/10/17-14:12:27.485 b80 Delete type=2 #246
+2020/10/17-14:12:27.485 b80 Delete type=0 #245
+2020/10/17-14:12:27.524 b80 Generated table #251@1: 48732 keys, 2191633 bytes
+2020/10/17-14:12:27.560 b80 Generated table #254@1: 13360 keys, 2149397 bytes
+2020/10/17-14:12:27.591 b80 Generated table #255@1: 14367 keys, 2152609 bytes
+2020/10/17-14:12:27.664 b80 Generated table #256@1: 2411 keys, 352895 bytes
+2020/10/17-14:12:27.664 b80 Compacted 4@1 + 3@2 files => 6846534 bytes
+2020/10/17-14:12:27.665 b80 compacted to: files[ 1 0 4 0 0 0 0 ]
+2020/10/17-14:12:27.665 b80 Delete type=2 #229
+2020/10/17-14:12:27.665 b80 Delete type=2 #247
+2020/10/17-14:12:27.665 b80 Delete type=2 #249
+2020/10/17-14:12:27.665 b80 Delete type=2 #248
+2020/10/17-14:12:27.665 b80 Delete type=2 #227
+2020/10/17-14:12:27.665 b80 Delete type=2 #250
+2020/10/17-14:12:27.666 b80 Delete type=2 #230
+2020/10/17-14:12:27.670 b80 Level-0 table #258: started
+2020/10/17-14:12:27.688 b80 Level-0 table #258: 893929 bytes OK
+2020/10/17-14:12:27.691 b80 Delete type=0 #252
+2020/10/17-14:12:27.703 b80 Compacting 2@0 + 0@1 files
+2020/10/17-14:12:27.786 b80 Generated table #259@0: 49283 keys, 1678817 bytes
+2020/10/17-14:12:27.786 b80 Compacted 2@0 + 0@1 files => 1678817 bytes
+2020/10/17-14:12:27.793 b80 compacted to: files[ 0 1 4 0 0 0 0 ]
+2020/10/17-14:12:27.794 b80 Delete type=2 #253
+2020/10/17-14:12:27.794 b80 Delete type=2 #258
+2020/10/17-14:12:27.954 b80 Level-0 table #261: started
+2020/10/17-14:12:27.969 b80 Level-0 table #261: 953115 bytes OK
+2020/10/17-14:12:27.970 b80 Delete type=0 #257
+2020/10/17-14:12:27.973 b80 Compacting 1@0 + 1@1 files
+2020/10/17-14:12:28.017 b80 Generated table #262@0: 60363 keys, 2210520 bytes
+2020/10/17-14:12:28.024 b80 Generated table #263@0: 13454 keys, 340870 bytes
+2020/10/17-14:12:28.024 b80 Compacted 1@0 + 1@1 files => 2551390 bytes
+2020/10/17-14:12:28.025 b80 compacted to: files[ 0 2 4 0 0 0 0 ]
+2020/10/17-14:12:28.025 b80 Delete type=2 #261
+2020/10/17-14:12:28.025 b80 Delete type=2 #259
+2020/10/17-14:12:28.235 b80 Level-0 table #265: started
+2020/10/17-14:12:28.252 b80 Level-0 table #265: 989639 bytes OK
+2020/10/17-14:12:28.254 b80 Delete type=0 #260
+2020/10/17-14:12:28.258 b80 Compacting 1@0 + 2@1 files
+2020/10/17-14:12:28.318 b80 Generated table #266@0: 75115 keys, 2227269 bytes
+2020/10/17-14:12:28.338 b80 Generated table #267@0: 23236 keys, 1233121 bytes
+2020/10/17-14:12:28.338 b80 Compacted 1@0 + 2@1 files => 3460390 bytes
+2020/10/17-14:12:28.339 b80 compacted to: files[ 0 2 4 0 0 0 0 ]
+2020/10/17-14:12:28.339 b80 Delete type=2 #265
+2020/10/17-14:12:28.339 b80 Delete type=2 #262
+2020/10/17-14:12:28.339 b80 Delete type=2 #263
+2020/10/17-14:12:28.383 b80 Level-0 table #269: started
+2020/10/17-14:12:28.397 b80 Level-0 table #269: 990412 bytes OK
+2020/10/17-14:12:28.398 b80 Delete type=0 #264
+2020/10/17-14:12:28.402 b80 Compacting 1@0 + 2@1 files
+2020/10/17-14:12:28.464 b80 Generated table #270@0: 89635 keys, 2243351 bytes
+2020/10/17-14:12:28.499 b80 Generated table #271@0: 33250 keys, 2126299 bytes
+2020/10/17-14:12:28.499 b80 Compacted 1@0 + 2@1 files => 4369650 bytes
+2020/10/17-14:12:28.500 b80 compacted to: files[ 0 2 4 0 0 0 0 ]
+2020/10/17-14:12:28.500 b80 Delete type=2 #266
+2020/10/17-14:12:28.500 b80 Delete type=2 #269
+2020/10/17-14:12:28.500 b80 Delete type=2 #267
+2020/10/17-14:12:28.545 b80 Level-0 table #273: started
+2020/10/17-14:12:28.563 b80 Level-0 table #273: 988728 bytes OK
+2020/10/17-14:12:28.564 b80 Delete type=0 #268
+2020/10/17-14:12:28.568 b80 Compacting 1@0 + 2@1 files
+2020/10/17-14:12:28.628 b80 Generated table #274@0: 104128 keys, 2259861 bytes
+2020/10/17-14:12:28.667 b80 Generated table #275@0: 15192 keys, 2157205 bytes
+2020/10/17-14:12:28.698 b80 Generated table #276@0: 28099 keys, 861144 bytes
+2020/10/17-14:12:28.698 b80 Compacted 1@0 + 2@1 files => 5278210 bytes
+2020/10/17-14:12:28.699 b80 compacted to: files[ 0 3 4 0 0 0 0 ]
+2020/10/17-14:12:28.699 b80 Delete type=2 #271
+2020/10/17-14:12:28.699 b80 Delete type=2 #273
+2020/10/17-14:12:28.699 b80 Delete type=2 #270
+2020/10/17-14:12:28.763 b80 Level-0 table #278: started
+2020/10/17-14:12:28.779 b80 Level-0 table #278: 991095 bytes OK
+2020/10/17-14:12:28.780 b80 Delete type=0 #272
+2020/10/17-14:12:28.786 b80 Compacting 1@0 + 3@1 files
+2020/10/17-14:12:28.854 b80 Generated table #279@0: 118648 keys, 2276527 bytes
+2020/10/17-14:12:28.883 b80 Generated table #280@0: 15485 keys, 2158040 bytes
+2020/10/17-14:12:28.913 b80 Generated table #281@0: 37820 keys, 1754173 bytes
+2020/10/17-14:12:28.913 b80 Compacted 1@0 + 3@1 files => 6188740 bytes
+2020/10/17-14:12:28.914 b80 compacted to: files[ 0 3 4 0 0 0 0 ]
+2020/10/17-14:12:28.914 b80 Delete type=2 #276
+2020/10/17-14:12:28.914 b80 Delete type=2 #278
+2020/10/17-14:12:28.914 b80 Delete type=2 #275
+2020/10/17-14:12:28.914 b80 Delete type=2 #274
+2020/10/17-14:12:28.937 b80 Level-0 table #283: started
+2020/10/17-14:12:28.951 b80 Level-0 table #283: 991525 bytes OK
+2020/10/17-14:12:28.952 b80 Delete type=0 #277
+2020/10/17-14:12:28.956 b80 Compacting 1@0 + 3@1 files
+2020/10/17-14:12:29.023 b80 Generated table #284@0: 133251 keys, 2292717 bytes
+2020/10/17-14:12:29.051 b80 Generated table #285@0: 15677 keys, 2157982 bytes
+2020/10/17-14:12:29.083 b80 Generated table #286@0: 14537 keys, 2155730 bytes
+2020/10/17-14:12:29.101 b80 Generated table #287@0: 33022 keys, 493313 bytes
+2020/10/17-14:12:29.101 b80 Compacted 1@0 + 3@1 files => 7099742 bytes
+2020/10/17-14:12:29.102 b80 compacted to: files[ 0 4 4 0 0 0 0 ]
+2020/10/17-14:12:29.102 b80 Delete type=2 #283
+2020/10/17-14:12:29.102 b80 Delete type=2 #280
+2020/10/17-14:12:29.102 b80 Delete type=2 #281
+2020/10/17-14:12:29.102 b80 Delete type=2 #279
+2020/10/17-14:12:29.107 b80 Level-0 table #289: started
+2020/10/17-14:12:29.123 b80 Level-0 table #289: 999062 bytes OK
+2020/10/17-14:12:29.125 b80 Delete type=0 #282
+2020/10/17-14:12:29.129 b80 Compacting 1@0 + 4@1 files
+2020/10/17-14:12:29.244 b80 Generated table #290@0: 147969 keys, 2310484 bytes
+2020/10/17-14:12:29.277 b80 Generated table #291@0: 15769 keys, 2158673 bytes
+2020/10/17-14:12:29.302 b80 Generated table #292@0: 14540 keys, 2155990 bytes
+2020/10/17-14:12:29.325 b80 Generated table #293@0: 42743 keys, 1392679 bytes
+2020/10/17-14:12:29.325 b80 Compacted 1@0 + 4@1 files => 8017826 bytes
+2020/10/17-14:12:29.326 b80 compacted to: files[ 0 4 4 0 0 0 0 ]
+2020/10/17-14:12:29.351 b80 Level-0 table #295: started
+2020/10/17-14:12:29.370 b80 Level-0 table #295: 1092926 bytes OK
+2020/10/17-14:12:29.371 b80 Delete type=0 #288
+2020/10/17-14:12:29.508 b80 Level-0 table #297: started
+2020/10/17-14:12:29.532 b80 Level-0 table #297: 937412 bytes OK
+2020/10/17-14:12:29.534 b80 Delete type=0 #294
+2020/10/17-14:12:32.342 b80 Level-0 table #299: started
+2020/10/17-14:12:32.363 b80 Level-0 table #299: 810427 bytes OK
+2020/10/17-14:12:32.363 6b1a4 Current memtable full; waiting...
+2020/10/17-14:12:32.364 b80 Delete type=0 #296
+2020/10/17-14:12:32.364 b80 Delete type=2 #285
+2020/10/17-14:12:32.364 b80 Delete type=2 #286
+2020/10/17-14:12:32.364 b80 Delete type=2 #289
+2020/10/17-14:12:32.364 b80 Delete type=2 #287
+2020/10/17-14:12:32.364 b80 Delete type=2 #284
+2020/10/17-14:12:32.365 b80 Level-0 table #301: started
+2020/10/17-14:12:32.379 b80 Level-0 table #301: 1175299 bytes OK
+2020/10/17-14:12:32.381 b80 Delete type=0 #298
+2020/10/17-14:12:32.381 b80 Compacting 4@0 + 4@1 files
+2020/10/17-14:12:32.386 b80 Level-0 table #304: started
+2020/10/17-14:12:32.401 b80 Level-0 table #304: 1293102 bytes OK
+2020/10/17-14:12:32.403 b80 Delete type=0 #300
+2020/10/17-14:12:32.411 b80 Level-0 table #306: started
+2020/10/17-14:12:32.425 b80 Level-0 table #306: 1289693 bytes OK
+2020/10/17-14:12:32.427 b80 Delete type=0 #303
+2020/10/17-14:12:32.433 b80 Level-0 table #308: started
+2020/10/17-14:12:32.451 b80 Level-0 table #308: 1297955 bytes OK
+2020/10/17-14:12:32.452 b80 Delete type=0 #305
+2020/10/17-14:12:32.474 b80 Level-0 table #310: started
+2020/10/17-14:12:32.493 b80 Level-0 table #310: 1338117 bytes OK
+2020/10/17-14:12:32.495 b80 Delete type=0 #307
+2020/10/17-14:12:32.695 b80 Generated table #302@0: 240341 keys, 2426544 bytes
+2020/10/17-14:12:32.728 b80 Generated table #311@0: 14689 keys, 2155163 bytes
+2020/10/17-14:12:32.755 b80 Generated table #312@0: 14538 keys, 2155787 bytes
+2020/10/17-14:12:32.782 b80 Generated table #313@0: 45847 keys, 1510161 bytes
+2020/10/17-14:12:32.782 b80 Compacted 4@0 + 4@1 files => 8247655 bytes
+2020/10/17-14:12:32.783 b80 compacted to: files[ 4 4 4 0 0 0 0 ]
+2020/10/17-14:12:32.783 b80 Delete type=2 #299
+2020/10/17-14:12:32.783 b80 Delete type=2 #291
+2020/10/17-14:12:32.783 b80 Delete type=2 #301
+2020/10/17-14:12:32.783 b80 Delete type=2 #293
+2020/10/17-14:12:32.783 b80 Delete type=2 #295
+2020/10/17-14:12:32.783 b80 Delete type=2 #292
+2020/10/17-14:12:32.783 b80 Delete type=2 #297
+2020/10/17-14:12:32.783 b80 Delete type=2 #290
+2020/10/17-14:12:32.784 b80 Compacting 4@0 + 4@1 files
+2020/10/17-14:12:32.805 b80 Level-0 table #316: started
+2020/10/17-14:12:32.826 b80 Level-0 table #316: 1026041 bytes OK
+2020/10/17-14:12:32.827 b80 Delete type=0 #309
+2020/10/17-14:12:32.974 b80 Generated table #314@0: 245158 keys, 2431707 bytes
+2020/10/17-14:12:33.005 b80 Level-0 table #319: started
+2020/10/17-14:12:33.023 b80 Level-0 table #319: 941777 bytes OK
+2020/10/17-14:12:33.024 b80 Delete type=0 #315
+2020/10/17-14:12:33.033 b80 Generated table #317@0: 13392 keys, 2149599 bytes
+2020/10/17-14:12:33.076 b80 Generated table #320@0: 13368 keys, 2149657 bytes
+2020/10/17-14:12:33.134 b80 Generated table #321@0: 43497 keys, 1891601 bytes
+2020/10/17-14:12:33.134 b80 Compacted 4@0 + 4@1 files => 8622564 bytes
+2020/10/17-14:12:33.135 b80 compacted to: files[ 2 4 4 0 0 0 0 ]
+2020/10/17-14:12:33.135 b80 Delete type=2 #302
+2020/10/17-14:12:33.135 b80 Delete type=2 #313
+2020/10/17-14:12:33.135 b80 Delete type=2 #308
+2020/10/17-14:12:33.135 b80 Delete type=2 #310
+2020/10/17-14:12:33.135 b80 Delete type=2 #312
+2020/10/17-14:12:33.135 b80 Delete type=2 #304
+2020/10/17-14:12:33.135 b80 Delete type=2 #306
+2020/10/17-14:12:33.135 b80 Delete type=2 #311
+2020/10/17-14:12:33.137 b80 Compacting 2@0 + 4@1 files
+2020/10/17-14:12:33.199 b80 Level-0 table #324: started
+2020/10/17-14:12:33.217 b80 Level-0 table #324: 893050 bytes OK
+2020/10/17-14:12:33.218 b80 Delete type=0 #318
+2020/10/17-14:12:33.299 b80 Generated table #322@0: 271262 keys, 2462406 bytes
+2020/10/17-14:12:33.336 b80 Generated table #325@0: 34214 keys, 2173807 bytes
+2020/10/17-14:12:33.368 b80 Generated table #326@0: 13408 keys, 2150056 bytes
+2020/10/17-14:12:33.397 b80 Generated table #327@0: 14528 keys, 2152919 bytes
+2020/10/17-14:12:33.421 b80 Generated table #328@0: 9780 keys, 766548 bytes
+2020/10/17-14:12:33.421 b80 Compacted 2@0 + 4@1 files => 9705736 bytes
+2020/10/17-14:12:33.422 b80 compacted to: files[ 1 5 4 0 0 0 0 ]
+2020/10/17-14:12:33.422 b80 Delete type=2 #321
+2020/10/17-14:12:33.422 b80 Delete type=2 #317
+2020/10/17-14:12:33.422 b80 Delete type=2 #320
+2020/10/17-14:12:33.422 b80 Delete type=2 #319
+2020/10/17-14:12:33.422 b80 Delete type=2 #316
+2020/10/17-14:12:33.422 b80 Delete type=2 #314
+2020/10/17-14:12:33.424 b80 Compacting 1@0 + 5@1 files
+2020/10/17-14:12:33.439 b80 Level-0 table #331: started
+2020/10/17-14:12:33.455 b80 Level-0 table #331: 964849 bytes OK
+2020/10/17-14:12:33.456 b80 Delete type=0 #323
+2020/10/17-14:12:33.627 b80 Generated table #329@0: 273521 keys, 2465840 bytes
+2020/10/17-14:12:33.685 b80 Generated table #332@0: 46899 keys, 2189684 bytes
+2020/10/17-14:12:33.718 b80 Generated table #333@0: 13408 keys, 2150118 bytes
+2020/10/17-14:12:33.747 b80 Generated table #334@0: 14465 keys, 2152661 bytes
+2020/10/17-14:12:33.771 b80 Generated table #335@0: 19433 keys, 1559832 bytes
+2020/10/17-14:12:33.771 b80 Compacted 1@0 + 5@1 files => 10518135 bytes
+2020/10/17-14:12:33.772 b80 compacted to: files[ 1 5 4 0 0 0 0 ]
+2020/10/17-14:12:33.772 b80 Delete type=2 #328
+2020/10/17-14:12:33.772 b80 Delete type=2 #324
+2020/10/17-14:12:33.772 b80 Delete type=2 #326
+2020/10/17-14:12:33.772 b80 Delete type=2 #322
+2020/10/17-14:12:33.772 b80 Delete type=2 #327
+2020/10/17-14:12:33.772 b80 Delete type=2 #325
+2020/10/17-14:12:33.774 b80 Compacting 1@1 + 1@2 files
+2020/10/17-14:12:33.797 b80 Generated table #336@1: 21840 keys, 1912814 bytes
+2020/10/17-14:12:33.797 b80 Compacted 1@1 + 1@2 files => 1912814 bytes
+2020/10/17-14:12:33.798 b80 compacted to: files[ 1 4 4 0 0 0 0 ]
+2020/10/17-14:12:33.798 b80 Compacting 1@0 + 4@1 files
+2020/10/17-14:12:33.807 b80 Level-0 table #339: started
+2020/10/17-14:12:33.824 b80 Level-0 table #339: 989182 bytes OK
+2020/10/17-14:12:33.825 b80 Delete type=2 #256
+2020/10/17-14:12:33.825 b80 Delete type=2 #335
+2020/10/17-14:12:33.825 b80 Delete type=0 #330
+2020/10/17-14:12:33.954 b80 Generated table #337@0: 273785 keys, 2465303 bytes
+2020/10/17-14:12:33.980 b80 Level-0 table #342: started
+2020/10/17-14:12:33.995 b80 Level-0 table #342: 990579 bytes OK
+2020/10/17-14:12:33.996 b80 Delete type=0 #338
+2020/10/17-14:12:34.012 b80 Generated table #340@0: 61547 keys, 2207164 bytes
+2020/10/17-14:12:34.043 b80 Generated table #343@0: 13408 keys, 2150533 bytes
+2020/10/17-14:12:34.080 b80 Generated table #344@0: 14319 keys, 2152437 bytes
+2020/10/17-14:12:34.095 b80 Generated table #345@0: 9770 keys, 867796 bytes
+2020/10/17-14:12:34.095 b80 Compacted 1@0 + 4@1 files => 9843233 bytes
+2020/10/17-14:12:34.096 b80 compacted to: files[ 2 5 4 0 0 0 0 ]
+2020/10/17-14:12:34.096 b80 Delete type=2 #329
+2020/10/17-14:12:34.096 b80 Delete type=2 #332
+2020/10/17-14:12:34.096 b80 Delete type=2 #331
+2020/10/17-14:12:34.096 b80 Delete type=2 #334
+2020/10/17-14:12:34.096 b80 Delete type=2 #333
+2020/10/17-14:12:34.098 b80 Compacting 2@0 + 5@1 files
+2020/10/17-14:12:34.158 b80 Level-0 table #348: started
+2020/10/17-14:12:34.174 b80 Level-0 table #348: 987247 bytes OK
+2020/10/17-14:12:34.175 b80 Delete type=0 #341
+2020/10/17-14:12:34.261 b80 Generated table #346@0: 273785 keys, 2465258 bytes
+2020/10/17-14:12:34.317 b80 Generated table #349@0: 91411 keys, 2241888 bytes
+2020/10/17-14:12:34.343 b80 Generated table #350@0: 13392 keys, 2149794 bytes
+2020/10/17-14:12:34.353 b80 Level-0 table #353: started
+2020/10/17-14:12:34.367 b80 Level-0 table #353: 992964 bytes OK
+2020/10/17-14:12:34.368 b80 Delete type=0 #347
+2020/10/17-14:12:34.386 b80 Generated table #351@0: 13837 keys, 2150482 bytes
+2020/10/17-14:12:34.418 b80 Generated table #354@0: 14987 keys, 2155629 bytes
+2020/10/17-14:12:34.428 b80 Generated table #355@0: 14485 keys, 498520 bytes
+2020/10/17-14:12:34.428 b80 Compacted 2@0 + 5@1 files => 11661571 bytes
+2020/10/17-14:12:34.429 b80 compacted to: files[ 2 6 4 0 0 0 0 ]
+2020/10/17-14:12:34.429 b80 Delete type=2 #337
+2020/10/17-14:12:34.429 b80 Delete type=2 #343
+2020/10/17-14:12:34.429 b80 Delete type=2 #340
+2020/10/17-14:12:34.429 b80 Delete type=2 #345
+2020/10/17-14:12:34.429 b80 Delete type=2 #339
+2020/10/17-14:12:34.429 b80 Delete type=2 #344
+2020/10/17-14:12:34.429 b80 Delete type=2 #342
+2020/10/17-14:12:34.431 b80 Compacting 1@1 + 1@2 files
+2020/10/17-14:12:34.462 b80 Generated table #356@1: 18282 keys, 2161251 bytes
+2020/10/17-14:12:34.469 b80 Generated table #357@1: 18043 keys, 250010 bytes
+2020/10/17-14:12:34.469 b80 Compacted 1@1 + 1@2 files => 2411261 bytes
+2020/10/17-14:12:34.470 b80 compacted to: files[ 2 5 5 0 0 0 0 ]
+2020/10/17-14:12:34.470 b80 Expanding@1 1+4 (2465258+8654890 bytes) to 5+4 (11163051+8654890 bytes)
+2020/10/17-14:12:34.470 b80 Compacting 5@1 + 4@2 files
+2020/10/17-14:12:34.542 b80 Level-0 table #360: started
+2020/10/17-14:12:34.559 b80 Level-0 table #360: 992095 bytes OK
+2020/10/17-14:12:34.560 b80 Delete type=2 #336
+2020/10/17-14:12:34.560 b80 Delete type=0 #352
+2020/10/17-14:12:34.560 b80 Delete type=2 #355
+2020/10/17-14:12:34.618 b80 Generated table #358@1: 125443 keys, 2282312 bytes
+2020/10/17-14:12:34.643 b80 Generated table #361@1: 13376 keys, 2149665 bytes
+2020/10/17-14:12:34.682 b80 Generated table #362@1: 13376 keys, 2149246 bytes
+2020/10/17-14:12:34.709 b80 Generated table #363@1: 15441 keys, 2155999 bytes
+2020/10/17-14:12:34.734 b80 Generated table #364@1: 15379 keys, 2157193 bytes
+2020/10/17-14:12:34.737 b80 Generated table #365@1: 3853 keys, 176695 bytes
+2020/10/17-14:12:34.737 b80 Compacted 5@1 + 4@2 files => 11071110 bytes
+2020/10/17-14:12:34.738 b80 compacted to: files[ 3 0 7 0 0 0 0 ]
+2020/10/17-14:12:34.738 b80 Delete type=2 #350
+2020/10/17-14:12:34.738 b80 Delete type=2 #254
+2020/10/17-14:12:34.738 b80 Delete type=2 #356
+2020/10/17-14:12:34.738 b80 Delete type=2 #354
+2020/10/17-14:12:34.738 b80 Delete type=2 #351
+2020/10/17-14:12:34.738 b80 Delete type=2 #251
+2020/10/17-14:12:34.738 b80 Delete type=2 #255
+2020/10/17-14:12:34.738 b80 Delete type=2 #346
+2020/10/17-14:12:34.738 b80 Delete type=2 #349
+2020/10/17-14:12:34.741 b80 Level-0 table #367: started
+2020/10/17-14:12:34.755 b80 Level-0 table #367: 998869 bytes OK
+2020/10/17-14:12:34.756 b80 Delete type=0 #359
+2020/10/17-14:12:34.758 b80 Compacting 4@0 + 0@1 files
+2020/10/17-14:12:34.830 b80 Generated table #368@0: 73775 keys, 2224723 bytes
+2020/10/17-14:12:34.860 b80 Generated table #369@0: 24363 keys, 1424425 bytes
+2020/10/17-14:12:34.860 b80 Compacted 4@0 + 0@1 files => 3649148 bytes
+2020/10/17-14:12:34.861 b80 compacted to: files[ 0 2 7 0 0 0 0 ]
+2020/10/17-14:12:34.951 b80 Level-0 table #371: started
+2020/10/17-14:12:34.979 b80 Level-0 table #371: 972752 bytes OK
+2020/10/17-14:12:34.980 b80 Delete type=0 #366
+2020/10/17-14:12:35.118 b80 Level-0 table #373: started
+2020/10/17-14:12:35.145 b80 Level-0 table #373: 937379 bytes OK
+2020/10/17-14:12:35.147 b80 Delete type=0 #370

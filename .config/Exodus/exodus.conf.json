@@ -1,0 +1,91 @@
+{
+  "meta": {
+    "configVersion": "1.0.0",
+    "exodusVersionCreated": "20.5.10",
+    "exodusVersionUpdated": "20.5.10",
+    "createdAt": "Wed May 27 2020 01:19:13 GMT+0200 (Central European Summer Time)",
+    "updatedAt": "Tue Jun 09 2020 08:48:40 GMT+0200 (Central European Summer Time)"
+  },
+  "data": {
+    "fiat": {
+      "unit": "EUR"
+    },
+    "theme": {
+      "name": "origin"
+    },
+    "notifications": {
+      "tx": {
+        "received": {
+          "enabled": true
+        }
+      }
+    },
+    "portfolio": {
+      "sort": {
+        "order": "balance",
+        "direction": "normal"
+      }
+    },
+    "lockDuration": null,
+    "hardware": {
+      "listenForNewDevices": true,
+      "rememberDevices": true,
+      "hiddenWalletAccounts": {}
+    },
+    "rbfEnabled": {},
+    "nanoCustomRepresentative": null,
+    "moneroCustomNodeUrl": null,
+    "sounds": {
+      "all": {
+        "enabled": true,
+        "volume": 1
+      }
+    },
+    "advanced": {
+      "advancedMode": {
+        "enabled": false
+      }
+    },
+    "dapps": {
+      "hiddenDapps": {}
+    },
+    "assets": {
+      "bnbmainnet": {
+        "disabled": true
+      },
+      "bitcoinsv": {
+        "disabled": true
+      },
+      "chainlink": {
+        "disabled": true
+      },
+      "eosio": {
+        "disabled": true
+      },
+      "stellar": {
+        "disabled": true
+      },
+      "tezos": {
+        "disabled": true
+      },
+      "tronmainnet": {
+        "disabled": true
+      },
+      "ripple": {
+        "disabled": true
+      },
+      "tetherusd": {
+        "disabled": true
+      },
+      "ethereum": {
+        "disabled": false
+      },
+      "bitcoin": {
+        "disabled": false
+      },
+      "dash": {
+        "disabled": false
+      }
+    }
+  }
+}

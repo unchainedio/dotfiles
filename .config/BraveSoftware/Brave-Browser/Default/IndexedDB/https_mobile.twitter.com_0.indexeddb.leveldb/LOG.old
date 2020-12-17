@@ -1,0 +1,8 @@
+2020/12/01-16:27:16.676 1ef8 Reusing MANIFEST /home/unchained/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mobile.twitter.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/01-16:27:16.676 1ef8 Recovering log #30
+2020/12/01-16:27:16.676 1ef8 Reusing old log /home/unchained/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mobile.twitter.com_0.indexeddb.leveldb/000030.log 
+2020/12/01-16:27:48.926 1f16 Level-0 table #35: started
+2020/12/01-16:27:48.926 1f16 Level-0 table #35: 0 bytes OK
+2020/12/01-16:27:48.939 1f16 Delete type=0 #30
+2020/12/01-16:27:48.939 1f16 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/12/01-16:27:48.940 1f16 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

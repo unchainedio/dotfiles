@@ -1,0 +1,13 @@
+2020/11/26-12:37:15.604 820f Reusing MANIFEST /home/unchained/.config/Popcorn-Time/Default/IndexedDB/chrome-extension_hecfofbbdfadifpemejbbdcjmfmboohj_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/26-12:37:15.604 820f Recovering log #122
+2020/11/26-12:37:15.604 820f Reusing old log /home/unchained/.config/Popcorn-Time/Default/IndexedDB/chrome-extension_hecfofbbdfadifpemejbbdcjmfmboohj_0.indexeddb.leveldb/000122.log 
+2020/11/26-12:54:05.351 87ff Level-0 table #127: started
+2020/11/26-12:54:05.356 87ff Level-0 table #127: 1088 bytes OK
+2020/11/26-12:54:05.358 87ff Delete type=0 #122
+2020/11/26-12:54:05.359 87ff Manual compaction at level-0 from '\x00 \x00\x00\x00' @ 72057594037927935 : 1 .. '\x00!\x00\x00\x00' @ 0 : 0; will stop at '\x00 \x00\x00\xc8\x08\x00m\x00e\x00t\x00a\x00d\x00a\x00t\x00a' @ 2004 : 1
+2020/11/26-12:54:05.359 87ff Compacting 1@0 + 1@1 files
+2020/11/26-12:54:05.363 87ff Generated table #128@0: 20 keys, 623 bytes
+2020/11/26-12:54:05.363 87ff Compacted 1@0 + 1@1 files => 623 bytes
+2020/11/26-12:54:05.365 87ff compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/11/26-12:54:05.365 87ff Delete type=2 #127
+2020/11/26-12:54:05.366 87ff Manual compaction at level-0 from '\x00 \x00\x00\xc8\x08\x00m\x00e\x00t\x00a\x00d\x00a\x00t\x00a' @ 2004 : 1 .. '\x00!\x00\x00\x00' @ 0 : 0; will stop at (end)

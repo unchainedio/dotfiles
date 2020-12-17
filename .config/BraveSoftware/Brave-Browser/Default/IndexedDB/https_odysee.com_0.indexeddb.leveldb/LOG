@@ -1,0 +1,20 @@
+2020/12/16-19:36:51.054 14dc Reusing MANIFEST /home/unchained/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_odysee.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/16-19:36:51.055 14dc Recovering log #924
+2020/12/16-19:36:51.075 14dc Reusing old log /home/unchained/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_odysee.com_0.indexeddb.leveldb/000924.log 
+2020/12/16-19:46:52.935 16d8 Level-0 table #928: started
+2020/12/16-19:46:52.985 16d8 Level-0 table #928: 4190994 bytes OK
+2020/12/16-19:46:52.990 16d8 Delete type=0 #924
+2020/12/16-20:36:52.853 2711 Compacting 3@0 + 1@1 files
+2020/12/16-20:36:52.869 2711 Generated table #929@0: 13459 keys, 159585 bytes
+2020/12/16-20:36:52.869 2711 Compacted 3@0 + 1@1 files => 159585 bytes
+2020/12/16-20:36:52.870 2711 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/12/16-20:36:52.870 2711 Delete type=2 #925
+2020/12/16-20:36:52.870 2711 Delete type=2 #921
+2020/12/16-20:36:52.870 2711 Delete type=2 #928
+2020/12/16-20:36:52.870 2711 Delete type=2 #923
+2020/12/17-02:19:56.471 570d Level-0 table #931: started
+2020/12/17-02:19:56.484 570d Level-0 table #931: 4191509 bytes OK
+2020/12/17-02:19:56.485 570d Delete type=0 #927
+2020/12/17-05:44:59.449 8703 Level-0 table #933: started
+2020/12/17-05:44:59.477 8703 Level-0 table #933: 4192229 bytes OK
+2020/12/17-05:44:59.479 8703 Delete type=0 #930

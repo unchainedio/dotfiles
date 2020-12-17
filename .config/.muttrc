@@ -1,0 +1,9 @@
+#macro index <f2> '<change-folder>imaps://me@hytham.me@imap.fastmail.com:993<enter>'
+
+#folder-hook 'imaps:me@hytham.me@imap.fastmail.com:993' source '~/.mutt/imaps:me@hytham.me@imap.fastmail.com:993'
+
+source ~/.config/.mutt/fastmail.hytham
+
+#account-hook hytham.me 'set imap_user=me imap_pass=3msc6qezxgv8edd5'
+
+

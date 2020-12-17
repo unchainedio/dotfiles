@@ -1,0 +1,5 @@
+2020/06/28-13:26:35.676 2c605 Reusing MANIFEST /home/unchained/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_zapier.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/06/28-14:09:27.904 cfd Level-0 table #5: started
+2020/06/28-14:09:27.916 cfd Level-0 table #5: 823 bytes OK
+2020/06/28-14:09:27.917 cfd Delete type=0 #3
+2020/06/28-14:09:27.917 cfd Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,5 @@
+2020/05/29-11:22:26.631 782c Reusing MANIFEST /home/unchained/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_forum.syncthing.net_0.indexeddb.leveldb/MANIFEST-000001
+2020/05/29-11:24:15.482 db0 Level-0 table #5: started
+2020/05/29-11:24:15.489 db0 Level-0 table #5: 94667 bytes OK
+2020/05/29-11:24:15.491 db0 Delete type=0 #3
+2020/05/29-11:24:15.492 db0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

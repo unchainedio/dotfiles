@@ -1,0 +1,881 @@
+<!-- ========== FEATURE ========== -->
+<div feature="themes" class="feature-section">
+	<!-- ========== PAGE TITLE ========== -->
+	<header class="header page-title">
+		<div class="container">
+			<!-- For centering the content vertically -->
+			<div class="outer">
+				<div class="inner text-center">
+					<div class="breadcrumb">
+						<a href="#features" section="features">Features</a>
+						<i class="icon ion-chevron-right"></i>
+						<a href="#feature-details/themes">Themes</a>
+					</div> <!-- end breadcrumb -->
+					<div class="row" style="margin-top: 30px;">
+						<i class="icon ion-android-color-palette feature-icon"></i>
+						<h1>Themes</h1>
+						<h5>Choose between Light and Dark</h5>
+					</div>
+				</div> <!-- end inner -->
+			</div> <!-- end outer -->
+		</div> <!-- end container -->
+	</header>
+	<section class="se-section feature-intro single-feature">
+		<div class="col-md-6 col-md-push-6 zero-padding side-img">
+			<img src="images/features/themes_01.png" alt="" class="img-responsive">
+		</div> <!-- end side-img -->
+
+		<div class="container feature-desc">
+			<div class="row">
+				<div class="col-md-5 feature-info">
+					<h5>You can choose between Light and Dark theme, the one you like more!<br />Here is an example of the Light Theme looks...</h5>
+				</div>
+
+			</div> <!-- end row -->
+		</div> <!-- end container -->
+	</section>
+	<section class="se-section feature-intro single-feature primary-bg">
+		<div class="col-md-6 zero-padding side-img">
+			<img src="images/features/themes_02.png" alt="" class="img-responsive">
+		</div> <!-- end side-img -->
+
+		<div class="container feature-desc">
+			<div class="row">
+				<div class="col-md-5 col-md-push-7 feature-info">
+					<h5>... and that's the Dark Theme. More coming soon!</h5>
+				</div>
+
+			</div> <!-- end row -->
+		</div> <!-- end container -->
+	</section>
+</div>
+
+<!-- ========== FEATURE ========== -->
+<div feature="js_css" class="feature-section">
+	<!-- ========== PAGE TITLE ========== -->
+	<header class="header page-title">
+		<div class="container">
+			<!-- For centering the content vertically -->
+			<div class="outer">
+				<div class="inner text-center">
+					<div class="breadcrumb">
+						<a href="#features" section="features">Features</a>
+						<i class="icon ion-chevron-right"></i>
+						<a href="#feature-details/js_css">JS & CSS injection</a>
+					</div> <!-- end breadcrumb -->
+					<div class="row" style="margin-top: 30px;">
+						<i class="icon ion-code-working feature-icon"></i>
+						<h1>JS & CSS injection</h1>
+						<h5>Improve each app experience including JS code and styling independently</h5>
+					</div>
+				</div> <!-- end inner -->
+			</div> <!-- end outer -->
+		</div> <!-- end container -->
+	</header>
+	<section class="se-section feature-intro single-feature">
+		<div class="col-md-6 col-md-push-6 zero-padding side-img">
+			<img src="images/features/css_injection_01.png" alt="" class="img-responsive">
+		</div> <!-- end side-img -->
+
+		<div class="container feature-desc">
+			<div class="row">
+				<div class="col-md-5 feature-info">
+					<h5>Sometimes apps don't work just the way we expect from them. Perhaps you want that annoying notification bar to be hidden, or some button to be bigger or darker. With JS & CSS injection you can tweak all this details to improve your experience with any app.<br />This is how Google website normally looks like...</h5>
+				</div>
+
+			</div> <!-- end row -->
+		</div> <!-- end container -->
+	</section>
+	<section class="se-section feature-intro single-feature primary-bg">
+		<div class="col-md-6 zero-padding side-img">
+			<img src="images/features/css_injection_02.png" alt="" class="img-responsive">
+		</div> <!-- end side-img -->
+
+		<div class="container feature-desc">
+			<div class="row">
+				<div class="col-md-5 col-md-push-7 feature-info">
+					<h5 class="withImage">And this is how it looks after some simple CSS injection changing the search input style.</h5>
+					<div class="col-md-8 col-md-push-1 zero-padding side-img">
+						<img src="images/features/css_injection_03.png" alt="" class="img-responsive">
+					</div> <!-- end side-img -->
+				</div>
+
+			</div> <!-- end row -->
+		</div> <!-- end container -->
+	</section>
+	<section class="se-section feature-intro single-feature">
+		<div class="col-md-6 col-md-push-6 zero-padding side-img">
+			<img src="images/features/js_injection_01.png" alt="" class="img-responsive">
+		</div> <!-- end side-img -->
+
+		<div class="container feature-desc">
+			<div class="row">
+				<div class="col-md-5 feature-info">
+					<h5 class="withImage">And this is a quick example of JS injection... with a few lines of code.<br />You can do lots of things like refreshing the app after certain time, prevent buttons default functionality (or add your own to them), show/hide elements, etc.</h5>
+					<div class="col-md-8 col-md-push-2 zero-padding side-img">
+						<img src="images/features/js_injection_02.png" alt="" class="img-responsive">
+					</div> <!-- end side-img -->
+				</div>
+			</div>
+		</div> <!-- end container -->
+	</section>
+</div>
+
+<!-- ========== FEATURE ========== -->
+<div feature="ad_block" class="feature-section">
+	<!-- ========== PAGE TITLE ========== -->
+	<header class="header page-title">
+		<div class="container">
+			<!-- For centering the content vertically -->
+			<div class="outer">
+				<div class="inner text-center">
+					<div class="breadcrumb">
+						<a href="#features" section="features">Features</a>
+						<i class="icon ion-chevron-right"></i>
+						<a href="#feature-details/ad_block">Ad-block</a>
+					</div> <!-- end breadcrumb -->
+					<div class="row" style="margin-top: 30px;">
+						<i class="icon ion-alert-circled feature-icon"></i>
+						<h1>Ad-block</h1>
+						<h5>Prevent unwanted ads and pop ups</h5>
+					</div>
+				</div> <!-- end inner -->
+			</div> <!-- end outer -->
+		</div> <!-- end container -->
+	</header>
+	<section class="se-section feature-intro single-feature">
+		<div class="col-md-6 col-md-push-6 zero-padding side-img">
+			<img src="images/features/ad_block_01.png" alt="" class="img-responsive">
+		</div> <!-- end side-img -->
+
+		<div class="container feature-desc">
+			<div class="row">
+				<div class="col-md-5 feature-info">
+					<h5>No one wants to accidentally click on an ad, right? Sometimes apps put them in places where you are more likely to click them by mistake.</h5>
+				</div>
+
+			</div> <!-- end row -->
+		</div> <!-- end container -->
+	</section>
+	<section class="se-section feature-intro single-feature primary-bg">
+		<div class="col-md-6 zero-padding side-img">
+			<img src="images/features/ad_block_02.png" alt="" class="img-responsive">
+		</div> <!-- end side-img -->
+
+		<div class="container feature-desc">
+			<div class="row">
+				<div class="col-md-5 col-md-push-7 feature-info">
+					<h5>Don't worry, with Rambox you can choose to block all ads for each app.</h5>
+				</div>
+
+			</div> <!-- end row -->
+		</div> <!-- end container -->
+	</section>
+</div>
+
+<!-- ========== FEATURE ========== -->
+<div feature="dashboard" class="feature-section">
+	<!-- ========== PAGE TITLE ========== -->
+	<header class="header page-title">
+		<div class="container">
+			<!-- For centering the content vertically -->
+			<div class="outer">
+				<div class="inner text-center">
+					<div class="breadcrumb">
+						<a href="#features" section="features">Features</a>
+						<i class="icon ion-chevron-right"></i>
+						<a href="#feature-details/dashboard">Dashboard</a>
+					</div> <!-- end breadcrumb -->
+					<div class="row" style="margin-top: 30px;">
+						<i class="icon ion-grid feature-icon"></i>
+						<h1>Dashboard</h1>
+						<h5>Manage notifications for all of your groups in different panels</h5>
+					</div>
+				</div> <!-- end inner -->
+			</div> <!-- end outer -->
+		</div> <!-- end container -->
+	</header>
+	<section class="se-section feature-intro single-feature">
+		<div class="col-md-6 zero-padding col-md-push-6 side-img">
+			<img src="images/features/dashboard_01.png" alt="" class="img-responsive">
+		</div> <!-- end side-img -->
+
+		<div class="container feature-desc">
+			<div class="row">
+				<div class="col-md-5 feature-info">
+					<h5>What's a dashboard for? Instant and important information, of course!<br />With this feature you see all apps new notifications in one place. Also you can configure your most important apps to show here.</h5>
+				</div>
+
+			</div> <!-- end row -->
+		</div> <!-- end container -->
+	</section>
+</div>
+
+<!-- ========== FEATURE ========== -->
+<div feature="mobile_view" class="feature-section">
+	<!-- ========== PAGE TITLE ========== -->
+	<header class="header page-title">
+		<div class="container">
+			<!-- For centering the content vertically -->
+			<div class="outer">
+				<div class="inner text-center">
+					<div class="breadcrumb">
+						<a href="#features" section="features">Features</a>
+						<i class="icon ion-chevron-right"></i>
+						<a href="#feature-details/mobile_view">Mobile view</a>
+					</div> <!-- end breadcrumb -->
+					<div class="row" style="margin-top: 30px;">
+						<i class="icon ion-iphone feature-icon"></i>
+						<h1>Mobile view</h1>
+						<h5>See and use app's interface as you do in mobile platforms</h5>
+					</div>
+				</div> <!-- end inner -->
+			</div> <!-- end outer -->
+		</div> <!-- end container -->
+	</header>
+	<section class="se-section feature-intro single-feature">
+		<div class="col-md-6 zero-padding col-md-push-6 side-img">
+			<img src="images/features/mobile_view_01.png" alt="" class="img-responsive">
+		</div> <!-- end side-img -->
+
+		<div class="container feature-desc">
+			<div class="row">
+				<div class="col-md-5 feature-info">
+					<h5>You can choose to see each app as they would in a browser or as in a mobile device.<br />Here is an example of a browser view...</h5>
+				</div>
+
+			</div> <!-- end row -->
+		</div> <!-- end container -->
+	</section>
+	<section class="se-section feature-intro single-feature primary-bg">
+		<div class="col-md-6 zero-padding side-img">
+			<img src="images/features/mobile_view_02.png" alt="" class="img-responsive">
+		</div> <!-- end side-img -->
+
+		<div class="container feature-desc">
+			<div class="row">
+				<div class="col-md-5 col-md-push-7 feature-info">
+					<h5>And here is how you see the same app as a mobile view.<br />This is helpful in some cases when app's mobile view focuses on specific functions and, because they are meant for mobile devices, they show you a more clear and minimalistic view.</h5>
+				</div>
+
+			</div> <!-- end row -->
+		</div> <!-- end container -->
+	</section>
+</div>
+
+<!-- ========== FEATURE ========== -->
+<div feature="spell_check" class="feature-section">
+	<!-- ========== PAGE TITLE ========== -->
+	<header class="header page-title">
+		<div class="container">
+			<!-- For centering the content vertically -->
+			<div class="outer">
+				<div class="inner text-center">
+					<div class="breadcrumb">
+						<a href="#features" section="features">Features</a>
+						<i class="icon ion-chevron-right"></i>
+						<a href="#feature-details/spell_check">Spell check</a>
+					</div> <!-- end breadcrumb -->
+					<div class="row" style="margin-top: 30px;">
+						<i class="icon ion-checkmark-round feature-icon"></i>
+						<h1>Spell check</h1>
+						<h5>Spell errors are highlighted automatically</h5>
+					</div>
+				</div> <!-- end inner -->
+			</div> <!-- end outer -->
+		</div> <!-- end container -->
+	</header>
+	<section class="se-section feature-intro single-feature">
+		<div class="col-md-6 zero-padding col-md-push-6 side-img">
+			<img src="images/features/spell_check_01.png" alt="" class="img-responsive">
+		</div> <!-- end side-img -->
+
+		<div class="container feature-desc">
+			<div class="row">
+				<div class="col-md-5 feature-info">
+					<h5>Everyone makes mistakes. With the spell check you can be safe to know where are your misspells and typos and correct them.<br />Each app can be configured with different spell check language. This allow you to have one language for your personal apps and another for your work apps. Or when you use a specific app to comunicate with people speaking a different language than yours.</h5>
+				</div>
+
+			</div> <!-- end row -->
+		</div> <!-- end container -->
+	</section>
+</div>
+
+<!-- ========== FEATURE ========== -->
+<div feature="master_password" class="feature-section">
+	<!-- ========== PAGE TITLE ========== -->
+	<header class="header page-title">
+		<div class="container">
+			<!-- For centering the content vertically -->
+			<div class="outer">
+				<div class="inner text-center">
+					<div class="breadcrumb">
+						<a href="#features" section="features">Features</a>
+						<i class="icon ion-chevron-right"></i>
+						<a href="#feature-details/master_password">Master Password</a>
+					</div> <!-- end breadcrumb -->
+					<div class="row" style="margin-top: 30px;">
+						<i class="icon ion-android-lock feature-icon"></i>
+						<h1>Master Password</h1>
+						<h5>Keep your apps safe with a master password and prevent access to anyone but you.</h5>
+					</div>
+				</div> <!-- end inner -->
+			</div> <!-- end outer -->
+		</div> <!-- end container -->
+	</header>
+	<section class="se-section feature-intro single-feature">
+		<div class="col-md-6 zero-padding col-md-push-6 side-img">
+			<img src="images/features/master_password_01.png" alt="" class="img-responsive">
+		</div> <!-- end side-img -->
+
+		<div class="container feature-desc">
+			<div class="row">
+				<div class="col-md-5 feature-info">
+					<h5>Locking your Rambox account will protect all your apps to be seen by any casual user, or if you are in a free access computer (like a workstation). Each time you reopen Rambox or logout, you'll need to input this password to have access to your account.<br />This password is encrypted, no one knows it but you.</h5>
+				</div>
+
+			</div> <!-- end row -->
+		</div> <!-- end container -->
+	</section>
+</div>
+
+<!-- ========== FEATURE ========== -->
+<div feature="useragent" class="feature-section">
+	<!-- ========== PAGE TITLE ========== -->
+	<header class="header page-title">
+		<div class="container">
+			<!-- For centering the content vertically -->
+			<div class="outer">
+				<div class="inner text-center">
+					<div class="breadcrumb">
+						<a href="#features" section="features">Features</a>
+						<i class="icon ion-chevron-right"></i>
+						<a href="#feature-details/useragent">User Agent</a>
+					</div> <!-- end breadcrumb -->
+					<div class="row" style="margin-top: 30px;">
+						<i class="icon ion-person feature-icon"></i>
+						<h1>User Agent</h1>
+						<h5>Set specific user agent to load each app</h5>
+					</div>
+				</div> <!-- end inner -->
+			</div> <!-- end outer -->
+		</div> <!-- end container -->
+	</header>
+	<section class="se-section feature-intro single-feature">
+		<div class="col-md-6 zero-padding col-md-push-6 side-img">
+			<img src="images/features/user_agent_03.png" alt="" class="img-responsive">
+		</div> <!-- end side-img -->
+
+		<div class="container feature-desc">
+			<div class="row">
+				<div class="col-md-5 feature-info">
+					<h5>Sometimes the user agent matters. You can change it for every app so you'll get the results you want.<br />For example, here you can see the Rambox Slack viewed by the default user agent. Nothing weird.</h5>
+				</div>
+			</div> <!-- end row -->
+		</div> <!-- end container -->
+	</section>
+	<section class="se-section feature-intro single-feature primary-bg">
+		<div class="col-md-6 zero-padding side-img">
+			<img src="images/features/user_agent_01.png" alt="" class="img-responsive">
+		</div> <!-- end side-img -->
+
+		<div class="container feature-desc">
+			<div class="row">
+				<div class="col-md-5 col-md-push-7 feature-info">
+					<h5 class="withImage">But if you use other user agent maybe you get some different results. Sometimes changing the user agent will benefit you by viewing the app in a different wanted way. Sometimes you could go the other way.<br />For example, if you use the Android user agent in the previous example, you get this blocking result.</h5>
+					<div class="col-md-8 col-md-push-2 zero-padding side-img">
+						<img src="images/features/user_agent_02.png" alt="" class="img-responsive">
+					</div> <!-- end side-img -->
+				</div>
+			</div> <!-- end row -->
+		</div> <!-- end container -->
+	</section>
+</div>
+
+<!-- ========== FEATURE ========== -->
+<div feature="work_hours" class="feature-section">
+	<!-- ========== PAGE TITLE ========== -->
+	<header class="header page-title">
+		<div class="container">
+			<!-- For centering the content vertically -->
+			<div class="outer">
+				<div class="inner text-center">
+					<div class="breadcrumb">
+						<a href="#features" section="features">Features</a>
+						<i class="icon ion-chevron-right"></i>
+						<a href="#feature-details/work_hours">Work hours</a>
+					</div> <!-- end breadcrumb -->
+					<div class="row" style="margin-top: 30px;">
+						<i class="icon ion-android-alarm-clock feature-icon"></i>
+						<h1>Work hours</h1>
+						<h5>Set a range of hours to automatically "Do not Disturb" specific groups</h5>
+					</div>
+				</div> <!-- end inner -->
+			</div> <!-- end outer -->
+		</div> <!-- end container -->
+	</header>
+	<section class="se-section feature-intro single-feature">
+		<div class="col-md-3 zero-padding col-md-push-6 side-img" style="margin-top: 6em;">
+			<img src="images/features/work_hours_02.png" alt="" class="img-responsive">
+		</div> <!-- end side-img -->
+
+		<div class="container feature-desc">
+			<div class="row">
+				<div class="col-md-3 col-md-push-2 feature-info">
+					<h5>You can configure a "Do not Disturb" range of hours for each group of apps, so you won't get notifications from work.</h5>
+				</div>
+
+			</div> <!-- end row -->
+		</div> <!-- end container -->
+	</section>
+	<section class="se-section feature-intro single-feature primary-bg">
+		<div class="col-md-3 zero-padding col-md-push-3 side-img">
+			<img src="images/features/work_hours_01.png" alt="" class="img-responsive">
+		</div> <!-- end side-img -->
+
+		<div class="container feature-desc">
+			<div class="row">
+				<div class="col-md-3 col-md-push-6 feature-info">
+					<h5>You'll see the icon in the group tab automatically when you are in that range.</h5>
+				</div>
+
+			</div> <!-- end row -->
+		</div> <!-- end container -->
+	</section>
+</div>
+
+<!-- ========== FEATURE ========== -->
+<div feature="proxies" class="feature-section">
+	<!-- ========== PAGE TITLE ========== -->
+	<header class="header page-title">
+		<div class="container">
+			<!-- For centering the content vertically -->
+			<div class="outer">
+				<div class="inner text-center">
+					<div class="breadcrumb">
+						<a href="#features" section="features">Features</a>
+						<i class="icon ion-chevron-right"></i>
+						<a href="#feature-details/proxies">Proxies</a>
+					</div> <!-- end breadcrumb -->
+					<div class="row" style="margin-top: 30px;">
+						<i class="icon ion-shuffle feature-icon"></i>
+						<h1>Proxies</h1>
+						<h5>Use different proxies on each app</h5>
+					</div>
+				</div> <!-- end inner -->
+			</div> <!-- end outer -->
+		</div> <!-- end container -->
+	</header>
+	<section class="se-section feature-intro single-feature">
+		<div class="col-md-6 zero-padding col-md-push-6 side-img">
+			<img src="images/features/proxies_01.png" alt="" class="img-responsive">
+		</div> <!-- end side-img -->
+
+		<div class="container feature-desc">
+			<div class="row">
+				<div class="col-md-5 feature-info">
+					<h5>Some apps, websites and services are blocked for certain regions or you are in a restricted network where you can't access them.</h5>
+				</div>
+
+			</div> <!-- end row -->
+		</div> <!-- end container -->
+	</section>
+	<section class="se-section feature-intro single-feature primary-bg">
+		<div class="col-md-6 zero-padding side-img">
+			<img src="images/features/proxies_02.png" alt="" class="img-responsive">
+		</div> <!-- end side-img -->
+
+		<div class="container feature-desc">
+			<div class="row">
+				<div class="col-md-5 col-md-push-7 feature-info">
+					<h5>Bypass any restriction by setting out proxies for each app specifically.</h5>
+				</div>
+
+			</div> <!-- end row -->
+		</div> <!-- end container -->
+	</section>
+</div>
+
+<!-- ========== FEATURE ========== -->
+<div feature="quick_switcher" class="feature-section">
+	<!-- ========== PAGE TITLE ========== -->
+	<header class="header page-title">
+		<div class="container">
+			<!-- For centering the content vertically -->
+			<div class="outer">
+				<div class="inner text-center">
+					<div class="breadcrumb">
+						<a href="#features" section="features">Features</a>
+						<i class="icon ion-chevron-right"></i>
+						<a href="#feature-details/quick_switcher">Quick Switcher</a>
+					</div> <!-- end breadcrumb -->
+					<div class="row" style="margin-top: 30px;">
+						<i class="icon ion-ios-browsers feature-icon"></i>
+						<h1>Quick Switcher</h1>
+						<h5>Shotcut key for looking up any app in any group</h5>
+					</div>
+				</div> <!-- end inner -->
+			</div> <!-- end outer -->
+		</div> <!-- end container -->
+	</header>
+	<section class="se-section feature-intro single-feature">
+		<div class="col-md-6 zero-padding col-md-push-6 side-img">
+			<img src="images/features/quick_switcher_01.png" alt="" class="img-responsive">
+		</div> <!-- end side-img -->
+
+		<div class="container feature-desc">
+			<div class="row">
+				<div class="col-md-5 feature-info">
+					<h5>Don't bother going to that specific group and search for that specific app. Too much work. With this feature you can search any app in any group by its name. This is perfect if you have lots of apps or groups!<br /> Besides the search input, you'll see the first app of each group you have.</h5>
+				</div>
+
+			</div> <!-- end row -->
+		</div> <!-- end container -->
+	</section>
+</div>
+
+<!-- ========== FEATURE ========== -->
+<div feature="hibernation" class="feature-section">
+	<!-- ========== PAGE TITLE ========== -->
+	<header class="header page-title">
+		<div class="container">
+			<!-- For centering the content vertically -->
+			<div class="outer">
+				<div class="inner text-center">
+					<div class="breadcrumb">
+						<a href="#features" section="features">Features</a>
+						<i class="icon ion-chevron-right"></i>
+						<a href="#feature-details/hibernation">Hibernation</a>
+					</div> <!-- end breadcrumb -->
+					<div class="row" style="margin-top: 30px;">
+						<i class="icon ion-ios-moon feature-icon"></i>
+						<h1>Hibernation</h1>
+						<h5>Hibernate apps to free memory</h5>
+					</div>
+				</div> <!-- end inner -->
+			</div> <!-- end outer -->
+		</div> <!-- end container -->
+	</header>
+	<section class="se-section feature-intro single-feature">
+		<div class="col-md-6 zero-padding col-md-push-6 side-img">
+			<img src="images/features/hibernation_01.png" alt="" class="img-responsive">
+		</div> <!-- end side-img -->
+
+		<div class="container feature-desc">
+			<div class="row">
+				<div class="col-md-5 feature-info">
+					<h5>Rambox cares about productivity. That's why you can configure each app to hibernate when you don't need it.<br />This is really helpful when you have lots of apps. Or when you have apps you don't visit periodically but you want it at hand without consuming memory.</h5>
+				</div>
+
+			</div> <!-- end row -->
+		</div> <!-- end container -->
+	</section>
+</div>
+
+<!-- ========== FEATURE ========== -->
+<div feature="apply_styling" class="feature-section">
+	<!-- ========== PAGE TITLE ========== -->
+	<header class="header page-title">
+		<div class="container">
+			<!-- For centering the content vertically -->
+			<div class="outer">
+				<div class="inner text-center">
+					<div class="breadcrumb">
+						<a href="#features" section="features">Features</a>
+						<i class="icon ion-chevron-right"></i>
+						<a href="#feature-details/apply_styling">Apply Styling</a>
+					</div> <!-- end breadcrumb -->
+					<div class="row" style="margin-top: 30px;">
+						<i class="icon ion-paintbrush feature-icon"></i>
+						<h1>Apply Styling</h1>
+						<h5>Add your own CSS styling to apps for better looks</h5>
+					</div>
+				</div> <!-- end inner -->
+			</div> <!-- end outer -->
+		</div> <!-- end container -->
+	</header>
+	<section class="se-section feature-intro single-feature">
+		<div class="col-md-6 zero-padding col-md-push-6 side-img">
+			<img src="images/features/styling_01.png" alt="" class="img-responsive">
+		</div> <!-- end side-img -->
+
+		<div class="container feature-desc">
+			<div class="row">
+				<div class="col-md-5 feature-info">
+					<h5>You can include themes for each app by using a stylish service. Create your own set of styles or include one already created.This will change entirely the look and feel of your app.<br />For more information, go to <a href="http://userstyles.org" target="_blank">Stylish</a>.</h5>
+				</div>
+
+			</div> <!-- end row -->
+		</div> <!-- end container -->
+	</section>
+</div>
+
+<!-- ========== FEATURE ========== -->
+<div feature="prevent_notifications" class="feature-section">
+	<!-- ========== PAGE TITLE ========== -->
+	<header class="header page-title">
+		<div class="container">
+			<!-- For centering the content vertically -->
+			<div class="outer">
+				<div class="inner text-center">
+					<div class="breadcrumb">
+						<a href="#features" section="features">Features</a>
+						<i class="icon ion-chevron-right"></i>
+						<a href="#feature-details/prevent_notifications">Prevent notifications</a>
+					</div> <!-- end breadcrumb -->
+					<div class="row" style="margin-top: 30px;">
+						<i class="icon ion-android-volume-off feature-icon"></i>
+						<h1>Prevent notifications</h1>
+						<h5>Configure each app or group not to notify nor sound</h5>
+					</div>
+				</div> <!-- end inner -->
+			</div> <!-- end outer -->
+		</div> <!-- end container -->
+	</header>
+	<section class="se-section feature-intro single-feature">
+		<div class="col-md-3 zero-padding col-md-push-7 side-img">
+			<img src="images/features/prevent_notifications_01.png" alt="" class="img-responsive">
+		</div> <!-- end side-img -->
+
+		<div class="container feature-desc">
+			<div class="row">
+				<div class="col-md-3 col-md-push-3 feature-info">
+					<h5>Configure apps not to annoy you with notifications or sounds. You know, some apps are not THAT important...</h5>
+				</div>
+
+			</div> <!-- end row -->
+		</div> <!-- end container -->
+	</section>
+</div>
+
+<!-- ========== FEATURE ========== -->
+<div feature="sync_apps" class="feature-section">
+	<!-- ========== PAGE TITLE ========== -->
+	<header class="header page-title">
+		<div class="container">
+			<!-- For centering the content vertically -->
+			<div class="outer">
+				<div class="inner text-center">
+					<div class="breadcrumb">
+						<a href="#features" section="features">Features</a>
+						<i class="icon ion-chevron-right"></i>
+						<a href="#feature-details/sync_apps">Sync apps</a>
+					</div> <!-- end breadcrumb -->
+					<div class="row" style="margin-top: 30px;">
+						<i class="icon ion-loop feature-icon"></i>
+						<h1>Sync apps</h1>
+						<h5>Syncronize every app and app configuration between all your devices</h5>
+					</div>
+				</div> <!-- end inner -->
+			</div> <!-- end outer -->
+		</div> <!-- end container -->
+	</header>
+	<section class="se-section feature-intro single-feature">
+		<div class="col-md-6 col-md-push-6 zero-padding side-img">
+			<iframe width="630" height="355" src="https://www.useloom.com/embed/1530ac1f1f524e67b76f3ecf93801952" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+		</div> <!-- end side-img -->
+
+		<div class="container feature-desc">
+			<div class="col-md-5 col-md-push-1 feature-info">
+				<h5>Use Rambox anywhere you want. Don't bother to sync apps yourself... we do it for you. All your apps and configurations will be syncronize in real time on every device you're logged in.</h5>
+			</div>
+		</div> <!-- end container -->
+	</section>
+</div>
+
+<!-- ========== FEATURE ========== -->
+<div feature="custom_apps" class="feature-section">
+	<!-- ========== PAGE TITLE ========== -->
+	<header class="header page-title">
+		<div class="container">
+			<!-- For centering the content vertically -->
+			<div class="outer">
+				<div class="inner text-center">
+					<div class="breadcrumb">
+						<a href="#features" section="features">Features</a>
+						<i class="icon ion-chevron-right"></i>
+						<a href="#feature-details/custom_apps">Custom apps</a>
+					</div> <!-- end breadcrumb -->
+					<div class="row" style="margin-top: 30px;">
+						<i class="icon ion-social-buffer feature-icon"></i>
+						<h1>Custom apps</h1>
+						<h5>Create your own custom apps with high configurability</h5>
+					</div>
+				</div> <!-- end inner -->
+			</div> <!-- end outer -->
+		</div> <!-- end container -->
+	</header>
+	<section class="se-section feature-intro single-feature">
+		<div class="col-md-6 zero-padding col-md-push-6 side-img">
+			<img src="images/features/custom_apps_01.png" alt="" class="img-responsive">
+		</div> <!-- end side-img -->
+
+		<div class="container feature-desc">
+			<div class="row">
+				<div class="col-md-5 feature-info">
+					<h5>Rambox has lots of implemented apps. But there are so many of them arround. You can add a custom app and configure it complete.</h5>
+				</div>
+
+			</div> <!-- end row -->
+		</div> <!-- end container -->
+	</section>
+</div>
+
+<!-- ========== FEATURE ========== -->
+<div feature="do_not_disturb" class="feature-section">
+	<!-- ========== PAGE TITLE ========== -->
+	<header class="header page-title">
+		<div class="container">
+			<!-- For centering the content vertically -->
+			<div class="outer">
+				<div class="inner text-center">
+					<div class="breadcrumb">
+						<a href="#features" section="features">Features</a>
+						<i class="icon ion-chevron-right"></i>
+						<a href="#feature-details/do_not_disturb">Do not Disturb Mode</a>
+					</div> <!-- end breadcrumb -->
+					<div class="row" style="margin-top: 30px;">
+						<i class="icon ion-android-notifications-off feature-icon"></i>
+						<h1>Do not Disturb Mode</h1>
+						<h5>Prevent notifications and sounds any time you want</h5>
+					</div>
+				</div> <!-- end inner -->
+			</div> <!-- end outer -->
+		</div> <!-- end container -->
+	</header>
+	<section class="se-section feature-intro single-feature">
+		<div class="col-md-3 zero-padding col-md-push-7 side-img" style="margin-top: 20px;">
+			<img src="images/features/do_not_disturb_01.png" alt="" class="img-responsive">
+		</div> <!-- end side-img -->
+
+		<div class="container feature-desc">
+			<div class="row">
+				<div class="col-md-4 col-md-push-2 feature-info">
+					<h5>The classic "Do not Disturb" feature... prevent any unwanted noise or notification popup.</h5>
+				</div>
+
+			</div> <!-- end row -->
+		</div> <!-- end container -->
+	</section>
+</div>
+
+<!-- ========== FEATURE ========== -->
+<div feature="search_text" class="feature-section">
+	<!-- ========== PAGE TITLE ========== -->
+	<header class="header page-title">
+		<div class="container">
+			<!-- For centering the content vertically -->
+			<div class="outer">
+				<div class="inner text-center">
+					<div class="breadcrumb">
+						<a href="#features" section="features">Features</a>
+						<i class="icon ion-chevron-right"></i>
+						<a href="#feature-details/search_text">Search text per app</a>
+					</div> <!-- end breadcrumb -->
+					<div class="row" style="margin-top: 30px;">
+						<i class="icon ion-search feature-icon"></i>
+						<h1>Search text per app</h1>
+						<h5>Look up for any text in a app</h5>
+					</div>
+				</div> <!-- end inner -->
+			</div> <!-- end outer -->
+		</div> <!-- end container -->
+	</header>
+	<section class="se-section feature-intro single-feature">
+		<div class="col-md-6 zero-padding col-md-push-6 side-img">
+			<img src="images/features/search_01.png" alt="" class="img-responsive">
+		</div> <!-- end side-img -->
+
+		<div class="container feature-desc">
+			<div class="row">
+				<div class="col-md-5 feature-info">
+					<h5>Rambox can search words in each app individually by highlighting all the matches.</h5>
+				</div>
+
+			</div> <!-- end row -->
+		</div> <!-- end container -->
+	</section>
+</div>
+
+<!-- ========== FEATURE ========== -->
+<div feature="shortcuts" class="feature-section">
+	<!-- ========== PAGE TITLE ========== -->
+	<header class="header page-title">
+		<div class="container">
+			<!-- For centering the content vertically -->
+			<div class="outer">
+				<div class="inner text-center">
+					<div class="breadcrumb">
+						<a href="#features" section="features">Features</a>
+						<i class="icon ion-chevron-right"></i>
+						<a href="#feature-details/shortcuts">Shortcuts</a>
+					</div> <!-- end breadcrumb -->
+					<div class="row" style="margin-top: 30px;">
+						<i class="icon ion-forward feature-icon"></i>
+						<h1>Shortcuts</h1>
+						<h5>Use keyboard shortcuts to navigate easily</h5>
+					</div>
+				</div> <!-- end inner -->
+			</div> <!-- end outer -->
+		</div> <!-- end container -->
+	</header>
+	<section class="se-section feature-intro single-feature">
+		<div class="col-md-3 zero-padding col-md-push-7 side-img" style="margin-top: 40px;">
+			<img src="images/features/shortcuts_01.png" alt="" class="img-responsive">
+		</div> <!-- end side-img -->
+
+		<div class="container feature-desc">
+			<div class="row">
+				<div class="col-md-3 col-md-push-3 feature-info">
+					<h5>Every app has it. We're not the exception. Access views and apps with a combination of keys.<br />For example...</h5>
+				</div>
+
+			</div> <!-- end row -->
+		</div> <!-- end container -->
+	</section>
+</div>
+
+<!-- ========== FEATURE ========== -->
+<div feature="disable_apps" class="feature-section">
+	<!-- ========== PAGE TITLE ========== -->
+	<header class="header page-title">
+		<div class="container">
+			<!-- For centering the content vertically -->
+			<div class="outer">
+				<div class="inner text-center">
+					<div class="breadcrumb">
+						<a href="#features" section="features">Features</a>
+						<i class="icon ion-chevron-right"></i>
+						<a href="#feature-details/disable_apps">Disable apps</a>
+					</div> <!-- end breadcrumb -->
+					<div class="row" style="margin-top: 30px;">
+						<i class="icon ion-toggle-filled feature-icon"></i>
+						<h1>Disable apps</h1>
+						<h5>Enable and disable apps without delete them</h5>
+					</div>
+				</div> <!-- end inner -->
+			</div> <!-- end outer -->
+		</div> <!-- end container -->
+	</header>
+	<section class="se-section feature-intro single-feature">
+		<div class="col-md-6 zero-padding col-md-push-6 side-img">
+			<img src="images/features/disable_apps_01.png" alt="" class="img-responsive">
+		</div> <!-- end side-img -->
+
+		<div class="container feature-desc">
+			<div class="row">
+				<div class="col-md-5 feature-info">
+					<h5>You can temporarily disable any app you don't want to use. Without deleting it, you do to not loose any configurations you have.<br />This is useful if you have apps you use every now and then, but not all the time. Disabling them will save your computer some memory.</h5>
+				</div>
+
+			</div> <!-- end row -->
+		</div> <!-- end container -->
+	</section>
+</div>
+<script>
+$(function() {
+	if ( $('.feature-section.displayFeature').length == 0 ) {
+		changeSection('features.html', 'features');
+	}
+});
+</script>

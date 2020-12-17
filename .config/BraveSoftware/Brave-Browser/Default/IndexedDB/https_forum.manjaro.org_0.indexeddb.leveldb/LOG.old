@@ -1,0 +1,15 @@
+2020/12/13-00:20:06.798 3bff Reusing MANIFEST /home/unchained/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_forum.manjaro.org_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/13-00:20:06.798 3bff Recovering log #415
+2020/12/13-00:20:06.798 3bff Reusing old log /home/unchained/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_forum.manjaro.org_0.indexeddb.leveldb/000415.log 
+2020/12/13-00:21:36.568 3bff Level-0 table #420: started
+2020/12/13-00:21:36.573 3bff Level-0 table #420: 134314 bytes OK
+2020/12/13-00:21:36.575 3bff Delete type=0 #415
+2020/12/13-00:21:36.575 3bff Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/12/13-00:21:36.575 3bff Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01 \x03\x00p\x8e\x1f\x94ewB\x00\x01K\x00d\x00i\x00s\x00c\x00o\x00u\x00r\x00s\x00e\x00-\x001\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00f\x00o\x00r\x00u\x00m\x00.\x00m\x00a\x00n\x00j\x00a\x00r\x00o\x00.\x00o\x00r\x00g\x00/\x00c\x00a\x00t\x00e\x00g\x00o\x00r\x00i\x00e\x00s\x00.\x00j\x00s\x00o\x00n\x00?\x00p\x00a\x00r\x00e\x00n\x00t\x00_\x00c\x00a\x00t\x00e\x00g\x00o\x00r\x00y\x00_\x00i\x00d\x00=\x001\x001' @ 178047 : 1
+2020/12/13-00:21:36.575 3bff Compacting 1@1 + 1@2 files
+2020/12/13-00:21:36.583 3bff Generated table #421@1: 2149 keys, 180327 bytes
+2020/12/13-00:21:36.583 3bff Compacted 1@1 + 1@2 files => 180327 bytes
+2020/12/13-00:21:36.584 3bff compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/12/13-00:21:36.585 3bff Delete type=2 #417
+2020/12/13-00:21:36.585 3bff Delete type=2 #420
+2020/12/13-00:21:36.585 3bff Manual compaction at level-1 from '\x00\x01\x01 \x03\x00p\x8e\x1f\x94ewB\x00\x01K\x00d\x00i\x00s\x00c\x00o\x00u\x00r\x00s\x00e\x00-\x001\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00f\x00o\x00r\x00u\x00m\x00.\x00m\x00a\x00n\x00j\x00a\x00r\x00o\x00.\x00o\x00r\x00g\x00/\x00c\x00a\x00t\x00e\x00g\x00o\x00r\x00i\x00e\x00s\x00.\x00j\x00s\x00o\x00n\x00?\x00p\x00a\x00r\x00e\x00n\x00t\x00_\x00c\x00a\x00t\x00e\x00g\x00o\x00r\x00y\x00_\x00i\x00d\x00=\x001\x001' @ 178047 : 1 .. (end); will stop at (end)

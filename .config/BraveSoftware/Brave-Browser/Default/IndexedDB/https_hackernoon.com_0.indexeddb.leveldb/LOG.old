@@ -1,0 +1,5 @@
+2020/05/18-06:28:58.622 1cfad Reusing MANIFEST /home/unchained/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_hackernoon.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/05/18-06:33:01.174 1d0a3 Level-0 table #5: started
+2020/05/18-06:33:01.175 1d0a3 Level-0 table #5: 1113 bytes OK
+2020/05/18-06:33:01.177 1d0a3 Delete type=0 #3
+2020/05/18-06:33:01.177 1d0a3 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

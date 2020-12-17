@@ -1,0 +1,5 @@
+2020/08/16-13:45:02.393 1d408 Reusing MANIFEST /home/unchained/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.dailymail.co.uk_0.indexeddb.leveldb/MANIFEST-000001
+2020/08/16-13:45:34.424 d40 Level-0 table #5: started
+2020/08/16-13:45:34.427 d40 Level-0 table #5: 2075 bytes OK
+2020/08/16-13:45:34.429 d40 Delete type=0 #3
+2020/08/16-13:45:34.429 d40 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

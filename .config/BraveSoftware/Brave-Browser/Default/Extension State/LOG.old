@@ -1,0 +1,36 @@
+2020/12/15-18:26:08.543 5a1 Reusing MANIFEST /home/unchained/.config/BraveSoftware/Brave-Browser/Default/Extension State/MANIFEST-000001
+2020/12/15-18:26:08.544 5a1 Recovering log #1561
+2020/12/15-18:26:08.550 5a1 Reusing old log /home/unchained/.config/BraveSoftware/Brave-Browser/Default/Extension State/001561.log 
+2020/12/15-19:34:16.112 1f75 Level-0 table #1565: started
+2020/12/15-19:34:16.134 1f75 Level-0 table #1565: 3839135 bytes OK
+2020/12/15-19:34:16.137 1f75 Delete type=0 #1561
+2020/12/15-19:34:16.139 1c1e Compacting 4@0 + 1@1 files
+2020/12/15-19:34:16.161 1c1e Generated table #1566@0: 9 keys, 31568 bytes
+2020/12/15-19:34:16.161 1c1e Compacted 4@0 + 1@1 files => 31568 bytes
+2020/12/15-19:34:16.162 1c1e compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/12/15-19:34:16.163 1c1e Delete type=2 #1565
+2020/12/15-19:34:16.163 1c1e Delete type=2 #1556
+2020/12/15-19:34:16.163 1c1e Delete type=2 #1560
+2020/12/15-19:34:16.163 1c1e Delete type=2 #1562
+2020/12/15-19:34:16.163 1c1e Delete type=2 #1558
+2020/12/16-01:03:38.453 7062 Level-0 table #1568: started
+2020/12/16-01:03:38.474 7062 Level-0 table #1568: 3960820 bytes OK
+2020/12/16-01:03:38.476 7062 Delete type=0 #1564
+2020/12/16-05:23:54.491 b3b6 Level-0 table #1570: started
+2020/12/16-05:23:54.512 b3b6 Level-0 table #1570: 4112985 bytes OK
+2020/12/16-05:23:54.514 b3b6 Delete type=0 #1567
+2020/12/16-08:30:11.762 f616 Level-0 table #1572: started
+2020/12/16-08:30:11.782 f616 Level-0 table #1572: 3926675 bytes OK
+2020/12/16-08:30:11.787 f616 Delete type=0 #1569
+2020/12/16-12:04:58.471 14c92 Level-0 table #1574: started
+2020/12/16-12:04:58.493 14c92 Level-0 table #1574: 3923769 bytes OK
+2020/12/16-12:04:58.497 14c92 Delete type=0 #1571
+2020/12/16-12:04:58.498 1413a Compacting 4@0 + 1@1 files
+2020/12/16-12:04:58.510 1413a Generated table #1575@0: 9 keys, 31674 bytes
+2020/12/16-12:04:58.510 1413a Compacted 4@0 + 1@1 files => 31674 bytes
+2020/12/16-12:04:58.511 1413a compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/12/16-12:04:58.511 1413a Delete type=2 #1574
+2020/12/16-12:04:58.511 1413a Delete type=2 #1572
+2020/12/16-12:04:58.511 1413a Delete type=2 #1566
+2020/12/16-12:04:58.511 1413a Delete type=2 #1568
+2020/12/16-12:04:58.511 1413a Delete type=2 #1570

@@ -1,0 +1,5 @@
+2020/06/05-05:34:04.077 3d92d Reusing MANIFEST /home/unchained/.config/google-chrome/Default/IndexedDB/https_mobile.twitter.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/06/05-05:36:57.733 3dc28 Level-0 table #5: started
+2020/06/05-05:36:57.745 3dc28 Level-0 table #5: 2279 bytes OK
+2020/06/05-05:36:57.746 3dc28 Delete type=0 #3
+2020/06/05-05:36:57.747 3dc28 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

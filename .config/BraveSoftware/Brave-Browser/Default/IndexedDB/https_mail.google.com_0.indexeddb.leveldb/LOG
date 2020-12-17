@@ -1,0 +1,22 @@
+2020/11/02-14:48:22.652 27ce Reusing MANIFEST /home/unchained/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/02-14:48:22.652 27ce Recovering log #40
+2020/11/02-14:48:22.653 27ce Reusing old log /home/unchained/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000040.log 
+2020/11/02-14:48:55.922 2b2f Level-0 table #44: started
+2020/11/02-14:48:55.924 2b2f Level-0 table #44: 17548 bytes OK
+2020/11/02-14:48:55.926 2b2f Delete type=0 #40
+2020/11/02-14:48:55.927 2b2f Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x08\x01\x02\x01\x15\x00S\x00t\x00o\x00r\x00e\x00d\x00C\x00a\x00c\x00h\x00e\x00S\x00t\x00a\x00t\x00e\x00:\x00:\x00A\x00L\x00L' @ 28233 : 0
+2020/11/02-14:48:55.927 2b2f Compacting 1@0 + 1@1 files
+2020/11/02-14:48:55.994 2b2f Generated table #45@0: 924 keys, 345217 bytes
+2020/11/02-14:48:55.994 2b2f Compacted 1@0 + 1@1 files => 345217 bytes
+2020/11/02-14:48:55.995 2b2f compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/11/02-14:48:55.996 2b2f Delete type=2 #41
+2020/11/02-14:48:55.996 2b2f Delete type=2 #44
+2020/11/02-14:48:55.998 2b2f Manual compaction at level-0 from '\x00\x08\x01\x02\x01\x15\x00S\x00t\x00o\x00r\x00e\x00d\x00C\x00a\x00c\x00h\x00e\x00S\x00t\x00a\x00t\x00e\x00:\x00:\x00A\x00L\x00L' @ 28233 : 0 .. (end); will stop at (end)
+2020/11/02-14:48:55.998 2b2f Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x08\x01\x02\x01\x15\x00S\x00t\x00o\x00r\x00e\x00d\x00C\x00a\x00c\x00h\x00e\x00S\x00t\x00a\x00t\x00e\x00:\x00:\x00A\x00L\x00L' @ 28259 : 1
+2020/11/02-14:48:55.998 2b2f Compacting 1@1 + 1@2 files
+2020/11/02-14:48:56.004 2b2f Generated table #46@1: 97 keys, 63692 bytes
+2020/11/02-14:48:56.004 2b2f Compacted 1@1 + 1@2 files => 63692 bytes
+2020/11/02-14:48:56.005 2b2f compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/11/02-14:48:56.006 2b2f Delete type=2 #45
+2020/11/02-14:48:56.006 2b2f Delete type=2 #38
+2020/11/02-14:48:56.007 2b2e Manual compaction at level-1 from '\x00\x08\x01\x02\x01\x15\x00S\x00t\x00o\x00r\x00e\x00d\x00C\x00a\x00c\x00h\x00e\x00S\x00t\x00a\x00t\x00e\x00:\x00:\x00A\x00L\x00L' @ 28259 : 1 .. (end); will stop at (end)

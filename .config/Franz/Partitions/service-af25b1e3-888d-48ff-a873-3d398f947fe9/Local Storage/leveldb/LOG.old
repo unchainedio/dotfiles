@@ -1,0 +1,27 @@
+2020/05/29-06:43:45.847 781 Reusing MANIFEST /home/unchained/.config/Franz/Partitions/service-af25b1e3-888d-48ff-a873-3d398f947fe9/Local Storage/leveldb/MANIFEST-000001
+2020/05/29-06:43:45.848 781 Recovering log #78
+2020/05/29-06:43:45.848 781 Reusing old log /home/unchained/.config/Franz/Partitions/service-af25b1e3-888d-48ff-a873-3d398f947fe9/Local Storage/leveldb/000078.log 
+2020/05/29-06:44:45.853 da3 Level-0 table #83: started
+2020/05/29-06:44:45.876 da3 Level-0 table #83: 592287 bytes OK
+2020/05/29-06:44:45.878 da3 Delete type=0 #78
+2020/05/29-10:44:09.223 da3 Level-0 table #85: started
+2020/05/29-10:44:09.224 da3 Level-0 table #85: 8850 bytes OK
+2020/05/29-10:44:09.225 da3 Delete type=0 #82
+2020/05/29-14:03:54.648 da3 Level-0 table #87: started
+2020/05/29-14:03:54.661 da3 Level-0 table #87: 9317 bytes OK
+2020/05/29-14:03:54.663 da3 Delete type=0 #84
+2020/05/29-16:40:11.671 da3 Level-0 table #89: started
+2020/05/29-16:40:11.683 da3 Level-0 table #89: 9247 bytes OK
+2020/05/29-16:40:11.685 da3 Delete type=0 #86
+2020/05/29-16:40:11.686 da3 Compacting 4@0 + 1@1 files
+2020/05/29-16:40:11.790 da3 Generated table #90@0: 67 keys, 1771036 bytes
+2020/05/29-16:40:11.790 da3 Compacted 4@0 + 1@1 files => 1771036 bytes
+2020/05/29-16:40:11.792 da3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/05/29-16:40:11.792 da3 Delete type=2 #85
+2020/05/29-16:40:11.792 da3 Delete type=2 #87
+2020/05/29-16:40:11.792 da3 Delete type=2 #83
+2020/05/29-16:40:11.792 da3 Delete type=2 #80
+2020/05/29-16:40:11.792 da3 Delete type=2 #89
+2020/05/29-19:10:46.249 da3 Level-0 table #92: started
+2020/05/29-19:10:46.262 da3 Level-0 table #92: 9266 bytes OK
+2020/05/29-19:10:46.264 da3 Delete type=0 #88

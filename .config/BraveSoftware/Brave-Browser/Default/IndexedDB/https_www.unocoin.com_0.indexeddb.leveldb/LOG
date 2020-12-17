@@ -1,0 +1,5 @@
+2020/07/14-12:08:48.832 4219a Reusing MANIFEST /home/unchained/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.unocoin.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/14-12:10:29.447 e19 Level-0 table #5: started
+2020/07/14-12:10:29.449 e19 Level-0 table #5: 1610 bytes OK
+2020/07/14-12:10:29.451 e19 Delete type=0 #3
+2020/07/14-12:10:29.452 e19 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

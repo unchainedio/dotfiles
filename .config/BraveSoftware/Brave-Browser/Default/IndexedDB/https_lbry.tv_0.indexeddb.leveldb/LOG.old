@@ -1,0 +1,49 @@
+2020/10/25-07:53:48.644 152b1 Reusing MANIFEST /home/unchained/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_lbry.tv_0.indexeddb.leveldb/MANIFEST-000001
+2020/10/25-07:53:48.644 152b1 Recovering log #133
+2020/10/25-07:53:48.646 152b1 Reusing old log /home/unchained/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_lbry.tv_0.indexeddb.leveldb/000133.log 
+2020/10/25-10:33:54.144 c83 Compacting 1@1 + 1@2 files
+2020/10/25-10:33:54.157 c83 Generated table #136@1: 32 keys, 13144 bytes
+2020/10/25-10:33:54.157 c83 Compacted 1@1 + 1@2 files => 13144 bytes
+2020/10/25-10:33:54.158 c83 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/10/25-10:33:54.159 c83 Delete type=2 #131
+2020/10/25-10:33:54.159 c83 Delete type=2 #134
+2020/10/25-20:08:50.381 c83 Level-0 table #138: started
+2020/10/25-20:08:50.426 c83 Level-0 table #138: 4069143 bytes OK
+2020/10/25-20:08:50.431 c83 Delete type=0 #133
+2020/10/26-10:47:25.309 c83 Compacting 1@1 + 1@2 files
+2020/10/26-10:47:25.316 c83 Generated table #139@1: 32 keys, 13141 bytes
+2020/10/26-10:47:25.316 c83 Compacted 1@1 + 1@2 files => 13141 bytes
+2020/10/26-10:47:25.318 c83 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/10/26-10:47:25.318 c83 Delete type=2 #138
+2020/10/26-10:47:25.318 c83 Delete type=2 #136
+2020/10/26-14:47:25.281 c83 Level-0 table #141: started
+2020/10/26-14:47:25.294 c83 Level-0 table #141: 4068161 bytes OK
+2020/10/26-14:47:25.296 c83 Delete type=0 #137
+2020/10/26-20:52:26.317 c83 Compacting 1@1 + 1@2 files
+2020/10/26-20:52:26.326 c83 Generated table #142@1: 32 keys, 13141 bytes
+2020/10/26-20:52:26.326 c83 Compacted 1@1 + 1@2 files => 13141 bytes
+2020/10/26-20:52:26.328 c83 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/10/26-20:52:26.328 c83 Delete type=2 #141
+2020/10/26-20:52:26.328 c83 Delete type=2 #139
+2020/10/27-10:51:24.391 c83 Level-0 table #144: started
+2020/10/27-10:51:24.420 c83 Level-0 table #144: 4068325 bytes OK
+2020/10/27-10:51:24.423 c83 Delete type=0 #140
+2020/10/27-17:36:19.190 c83 Level-0 table #146: started
+2020/10/27-17:36:19.210 c83 Level-0 table #146: 1980155 bytes OK
+2020/10/27-17:36:19.213 c83 Delete type=0 #143
+2020/10/27-17:36:19.214 c83 Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x0a\x00p\x00e\x00r\x00s\x00i\x00s\x00t\x00:\x00v\x000' @ 152289 : 1
+2020/10/27-17:36:19.214 c83 Compacting 1@0 + 1@1 files
+2020/10/27-17:36:19.233 c83 Generated table #147@0: 1976 keys, 22018 bytes
+2020/10/27-17:36:19.233 c83 Compacted 1@0 + 1@1 files => 22018 bytes
+2020/10/27-17:36:19.234 c83 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/10/27-17:36:19.234 c83 Delete type=2 #146
+2020/10/27-17:36:19.235 c83 Delete type=2 #144
+2020/10/27-17:36:19.237 c83 Manual compaction at level-0 from '\x00\x01\x01\x02\x01\x0a\x00p\x00e\x00r\x00s\x00i\x00s\x00t\x00:\x00v\x000' @ 152289 : 1 .. (end); will stop at (end)
+2020/10/27-17:36:19.237 c83 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x0a\x00p\x00e\x00r\x00s\x00i\x00s\x00t\x00:\x00v\x000' @ 154221 : 1
+2020/10/27-17:36:19.237 c83 Compacting 1@1 + 1@2 files
+2020/10/27-17:36:19.240 c83 Generated table #148@1: 29 keys, 6935 bytes
+2020/10/27-17:36:19.240 c83 Compacted 1@1 + 1@2 files => 6935 bytes
+2020/10/27-17:36:19.241 c83 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/10/27-17:36:19.242 c83 Delete type=2 #147
+2020/10/27-17:36:19.242 c83 Delete type=2 #142
+2020/10/27-17:36:19.243 c83 Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x0a\x00p\x00e\x00r\x00s\x00i\x00s\x00t\x00:\x00v\x000' @ 154221 : 1 .. (end); will stop at (end)

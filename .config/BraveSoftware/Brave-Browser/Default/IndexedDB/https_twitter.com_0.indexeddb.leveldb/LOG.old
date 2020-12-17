@@ -1,0 +1,8 @@
+2020/12/11-03:41:26.288 4bb54 Reusing MANIFEST /home/unchained/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_twitter.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/11-03:41:26.288 4bb54 Recovering log #807
+2020/12/11-03:41:26.288 4bb54 Reusing old log /home/unchained/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_twitter.com_0.indexeddb.leveldb/000807.log 
+2020/12/11-03:42:08.027 4c475 Level-0 table #812: started
+2020/12/11-03:42:08.027 4c475 Level-0 table #812: 0 bytes OK
+2020/12/11-03:42:08.043 4c475 Delete type=0 #807
+2020/12/11-03:42:08.043 4c475 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/12/11-03:42:08.043 4c475 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

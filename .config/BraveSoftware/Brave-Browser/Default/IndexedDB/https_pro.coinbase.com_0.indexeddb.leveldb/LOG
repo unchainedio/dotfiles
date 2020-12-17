@@ -1,0 +1,5 @@
+2020/07/03-10:57:50.803 1753d Reusing MANIFEST /home/unchained/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_pro.coinbase.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/03-10:57:54.217 17e7 Level-0 table #5: started
+2020/07/03-10:57:54.219 17e7 Level-0 table #5: 811 bytes OK
+2020/07/03-10:57:54.220 17e7 Delete type=0 #3
+2020/07/03-10:57:54.220 17e7 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

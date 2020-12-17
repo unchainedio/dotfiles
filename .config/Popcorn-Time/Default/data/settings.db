@@ -1,0 +1,38 @@
+{"key":"playerVolume","value":"1.0","_id":"3V3nhZD2RnHTbwjk"}
+{"key":"lastWatchedTime","value":2848.176623,"_id":"4lQmKnfII23mnAh0"}
+{"key":"totalDownloaded","value":null,"_id":"6SarpjCKnnSgrkpl"}
+{"key":"showAdvancedSettings","value":true,"_id":"EhBDOFuMUOFxMwzi"}
+{"key":"movies_default_quality","value":"1080p","_id":"H1jdWah5s5O3fwbS"}
+{"key":"disclaimerAccepted","value":1,"_id":"JjuswGbzLzqO1XVC"}
+{"key":"version","value":"0.4.4","_id":"QEGg6V1ztN1YXrAd"}
+{"key":"filters","value":{"movies":{"sorter":"trending","genre":"Sci-Fi","order":-1},"shows":{"sorter":"trending","genre":"","order":-1}},"_id":"XjFiImV48gbv8PaZ"}
+{"key":"lastWatchedTitle","value":"Dolemite Is My Name","_id":"YSg33hsyuSe839Sf"}
+{"key":"totalUploaded","value":null,"_id":"dJxZRk3wrgCfLsYp"}
+{"key":"language","value":"en","_id":"gLj9Xo4YiDcVOGk4"}
+{"key":"os","value":"linux","_id":"idAaPNNM28mZ7M6A"}
+{"key":"ipAddress","value":"192.168.5.87","_id":"jx162EmG1jAhJ04Y"}
+{"key":"releaseName","value":"Love in the Time of Corona","_id":"p7ODdDq2EePlNRGt"}
+{"key":"arch","value":"x64","_id":"qWVC4wl9Yo6Otzou"}
+{"$$indexCreated":{"fieldName":"key","unique":true,"sparse":false}}
+{"key":"version","value":"0.4.4","_id":"QEGg6V1ztN1YXrAd"}
+{"key":"releaseName","value":"Love in the Time of Corona","_id":"p7ODdDq2EePlNRGt"}
+{"key":"arch","value":"x64","_id":"qWVC4wl9Yo6Otzou"}
+{"key":"os","value":"linux","_id":"idAaPNNM28mZ7M6A"}
+{"key":"filters","value":{"movies":{"sorter":"trending","genre":"Sci-Fi","order":-1},"shows":{"sorter":"trending","genre":"","order":-1}},"_id":"XjFiImV48gbv8PaZ"}
+{"key":"totalDownloaded","value":null,"_id":"6SarpjCKnnSgrkpl"}
+{"key":"totalUploaded","value":null,"_id":"dJxZRk3wrgCfLsYp"}
+{"key":"totalDownloaded","value":null,"_id":"6SarpjCKnnSgrkpl"}
+{"key":"totalUploaded","value":null,"_id":"dJxZRk3wrgCfLsYp"}
+{"key":"filters","value":{"movies":{"sorter":"last added","genre":"Sci-Fi","order":-1},"shows":{"sorter":"trending","genre":"","order":-1}},"_id":"XjFiImV48gbv8PaZ"}
+{"key":"filters","value":{"movies":{"sorter":"popularity","genre":"Sci-Fi","order":-1},"shows":{"sorter":"trending","genre":"","order":-1}},"_id":"XjFiImV48gbv8PaZ"}
+{"key":"filters","value":{"movies":{"sorter":"popularity","genre":"All","order":-1},"shows":{"sorter":"trending","genre":"","order":-1}},"_id":"XjFiImV48gbv8PaZ"}
+{"key":"totalDownloaded","value":null,"_id":"6SarpjCKnnSgrkpl"}
+{"key":"totalUploaded","value":null,"_id":"dJxZRk3wrgCfLsYp"}
+{"key":"filters","value":{"movies":{"sorter":"trending","genre":"All","order":-1},"shows":{"sorter":"trending","genre":"","order":-1}},"_id":"XjFiImV48gbv8PaZ"}
+{"key":"filters","value":{"movies":{"sorter":"trending","genre":"","order":-1},"shows":{"sorter":"trending","genre":"","order":-1}},"_id":"XjFiImV48gbv8PaZ"}
+{"key":"filters","value":{"movies":{"sorter":"trending","genre":"","order":-1},"shows":{"sorter":"trending","genre":"","order":-1}},"_id":"XjFiImV48gbv8PaZ"}
+{"key":"playerVolume","value":"1.0","_id":"3V3nhZD2RnHTbwjk"}
+{"key":"playerVolume","value":"0.2","_id":"3V3nhZD2RnHTbwjk"}
+{"key":"playerVolume","value":"0.1","_id":"3V3nhZD2RnHTbwjk"}
+{"key":"lastWatchedTitle","value":"Resident Evil: Retribution","_id":"YSg33hsyuSe839Sf"}
+{"key":"lastWatchedTime","value":77.5365869217987,"_id":"4lQmKnfII23mnAh0"}

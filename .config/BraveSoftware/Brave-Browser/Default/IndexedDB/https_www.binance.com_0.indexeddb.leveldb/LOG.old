@@ -1,0 +1,15 @@
+2020/12/17-00:20:46.903 2f96 Reusing MANIFEST /home/unchained/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.binance.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/17-00:20:46.903 2f96 Recovering log #140
+2020/12/17-00:20:46.903 2f96 Reusing old log /home/unchained/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.binance.com_0.indexeddb.leveldb/000140.log 
+2020/12/17-00:21:00.697 12f3 Level-0 table #145: started
+2020/12/17-00:21:00.698 12f3 Level-0 table #145: 20288 bytes OK
+2020/12/17-00:21:00.700 12f3 Delete type=0 #140
+2020/12/17-00:21:00.700 12f3 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/12/17-00:21:00.700 12f3 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x02!\x03\x00@.J\x1diwB\x00\x01\x0a\x002\x000\x002\x000\x00-\x001\x002\x00-\x001\x007' @ 43997 : 1
+2020/12/17-00:21:00.700 12f3 Compacting 1@1 + 1@2 files
+2020/12/17-00:21:00.704 12f3 Generated table #146@1: 2882 keys, 72978 bytes
+2020/12/17-00:21:00.704 12f3 Compacted 1@1 + 1@2 files => 72978 bytes
+2020/12/17-00:21:00.705 12f3 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/12/17-00:21:00.705 12f3 Delete type=2 #145
+2020/12/17-00:21:00.705 12f3 Delete type=2 #142
+2020/12/17-00:21:00.705 12f3 Manual compaction at level-1 from '\x00\x02\x02!\x03\x00@.J\x1diwB\x00\x01\x0a\x002\x000\x002\x000\x00-\x001\x002\x00-\x001\x007' @ 43997 : 1 .. (end); will stop at (end)

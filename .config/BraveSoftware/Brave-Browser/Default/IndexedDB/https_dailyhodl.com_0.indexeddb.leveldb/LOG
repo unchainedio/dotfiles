@@ -1,0 +1,17 @@
+2020/07/14-10:37:22.596 3f8c5 Reusing MANIFEST /home/unchained/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_dailyhodl.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/14-10:37:28.331 e19 Level-0 table #5: started
+2020/07/14-10:37:28.332 e19 Level-0 table #5: 566 bytes OK
+2020/07/14-10:37:28.334 e19 Delete type=0 #3
+2020/07/14-10:37:28.334 e19 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2020/07/14-10:37:30.348 e19 Level-0 table #7: started
+2020/07/14-10:37:30.350 e19 Level-0 table #7: 237 bytes OK
+2020/07/14-10:37:30.353 e19 Delete type=0 #4
+2020/07/14-10:37:30.354 e19 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/07/14-10:37:30.355 e19 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x002\x02\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 21 : 0
+2020/07/14-10:37:30.355 e19 Compacting 1@1 + 1@2 files
+2020/07/14-10:37:30.357 e19 Generated table #8@1: 5 keys, 237 bytes
+2020/07/14-10:37:30.357 e19 Compacted 1@1 + 1@2 files => 237 bytes
+2020/07/14-10:37:30.358 e19 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/07/14-10:37:30.358 e19 Delete type=2 #5
+2020/07/14-10:37:30.358 e19 Delete type=2 #7
+2020/07/14-10:37:30.358 e19 Manual compaction at level-1 from '\x00\x00\x00\x002\x02\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 21 : 0 .. (end); will stop at (end)

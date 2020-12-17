@@ -1,0 +1,14 @@
+2020/12/15-18:26:11.873 6cd Reusing MANIFEST /home/unchained/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/15-18:26:11.873 6cd Recovering log #21
+2020/12/15-18:26:11.881 6cd Reusing old log /home/unchained/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000021.log 
+2020/12/16-15:16:36.175 16f63 Level-0 table #27: started
+2020/12/16-15:16:36.222 16f63 Level-0 table #27: 1249648 bytes OK
+2020/12/16-15:16:36.226 16f63 Delete type=0 #21
+2020/12/16-15:16:52.174 17439 Compacting 1@1 + 2@2 files
+2020/12/16-15:16:52.284 17439 Generated table #28@1: 49556 keys, 2237699 bytes
+2020/12/16-15:16:52.303 17439 Generated table #29@1: 24349 keys, 1042121 bytes
+2020/12/16-15:16:52.303 17439 Compacted 1@1 + 2@2 files => 3279820 bytes
+2020/12/16-15:16:52.304 17439 compacted to: files[ 0 0 2 0 0 0 0 ]
+2020/12/16-15:16:52.304 17439 Delete type=2 #23
+2020/12/16-15:16:52.305 17439 Delete type=2 #24
+2020/12/16-15:16:52.305 17439 Delete type=2 #27

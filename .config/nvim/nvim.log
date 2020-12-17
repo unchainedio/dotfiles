@@ -1,0 +1,1630 @@
+
+chdir(/home/unchained/.config/nvim)
+chdir(/etc/xdg//nvim)
+chdir(/home/unchained/.config/nvim)
+sourcing "/etc/xdg//nvim/sysinit.vim"
+chdir(/home/unchained/.config/nvim)
+chdir(/usr/share/nvim)
+chdir(/home/unchained/.config/nvim)
+line 2: sourcing "/usr/share/nvim/archlinux.vim"
+finished sourcing /usr/share/nvim/archlinux.vim
+continuing in /etc/xdg/nvim/sysinit.vim
+finished sourcing /etc/xdg//nvim/sysinit.vim
+chdir(/home/unchained/.config/nvim)
+chdir(/home/unchained/.config/nvim)
+chdir(/home/unchained/.config/nvim)
+sourcing "/home/unchained/.config/nvim/init.vim"
+Searching for "autoload/plug.vim" in "/home/unchained/.config/nvim,/etc/xdg/nvim,/home/unchained/.local/share/nvim/site,/usr/local/share/nvim/site,/usr/share/nvim/site,/var/lib/snapd/desktop/nvim/site,/usr/share/nvim/runtime,/var/lib/snapd/desktop/nvim/site/after,/usr/share/nvim/site/after,/usr/local/share/nvim/site/after,/home/unchained/.local/share/nvim/site/after,/etc/xdg/nvim/after,/home/unchained/.config/nvim/after,/usr/share/vim/vimfiles"
+Searching for "/home/unchained/.config/nvim/autoload/plug.vim"
+Searching for "/etc/xdg/nvim/autoload/plug.vim"
+Searching for "/home/unchained/.local/share/nvim/site/autoload/plug.vim"
+chdir(/home/unchained/.config/nvim)
+chdir(/home/unchained/.local/share/nvim/site/autoload)
+chdir(/home/unchained/.config/nvim)
+line 2: sourcing "/home/unchained/.local/share/nvim/site/autoload/plug.vim"
+finished sourcing /home/unchained/.local/share/nvim/site/autoload/plug.vim
+continuing in /home/unchained/.config/nvim/init.vim
+Searching for "filetype.vim" in "/home/unchained/.config/nvim,/home/unchained/.config/nvim/plugged/goyo.vim,/home/unchained/.config/nvim/plugged/vifm.vim,/home/unchained/.config/nvim/plugged/limelight.vim,/home/unchained/.config/nvim/plugged/coc.nvim,/home/unchained/.config/nvim/plugged/ctrlp.vim,/home/unchained/.config/nvim/plugged/vim-markdown,/home/unchained/.config/nvim/plugged/vim-css-color,/home/unchained/.config/nvim/plugged/fountain.vim,/home/unchained/.config/nvim/plugged/gruvbox,/home/unchained/.config/nvim/plugged/vim-hybrid-material,/home/unchained/.config/nvim/plugged/papercolor-theme,/home/unchained/.config/nvim/plugged/Spacegray.vim,/home/unchained/.config/nvim/plugged/base16-vim,/etc/xdg/nvim,/home/unchained/.local/share/nvim/site,/usr/local/share/nvim/site,/usr/share/nvim/site,/var/lib/snapd/desktop/nvim/site,/usr/share/nvim/runtime,/var/lib/snapd/desktop/nvim/site/after,/usr/share/nvim/site/after,/usr/local/share/nvim/site/after,/home/unchained/.local/share/nvim/site/after,/etc/xdg/nvim/afte
+Searching for "/home/unchained/.config/nvim/filetype.vim"
+Searching for "/home/unchained/.config/nvim/plugged/goyo.vim/filetype.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vifm.vim/filetype.vim"
+Searching for "/home/unchained/.config/nvim/plugged/limelight.vim/filetype.vim"
+Searching for "/home/unchained/.config/nvim/plugged/coc.nvim/filetype.vim"
+Searching for "/home/unchained/.config/nvim/plugged/ctrlp.vim/filetype.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-markdown/filetype.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-css-color/filetype.vim"
+Searching for "/home/unchained/.config/nvim/plugged/fountain.vim/filetype.vim"
+Searching for "/home/unchained/.config/nvim/plugged/gruvbox/filetype.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-hybrid-material/filetype.vim"
+Searching for "/home/unchained/.config/nvim/plugged/papercolor-theme/filetype.vim"
+Searching for "/home/unchained/.config/nvim/plugged/Spacegray.vim/filetype.vim"
+Searching for "/home/unchained/.config/nvim/plugged/base16-vim/filetype.vim"
+Searching for "/etc/xdg/nvim/filetype.vim"
+Searching for "/home/unchained/.local/share/nvim/site/filetype.vim"
+Searching for "/usr/local/share/nvim/site/filetype.vim"
+Searching for "/usr/share/nvim/site/filetype.vim"
+Searching for "/var/lib/snapd/desktop/nvim/site/filetype.vim"
+Searching for "/usr/share/nvim/runtime/filetype.vim"
+chdir(/home/unchained/.config/nvim)
+chdir(/usr/share/nvim/runtime)
+chdir(/home/unchained/.config/nvim)
+line 83: sourcing "/usr/share/nvim/runtime/filetype.vim"
+Searching for "ftdetect/*.vim" in "/home/unchained/.config/nvim,/home/unchained/.config/nvim/plugged/goyo.vim,/home/unchained/.config/nvim/plugged/vifm.vim,/home/unchained/.config/nvim/plugged/limelight.vim,/home/unchained/.config/nvim/plugged/coc.nvim,/home/unchained/.config/nvim/plugged/ctrlp.vim,/home/unchained/.config/nvim/plugged/vim-markdown,/home/unchained/.config/nvim/plugged/vim-css-color,/home/unchained/.config/nvim/plugged/fountain.vim,/home/unchained/.config/nvim/plugged/gruvbox,/home/unchained/.config/nvim/plugged/vim-hybrid-material,/home/unchained/.config/nvim/plugged/papercolor-theme,/home/unchained/.config/nvim/plugged/Spacegray.vim,/home/unchained/.config/nvim/plugged/base16-vim,/etc/xdg/nvim,/home/unchained/.local/share/nvim/site,/usr/local/share/nvim/site,/usr/share/nvim/site,/var/lib/snapd/desktop/nvim/site,/usr/share/nvim/runtime,/var/lib/snapd/desktop/nvim/site/after,/usr/share/nvim/site/after,/usr/local/share/nvim/site/after,/home/unchained/.local/share/nvim/site/after,/etc/xdg/nvim/af
+Searching for "/home/unchained/.config/nvim/ftdetect/*.vim"
+Searching for "/home/unchained/.config/nvim/plugged/goyo.vim/ftdetect/*.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vifm.vim/ftdetect/*.vim"
+chdir(/home/unchained/.config/nvim)
+chdir(/home/unchained/.config/nvim/plugged/vifm.vim/ftdetect)
+chdir(/home/unchained/.config/nvim)
+line 2173: sourcing "/home/unchained/.config/nvim/plugged/vifm.vim/ftdetect/vifm-rename.vim"
+finished sourcing /home/unchained/.config/nvim/plugged/vifm.vim/ftdetect/vifm-rename.vim
+continuing in /usr/share/nvim/runtime/filetype.vim
+chdir(/home/unchained/.config/nvim)
+chdir(/home/unchained/.config/nvim/plugged/vifm.vim/ftdetect)
+chdir(/home/unchained/.config/nvim)
+line 2173: sourcing "/home/unchained/.config/nvim/plugged/vifm.vim/ftdetect/vifm.vim"
+finished sourcing /home/unchained/.config/nvim/plugged/vifm.vim/ftdetect/vifm.vim
+continuing in /usr/share/nvim/runtime/filetype.vim
+Searching for "/home/unchained/.config/nvim/plugged/limelight.vim/ftdetect/*.vim"
+Searching for "/home/unchained/.config/nvim/plugged/coc.nvim/ftdetect/*.vim"
+Searching for "/home/unchained/.config/nvim/plugged/ctrlp.vim/ftdetect/*.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-markdown/ftdetect/*.vim"
+chdir(/home/unchained/.config/nvim)
+chdir(/home/unchained/.config/nvim/plugged/vim-markdown/ftdetect)
+chdir(/home/unchained/.config/nvim)
+line 2173: sourcing "/home/unchained/.config/nvim/plugged/vim-markdown/ftdetect/markdown.vim"
+finished sourcing /home/unchained/.config/nvim/plugged/vim-markdown/ftdetect/markdown.vim
+continuing in /usr/share/nvim/runtime/filetype.vim
+Searching for "/home/unchained/.config/nvim/plugged/vim-css-color/ftdetect/*.vim"
+Searching for "/home/unchained/.config/nvim/plugged/fountain.vim/ftdetect/*.vim"
+Searching for "/home/unchained/.config/nvim/plugged/gruvbox/ftdetect/*.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-hybrid-material/ftdetect/*.vim"
+Searching for "/home/unchained/.config/nvim/plugged/papercolor-theme/ftdetect/*.vim"
+Searching for "/home/unchained/.config/nvim/plugged/Spacegray.vim/ftdetect/*.vim"
+Searching for "/home/unchained/.config/nvim/plugged/base16-vim/ftdetect/*.vim"
+Searching for "/etc/xdg/nvim/ftdetect/*.vim"
+Searching for "/home/unchained/.local/share/nvim/site/ftdetect/*.vim"
+Searching for "/usr/local/share/nvim/site/ftdetect/*.vim"
+Searching for "/usr/share/nvim/site/ftdetect/*.vim"
+Searching for "/var/lib/snapd/desktop/nvim/site/ftdetect/*.vim"
+Searching for "/usr/share/nvim/runtime/ftdetect/*.vim"
+Searching for "/var/lib/snapd/desktop/nvim/site/after/ftdetect/*.vim"
+Searching for "/usr/share/nvim/site/after/ftdetect/*.vim"
+Searching for "/usr/local/share/nvim/site/after/ftdetect/*.vim"
+Searching for "/home/unchained/.local/share/nvim/site/after/ftdetect/*.vim"
+Searching for "/etc/xdg/nvim/after/ftdetect/*.vim"
+Searching for "/home/unchained/.config/nvim/after/ftdetect/*.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-css-color/after/ftdetect/*.vim"
+Searching for "/usr/share/vim/vimfiles/ftdetect/*.vim"
+chdir(/home/unchained/.config/nvim)
+chdir(/usr/share/vim/vimfiles/ftdetect)
+chdir(/home/unchained/.config/nvim)
+line 2173: sourcing "/usr/share/vim/vimfiles/ftdetect/PKGBUILD.vim"
+finished sourcing /usr/share/vim/vimfiles/ftdetect/PKGBUILD.vim
+continuing in /usr/share/nvim/runtime/filetype.vim
+chdir(/home/unchained/.config/nvim)
+chdir(/usr/share/vim/vimfiles/ftdetect)
+chdir(/home/unchained/.config/nvim)
+line 2173: sourcing "/usr/share/vim/vimfiles/ftdetect/conkyrc.vim"
+finished sourcing /usr/share/vim/vimfiles/ftdetect/conkyrc.vim
+continuing in /usr/share/nvim/runtime/filetype.vim
+chdir(/home/unchained/.config/nvim)
+chdir(/usr/share/vim/vimfiles/ftdetect)
+chdir(/home/unchained/.config/nvim)
+line 2173: sourcing "/usr/share/vim/vimfiles/ftdetect/markdown.vim"
+finished sourcing /usr/share/vim/vimfiles/ftdetect/markdown.vim
+continuing in /usr/share/nvim/runtime/filetype.vim
+finished sourcing /usr/share/nvim/runtime/filetype.vim
+continuing in function plug#end
+Searching for "/var/lib/snapd/desktop/nvim/site/after/filetype.vim"
+Searching for "/usr/share/nvim/site/after/filetype.vim"
+Searching for "/usr/local/share/nvim/site/after/filetype.vim"
+Searching for "/home/unchained/.local/share/nvim/site/after/filetype.vim"
+Searching for "/etc/xdg/nvim/after/filetype.vim"
+Searching for "/home/unchained/.config/nvim/after/filetype.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-css-color/after/filetype.vim"
+Searching for "/usr/share/vim/vimfiles/filetype.vim"
+Searching for "ftplugin.vim" in "/home/unchained/.config/nvim,/home/unchained/.config/nvim/plugged/goyo.vim,/home/unchained/.config/nvim/plugged/vifm.vim,/home/unchained/.config/nvim/plugged/limelight.vim,/home/unchained/.config/nvim/plugged/coc.nvim,/home/unchained/.config/nvim/plugged/ctrlp.vim,/home/unchained/.config/nvim/plugged/vim-markdown,/home/unchained/.config/nvim/plugged/vim-css-color,/home/unchained/.config/nvim/plugged/fountain.vim,/home/unchained/.config/nvim/plugged/gruvbox,/home/unchained/.config/nvim/plugged/vim-hybrid-material,/home/unchained/.config/nvim/plugged/papercolor-theme,/home/unchained/.config/nvim/plugged/Spacegray.vim,/home/unchained/.config/nvim/plugged/base16-vim,/etc/xdg/nvim,/home/unchained/.local/share/nvim/site,/usr/local/share/nvim/site,/usr/share/nvim/site,/var/lib/snapd/desktop/nvim/site,/usr/share/nvim/runtime,/var/lib/snapd/desktop/nvim/site/after,/usr/share/nvim/site/after,/usr/local/share/nvim/site/after,/home/unchained/.local/share/nvim/site/after,/etc/xdg/nvim/afte
+Searching for "/home/unchained/.config/nvim/ftplugin.vim"
+Searching for "/home/unchained/.config/nvim/plugged/goyo.vim/ftplugin.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vifm.vim/ftplugin.vim"
+Searching for "/home/unchained/.config/nvim/plugged/limelight.vim/ftplugin.vim"
+Searching for "/home/unchained/.config/nvim/plugged/coc.nvim/ftplugin.vim"
+Searching for "/home/unchained/.config/nvim/plugged/ctrlp.vim/ftplugin.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-markdown/ftplugin.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-css-color/ftplugin.vim"
+Searching for "/home/unchained/.config/nvim/plugged/fountain.vim/ftplugin.vim"
+Searching for "/home/unchained/.config/nvim/plugged/gruvbox/ftplugin.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-hybrid-material/ftplugin.vim"
+Searching for "/home/unchained/.config/nvim/plugged/papercolor-theme/ftplugin.vim"
+Searching for "/home/unchained/.config/nvim/plugged/Spacegray.vim/ftplugin.vim"
+Searching for "/home/unchained/.config/nvim/plugged/base16-vim/ftplugin.vim"
+Searching for "/etc/xdg/nvim/ftplugin.vim"
+Searching for "/home/unchained/.local/share/nvim/site/ftplugin.vim"
+Searching for "/usr/local/share/nvim/site/ftplugin.vim"
+Searching for "/usr/share/nvim/site/ftplugin.vim"
+Searching for "/var/lib/snapd/desktop/nvim/site/ftplugin.vim"
+Searching for "/usr/share/nvim/runtime/ftplugin.vim"
+chdir(/home/unchained/.config/nvim)
+chdir(/usr/share/nvim/runtime)
+chdir(/home/unchained/.config/nvim)
+line 83: sourcing "/usr/share/nvim/runtime/ftplugin.vim"
+finished sourcing /usr/share/nvim/runtime/ftplugin.vim
+continuing in function plug#end
+Searching for "/var/lib/snapd/desktop/nvim/site/after/ftplugin.vim"
+Searching for "/usr/share/nvim/site/after/ftplugin.vim"
+Searching for "/usr/local/share/nvim/site/after/ftplugin.vim"
+Searching for "/home/unchained/.local/share/nvim/site/after/ftplugin.vim"
+Searching for "/etc/xdg/nvim/after/ftplugin.vim"
+Searching for "/home/unchained/.config/nvim/after/ftplugin.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-css-color/after/ftplugin.vim"
+Searching for "/usr/share/vim/vimfiles/ftplugin.vim"
+Searching for "indent.vim" in "/home/unchained/.config/nvim,/home/unchained/.config/nvim/plugged/goyo.vim,/home/unchained/.config/nvim/plugged/vifm.vim,/home/unchained/.config/nvim/plugged/limelight.vim,/home/unchained/.config/nvim/plugged/coc.nvim,/home/unchained/.config/nvim/plugged/ctrlp.vim,/home/unchained/.config/nvim/plugged/vim-markdown,/home/unchained/.config/nvim/plugged/vim-css-color,/home/unchained/.config/nvim/plugged/fountain.vim,/home/unchained/.config/nvim/plugged/gruvbox,/home/unchained/.config/nvim/plugged/vim-hybrid-material,/home/unchained/.config/nvim/plugged/papercolor-theme,/home/unchained/.config/nvim/plugged/Spacegray.vim,/home/unchained/.config/nvim/plugged/base16-vim,/etc/xdg/nvim,/home/unchained/.local/share/nvim/site,/usr/local/share/nvim/site,/usr/share/nvim/site,/var/lib/snapd/desktop/nvim/site,/usr/share/nvim/runtime,/var/lib/snapd/desktop/nvim/site/after,/usr/share/nvim/site/after,/usr/local/share/nvim/site/after,/home/unchained/.local/share/nvim/site/after,/etc/xdg/nvim/after,
+Searching for "/home/unchained/.config/nvim/indent.vim"
+Searching for "/home/unchained/.config/nvim/plugged/goyo.vim/indent.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vifm.vim/indent.vim"
+Searching for "/home/unchained/.config/nvim/plugged/limelight.vim/indent.vim"
+Searching for "/home/unchained/.config/nvim/plugged/coc.nvim/indent.vim"
+Searching for "/home/unchained/.config/nvim/plugged/ctrlp.vim/indent.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-markdown/indent.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-css-color/indent.vim"
+Searching for "/home/unchained/.config/nvim/plugged/fountain.vim/indent.vim"
+Searching for "/home/unchained/.config/nvim/plugged/gruvbox/indent.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-hybrid-material/indent.vim"
+Searching for "/home/unchained/.config/nvim/plugged/papercolor-theme/indent.vim"
+Searching for "/home/unchained/.config/nvim/plugged/Spacegray.vim/indent.vim"
+Searching for "/home/unchained/.config/nvim/plugged/base16-vim/indent.vim"
+Searching for "/etc/xdg/nvim/indent.vim"
+Searching for "/home/unchained/.local/share/nvim/site/indent.vim"
+Searching for "/usr/local/share/nvim/site/indent.vim"
+Searching for "/usr/share/nvim/site/indent.vim"
+Searching for "/var/lib/snapd/desktop/nvim/site/indent.vim"
+Searching for "/usr/share/nvim/runtime/indent.vim"
+chdir(/home/unchained/.config/nvim)
+chdir(/usr/share/nvim/runtime)
+chdir(/home/unchained/.config/nvim)
+line 83: sourcing "/usr/share/nvim/runtime/indent.vim"
+finished sourcing /usr/share/nvim/runtime/indent.vim
+continuing in function plug#end
+Searching for "/var/lib/snapd/desktop/nvim/site/after/indent.vim"
+Searching for "/usr/share/nvim/site/after/indent.vim"
+Searching for "/usr/local/share/nvim/site/after/indent.vim"
+Searching for "/home/unchained/.local/share/nvim/site/after/indent.vim"
+Searching for "/etc/xdg/nvim/after/indent.vim"
+Searching for "/home/unchained/.config/nvim/after/indent.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-css-color/after/indent.vim"
+Searching for "/usr/share/vim/vimfiles/indent.vim"
+chdir(/home/unchained/.config/nvim)
+chdir(/usr/share/nvim/runtime/syntax)
+chdir(/home/unchained/.config/nvim)
+line 86: sourcing "/usr/share/nvim/runtime/syntax/syntax.vim"
+Searching for "syntax/synload.vim" in "/home/unchained/.config/nvim,/home/unchained/.config/nvim/plugged/goyo.vim,/home/unchained/.config/nvim/plugged/vifm.vim,/home/unchained/.config/nvim/plugged/limelight.vim,/home/unchained/.config/nvim/plugged/coc.nvim,/home/unchained/.config/nvim/plugged/ctrlp.vim,/home/unchained/.config/nvim/plugged/vim-markdown,/home/unchained/.config/nvim/plugged/vim-css-color,/home/unchained/.config/nvim/plugged/fountain.vim,/home/unchained/.config/nvim/plugged/gruvbox,/home/unchained/.config/nvim/plugged/vim-hybrid-material,/home/unchained/.config/nvim/plugged/papercolor-theme,/home/unchained/.config/nvim/plugged/Spacegray.vim,/home/unchained/.config/nvim/plugged/base16-vim,/etc/xdg/nvim,/home/unchained/.local/share/nvim/site,/usr/local/share/nvim/site,/usr/share/nvim/site,/var/lib/snapd/desktop/nvim/site,/usr/share/nvim/runtime,/var/lib/snapd/desktop/nvim/site/after,/usr/share/nvim/site/after,/usr/local/share/nvim/site/after,/home/unchained/.local/share/nvim/site/after,/etc/xdg/nvi
+Searching for "/home/unchained/.config/nvim/syntax/synload.vim"
+Searching for "/home/unchained/.config/nvim/plugged/goyo.vim/syntax/synload.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vifm.vim/syntax/synload.vim"
+Searching for "/home/unchained/.config/nvim/plugged/limelight.vim/syntax/synload.vim"
+Searching for "/home/unchained/.config/nvim/plugged/coc.nvim/syntax/synload.vim"
+Searching for "/home/unchained/.config/nvim/plugged/ctrlp.vim/syntax/synload.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-markdown/syntax/synload.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-css-color/syntax/synload.vim"
+Searching for "/home/unchained/.config/nvim/plugged/fountain.vim/syntax/synload.vim"
+Searching for "/home/unchained/.config/nvim/plugged/gruvbox/syntax/synload.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-hybrid-material/syntax/synload.vim"
+Searching for "/home/unchained/.config/nvim/plugged/papercolor-theme/syntax/synload.vim"
+Searching for "/home/unchained/.config/nvim/plugged/Spacegray.vim/syntax/synload.vim"
+Searching for "/home/unchained/.config/nvim/plugged/base16-vim/syntax/synload.vim"
+Searching for "/etc/xdg/nvim/syntax/synload.vim"
+Searching for "/home/unchained/.local/share/nvim/site/syntax/synload.vim"
+Searching for "/usr/local/share/nvim/site/syntax/synload.vim"
+Searching for "/usr/share/nvim/site/syntax/synload.vim"
+Searching for "/var/lib/snapd/desktop/nvim/site/syntax/synload.vim"
+Searching for "/usr/share/nvim/runtime/syntax/synload.vim"
+chdir(/home/unchained/.config/nvim)
+chdir(/usr/share/nvim/runtime/syntax)
+chdir(/home/unchained/.config/nvim)
+line 19: sourcing "/usr/share/nvim/runtime/syntax/synload.vim"
+Searching for "syntax/syncolor.vim" in "/home/unchained/.config/nvim,/home/unchained/.config/nvim/plugged/goyo.vim,/home/unchained/.config/nvim/plugged/vifm.vim,/home/unchained/.config/nvim/plugged/limelight.vim,/home/unchained/.config/nvim/plugged/coc.nvim,/home/unchained/.config/nvim/plugged/ctrlp.vim,/home/unchained/.config/nvim/plugged/vim-markdown,/home/unchained/.config/nvim/plugged/vim-css-color,/home/unchained/.config/nvim/plugged/fountain.vim,/home/unchained/.config/nvim/plugged/gruvbox,/home/unchained/.config/nvim/plugged/vim-hybrid-material,/home/unchained/.config/nvim/plugged/papercolor-theme,/home/unchained/.config/nvim/plugged/Spacegray.vim,/home/unchained/.config/nvim/plugged/base16-vim,/etc/xdg/nvim,/home/unchained/.local/share/nvim/site,/usr/local/share/nvim/site,/usr/share/nvim/site,/var/lib/snapd/desktop/nvim/site,/usr/share/nvim/runtime,/var/lib/snapd/desktop/nvim/site/after,/usr/share/nvim/site/after,/usr/local/share/nvim/site/after,/home/unchained/.local/share/nvim/site/after,/etc/xdg/nv
+Searching for "/home/unchained/.config/nvim/syntax/syncolor.vim"
+Searching for "/home/unchained/.config/nvim/plugged/goyo.vim/syntax/syncolor.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vifm.vim/syntax/syncolor.vim"
+Searching for "/home/unchained/.config/nvim/plugged/limelight.vim/syntax/syncolor.vim"
+Searching for "/home/unchained/.config/nvim/plugged/coc.nvim/syntax/syncolor.vim"
+Searching for "/home/unchained/.config/nvim/plugged/ctrlp.vim/syntax/syncolor.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-markdown/syntax/syncolor.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-css-color/syntax/syncolor.vim"
+Searching for "/home/unchained/.config/nvim/plugged/fountain.vim/syntax/syncolor.vim"
+Searching for "/home/unchained/.config/nvim/plugged/gruvbox/syntax/syncolor.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-hybrid-material/syntax/syncolor.vim"
+Searching for "/home/unchained/.config/nvim/plugged/papercolor-theme/syntax/syncolor.vim"
+Searching for "/home/unchained/.config/nvim/plugged/Spacegray.vim/syntax/syncolor.vim"
+Searching for "/home/unchained/.config/nvim/plugged/base16-vim/syntax/syncolor.vim"
+Searching for "/etc/xdg/nvim/syntax/syncolor.vim"
+Searching for "/home/unchained/.local/share/nvim/site/syntax/syncolor.vim"
+Searching for "/usr/local/share/nvim/site/syntax/syncolor.vim"
+Searching for "/usr/share/nvim/site/syntax/syncolor.vim"
+Searching for "/var/lib/snapd/desktop/nvim/site/syntax/syncolor.vim"
+Searching for "/usr/share/nvim/runtime/syntax/syncolor.vim"
+chdir(/home/unchained/.config/nvim)
+chdir(/usr/share/nvim/runtime/syntax)
+chdir(/home/unchained/.config/nvim)
+line 21: sourcing "/usr/share/nvim/runtime/syntax/syncolor.vim"
+finished sourcing /usr/share/nvim/runtime/syntax/syncolor.vim
+continuing in /usr/share/nvim/runtime/syntax/synload.vim
+Searching for "/var/lib/snapd/desktop/nvim/site/after/syntax/syncolor.vim"
+Searching for "/usr/share/nvim/site/after/syntax/syncolor.vim"
+Searching for "/usr/local/share/nvim/site/after/syntax/syncolor.vim"
+Searching for "/home/unchained/.local/share/nvim/site/after/syntax/syncolor.vim"
+Searching for "/etc/xdg/nvim/after/syntax/syncolor.vim"
+Searching for "/home/unchained/.config/nvim/after/syntax/syncolor.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-css-color/after/syntax/syncolor.vim"
+Searching for "/usr/share/vim/vimfiles/syntax/syncolor.vim"
+finished sourcing /usr/share/nvim/runtime/syntax/synload.vim
+continuing in /usr/share/nvim/runtime/syntax/syntax.vim
+finished sourcing /usr/share/nvim/runtime/syntax/syntax.vim
+continuing in function plug#end
+Searching for "filetype.vim" in "/home/unchained/.config/nvim,/home/unchained/.config/nvim/plugged/goyo.vim,/home/unchained/.config/nvim/plugged/vifm.vim,/home/unchained/.config/nvim/plugged/limelight.vim,/home/unchained/.config/nvim/plugged/coc.nvim,/home/unchained/.config/nvim/plugged/ctrlp.vim,/home/unchained/.config/nvim/plugged/vim-markdown,/home/unchained/.config/nvim/plugged/vim-css-color,/home/unchained/.config/nvim/plugged/fountain.vim,/home/unchained/.config/nvim/plugged/gruvbox,/home/unchained/.config/nvim/plugged/vim-hybrid-material,/home/unchained/.config/nvim/plugged/papercolor-theme,/home/unchained/.config/nvim/plugged/Spacegray.vim,/home/unchained/.config/nvim/plugged/base16-vim,/etc/xdg/nvim,/home/unchained/.local/share/nvim/site,/usr/local/share/nvim/site,/usr/share/nvim/site,/var/lib/snapd/desktop/nvim/site,/usr/share/nvim/runtime,/var/lib/snapd/desktop/nvim/site/after,/usr/share/nvim/site/after,/usr/local/share/nvim/site/after,/home/unchained/.local/share/nvim/site/after,/etc/xdg/nvim/afte
+Searching for "/home/unchained/.config/nvim/filetype.vim"
+Searching for "/home/unchained/.config/nvim/plugged/goyo.vim/filetype.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vifm.vim/filetype.vim"
+Searching for "/home/unchained/.config/nvim/plugged/limelight.vim/filetype.vim"
+Searching for "/home/unchained/.config/nvim/plugged/coc.nvim/filetype.vim"
+Searching for "/home/unchained/.config/nvim/plugged/ctrlp.vim/filetype.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-markdown/filetype.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-css-color/filetype.vim"
+Searching for "/home/unchained/.config/nvim/plugged/fountain.vim/filetype.vim"
+Searching for "/home/unchained/.config/nvim/plugged/gruvbox/filetype.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-hybrid-material/filetype.vim"
+Searching for "/home/unchained/.config/nvim/plugged/papercolor-theme/filetype.vim"
+Searching for "/home/unchained/.config/nvim/plugged/Spacegray.vim/filetype.vim"
+Searching for "/home/unchained/.config/nvim/plugged/base16-vim/filetype.vim"
+Searching for "/etc/xdg/nvim/filetype.vim"
+Searching for "/home/unchained/.local/share/nvim/site/filetype.vim"
+Searching for "/usr/local/share/nvim/site/filetype.vim"
+Searching for "/usr/share/nvim/site/filetype.vim"
+Searching for "/var/lib/snapd/desktop/nvim/site/filetype.vim"
+Searching for "/usr/share/nvim/runtime/filetype.vim"
+chdir(/home/unchained/.config/nvim)
+chdir(/usr/share/nvim/runtime)
+chdir(/home/unchained/.config/nvim)
+line 23: sourcing "/usr/share/nvim/runtime/filetype.vim"
+finished sourcing /usr/share/nvim/runtime/filetype.vim
+continuing in /home/unchained/.config/nvim/init.vim
+Searching for "/var/lib/snapd/desktop/nvim/site/after/filetype.vim"
+Searching for "/usr/share/nvim/site/after/filetype.vim"
+Searching for "/usr/local/share/nvim/site/after/filetype.vim"
+Searching for "/home/unchained/.local/share/nvim/site/after/filetype.vim"
+Searching for "/etc/xdg/nvim/after/filetype.vim"
+Searching for "/home/unchained/.config/nvim/after/filetype.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-css-color/after/filetype.vim"
+Searching for "/usr/share/vim/vimfiles/filetype.vim"
+Searching for "ftplugin.vim" in "/home/unchained/.config/nvim,/home/unchained/.config/nvim/plugged/goyo.vim,/home/unchained/.config/nvim/plugged/vifm.vim,/home/unchained/.config/nvim/plugged/limelight.vim,/home/unchained/.config/nvim/plugged/coc.nvim,/home/unchained/.config/nvim/plugged/ctrlp.vim,/home/unchained/.config/nvim/plugged/vim-markdown,/home/unchained/.config/nvim/plugged/vim-css-color,/home/unchained/.config/nvim/plugged/fountain.vim,/home/unchained/.config/nvim/plugged/gruvbox,/home/unchained/.config/nvim/plugged/vim-hybrid-material,/home/unchained/.config/nvim/plugged/papercolor-theme,/home/unchained/.config/nvim/plugged/Spacegray.vim,/home/unchained/.config/nvim/plugged/base16-vim,/etc/xdg/nvim,/home/unchained/.local/share/nvim/site,/usr/local/share/nvim/site,/usr/share/nvim/site,/var/lib/snapd/desktop/nvim/site,/usr/share/nvim/runtime,/var/lib/snapd/desktop/nvim/site/after,/usr/share/nvim/site/after,/usr/local/share/nvim/site/after,/home/unchained/.local/share/nvim/site/after,/etc/xdg/nvim/afte
+Searching for "/home/unchained/.config/nvim/ftplugin.vim"
+Searching for "/home/unchained/.config/nvim/plugged/goyo.vim/ftplugin.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vifm.vim/ftplugin.vim"
+Searching for "/home/unchained/.config/nvim/plugged/limelight.vim/ftplugin.vim"
+Searching for "/home/unchained/.config/nvim/plugged/coc.nvim/ftplugin.vim"
+Searching for "/home/unchained/.config/nvim/plugged/ctrlp.vim/ftplugin.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-markdown/ftplugin.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-css-color/ftplugin.vim"
+Searching for "/home/unchained/.config/nvim/plugged/fountain.vim/ftplugin.vim"
+Searching for "/home/unchained/.config/nvim/plugged/gruvbox/ftplugin.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-hybrid-material/ftplugin.vim"
+Searching for "/home/unchained/.config/nvim/plugged/papercolor-theme/ftplugin.vim"
+Searching for "/home/unchained/.config/nvim/plugged/Spacegray.vim/ftplugin.vim"
+Searching for "/home/unchained/.config/nvim/plugged/base16-vim/ftplugin.vim"
+Searching for "/etc/xdg/nvim/ftplugin.vim"
+Searching for "/home/unchained/.local/share/nvim/site/ftplugin.vim"
+Searching for "/usr/local/share/nvim/site/ftplugin.vim"
+Searching for "/usr/share/nvim/site/ftplugin.vim"
+Searching for "/var/lib/snapd/desktop/nvim/site/ftplugin.vim"
+Searching for "/usr/share/nvim/runtime/ftplugin.vim"
+chdir(/home/unchained/.config/nvim)
+chdir(/usr/share/nvim/runtime)
+chdir(/home/unchained/.config/nvim)
+line 23: sourcing "/usr/share/nvim/runtime/ftplugin.vim"
+finished sourcing /usr/share/nvim/runtime/ftplugin.vim
+continuing in /home/unchained/.config/nvim/init.vim
+Searching for "/var/lib/snapd/desktop/nvim/site/after/ftplugin.vim"
+Searching for "/usr/share/nvim/site/after/ftplugin.vim"
+Searching for "/usr/local/share/nvim/site/after/ftplugin.vim"
+Searching for "/home/unchained/.local/share/nvim/site/after/ftplugin.vim"
+Searching for "/etc/xdg/nvim/after/ftplugin.vim"
+Searching for "/home/unchained/.config/nvim/after/ftplugin.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-css-color/after/ftplugin.vim"
+Searching for "/usr/share/vim/vimfiles/ftplugin.vim"
+Searching for "indent.vim" in "/home/unchained/.config/nvim,/home/unchained/.config/nvim/plugged/goyo.vim,/home/unchained/.config/nvim/plugged/vifm.vim,/home/unchained/.config/nvim/plugged/limelight.vim,/home/unchained/.config/nvim/plugged/coc.nvim,/home/unchained/.config/nvim/plugged/ctrlp.vim,/home/unchained/.config/nvim/plugged/vim-markdown,/home/unchained/.config/nvim/plugged/vim-css-color,/home/unchained/.config/nvim/plugged/fountain.vim,/home/unchained/.config/nvim/plugged/gruvbox,/home/unchained/.config/nvim/plugged/vim-hybrid-material,/home/unchained/.config/nvim/plugged/papercolor-theme,/home/unchained/.config/nvim/plugged/Spacegray.vim,/home/unchained/.config/nvim/plugged/base16-vim,/etc/xdg/nvim,/home/unchained/.local/share/nvim/site,/usr/local/share/nvim/site,/usr/share/nvim/site,/var/lib/snapd/desktop/nvim/site,/usr/share/nvim/runtime,/var/lib/snapd/desktop/nvim/site/after,/usr/share/nvim/site/after,/usr/local/share/nvim/site/after,/home/unchained/.local/share/nvim/site/after,/etc/xdg/nvim/after,
+Searching for "/home/unchained/.config/nvim/indent.vim"
+Searching for "/home/unchained/.config/nvim/plugged/goyo.vim/indent.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vifm.vim/indent.vim"
+Searching for "/home/unchained/.config/nvim/plugged/limelight.vim/indent.vim"
+Searching for "/home/unchained/.config/nvim/plugged/coc.nvim/indent.vim"
+Searching for "/home/unchained/.config/nvim/plugged/ctrlp.vim/indent.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-markdown/indent.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-css-color/indent.vim"
+Searching for "/home/unchained/.config/nvim/plugged/fountain.vim/indent.vim"
+Searching for "/home/unchained/.config/nvim/plugged/gruvbox/indent.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-hybrid-material/indent.vim"
+Searching for "/home/unchained/.config/nvim/plugged/papercolor-theme/indent.vim"
+Searching for "/home/unchained/.config/nvim/plugged/Spacegray.vim/indent.vim"
+Searching for "/home/unchained/.config/nvim/plugged/base16-vim/indent.vim"
+Searching for "/etc/xdg/nvim/indent.vim"
+Searching for "/home/unchained/.local/share/nvim/site/indent.vim"
+Searching for "/usr/local/share/nvim/site/indent.vim"
+Searching for "/usr/share/nvim/site/indent.vim"
+Searching for "/var/lib/snapd/desktop/nvim/site/indent.vim"
+Searching for "/usr/share/nvim/runtime/indent.vim"
+chdir(/home/unchained/.config/nvim)
+chdir(/usr/share/nvim/runtime)
+chdir(/home/unchained/.config/nvim)
+line 23: sourcing "/usr/share/nvim/runtime/indent.vim"
+finished sourcing /usr/share/nvim/runtime/indent.vim
+continuing in /home/unchained/.config/nvim/init.vim
+Searching for "/var/lib/snapd/desktop/nvim/site/after/indent.vim"
+Searching for "/usr/share/nvim/site/after/indent.vim"
+Searching for "/usr/local/share/nvim/site/after/indent.vim"
+Searching for "/home/unchained/.local/share/nvim/site/after/indent.vim"
+Searching for "/etc/xdg/nvim/after/indent.vim"
+Searching for "/home/unchained/.config/nvim/after/indent.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-css-color/after/indent.vim"
+Searching for "/usr/share/vim/vimfiles/indent.vim"
+chdir(/home/unchained/.config/nvim)
+chdir(/usr/share/nvim/runtime/syntax)
+chdir(/home/unchained/.config/nvim)
+line 24: sourcing "/usr/share/nvim/runtime/syntax/syntax.vim"
+chdir(/home/unchained/.config/nvim)
+chdir(/usr/share/nvim/runtime/syntax)
+chdir(/home/unchained/.config/nvim)
+line 15: sourcing "/usr/share/nvim/runtime/syntax/nosyntax.vim"
+finished sourcing /usr/share/nvim/runtime/syntax/nosyntax.vim
+continuing in /usr/share/nvim/runtime/syntax/syntax.vim
+Searching for "syntax/synload.vim" in "/home/unchained/.config/nvim,/home/unchained/.config/nvim/plugged/goyo.vim,/home/unchained/.config/nvim/plugged/vifm.vim,/home/unchained/.config/nvim/plugged/limelight.vim,/home/unchained/.config/nvim/plugged/coc.nvim,/home/unchained/.config/nvim/plugged/ctrlp.vim,/home/unchained/.config/nvim/plugged/vim-markdown,/home/unchained/.config/nvim/plugged/vim-css-color,/home/unchained/.config/nvim/plugged/fountain.vim,/home/unchained/.config/nvim/plugged/gruvbox,/home/unchained/.config/nvim/plugged/vim-hybrid-material,/home/unchained/.config/nvim/plugged/papercolor-theme,/home/unchained/.config/nvim/plugged/Spacegray.vim,/home/unchained/.config/nvim/plugged/base16-vim,/etc/xdg/nvim,/home/unchained/.local/share/nvim/site,/usr/local/share/nvim/site,/usr/share/nvim/site,/var/lib/snapd/desktop/nvim/site,/usr/share/nvim/runtime,/var/lib/snapd/desktop/nvim/site/after,/usr/share/nvim/site/after,/usr/local/share/nvim/site/after,/home/unchained/.local/share/nvim/site/after,/etc/xdg/nvi
+Searching for "/home/unchained/.config/nvim/syntax/synload.vim"
+Searching for "/home/unchained/.config/nvim/plugged/goyo.vim/syntax/synload.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vifm.vim/syntax/synload.vim"
+Searching for "/home/unchained/.config/nvim/plugged/limelight.vim/syntax/synload.vim"
+Searching for "/home/unchained/.config/nvim/plugged/coc.nvim/syntax/synload.vim"
+Searching for "/home/unchained/.config/nvim/plugged/ctrlp.vim/syntax/synload.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-markdown/syntax/synload.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-css-color/syntax/synload.vim"
+Searching for "/home/unchained/.config/nvim/plugged/fountain.vim/syntax/synload.vim"
+Searching for "/home/unchained/.config/nvim/plugged/gruvbox/syntax/synload.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-hybrid-material/syntax/synload.vim"
+Searching for "/home/unchained/.config/nvim/plugged/papercolor-theme/syntax/synload.vim"
+Searching for "/home/unchained/.config/nvim/plugged/Spacegray.vim/syntax/synload.vim"
+Searching for "/home/unchained/.config/nvim/plugged/base16-vim/syntax/synload.vim"
+Searching for "/etc/xdg/nvim/syntax/synload.vim"
+Searching for "/home/unchained/.local/share/nvim/site/syntax/synload.vim"
+Searching for "/usr/local/share/nvim/site/syntax/synload.vim"
+Searching for "/usr/share/nvim/site/syntax/synload.vim"
+Searching for "/var/lib/snapd/desktop/nvim/site/syntax/synload.vim"
+Searching for "/usr/share/nvim/runtime/syntax/synload.vim"
+chdir(/home/unchained/.config/nvim)
+chdir(/usr/share/nvim/runtime/syntax)
+chdir(/home/unchained/.config/nvim)
+line 19: sourcing "/usr/share/nvim/runtime/syntax/synload.vim"
+Searching for "syntax/syncolor.vim" in "/home/unchained/.config/nvim,/home/unchained/.config/nvim/plugged/goyo.vim,/home/unchained/.config/nvim/plugged/vifm.vim,/home/unchained/.config/nvim/plugged/limelight.vim,/home/unchained/.config/nvim/plugged/coc.nvim,/home/unchained/.config/nvim/plugged/ctrlp.vim,/home/unchained/.config/nvim/plugged/vim-markdown,/home/unchained/.config/nvim/plugged/vim-css-color,/home/unchained/.config/nvim/plugged/fountain.vim,/home/unchained/.config/nvim/plugged/gruvbox,/home/unchained/.config/nvim/plugged/vim-hybrid-material,/home/unchained/.config/nvim/plugged/papercolor-theme,/home/unchained/.config/nvim/plugged/Spacegray.vim,/home/unchained/.config/nvim/plugged/base16-vim,/etc/xdg/nvim,/home/unchained/.local/share/nvim/site,/usr/local/share/nvim/site,/usr/share/nvim/site,/var/lib/snapd/desktop/nvim/site,/usr/share/nvim/runtime,/var/lib/snapd/desktop/nvim/site/after,/usr/share/nvim/site/after,/usr/local/share/nvim/site/after,/home/unchained/.local/share/nvim/site/after,/etc/xdg/nv
+Searching for "/home/unchained/.config/nvim/syntax/syncolor.vim"
+Searching for "/home/unchained/.config/nvim/plugged/goyo.vim/syntax/syncolor.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vifm.vim/syntax/syncolor.vim"
+Searching for "/home/unchained/.config/nvim/plugged/limelight.vim/syntax/syncolor.vim"
+Searching for "/home/unchained/.config/nvim/plugged/coc.nvim/syntax/syncolor.vim"
+Searching for "/home/unchained/.config/nvim/plugged/ctrlp.vim/syntax/syncolor.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-markdown/syntax/syncolor.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-css-color/syntax/syncolor.vim"
+Searching for "/home/unchained/.config/nvim/plugged/fountain.vim/syntax/syncolor.vim"
+Searching for "/home/unchained/.config/nvim/plugged/gruvbox/syntax/syncolor.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-hybrid-material/syntax/syncolor.vim"
+Searching for "/home/unchained/.config/nvim/plugged/papercolor-theme/syntax/syncolor.vim"
+Searching for "/home/unchained/.config/nvim/plugged/Spacegray.vim/syntax/syncolor.vim"
+Searching for "/home/unchained/.config/nvim/plugged/base16-vim/syntax/syncolor.vim"
+Searching for "/etc/xdg/nvim/syntax/syncolor.vim"
+Searching for "/home/unchained/.local/share/nvim/site/syntax/syncolor.vim"
+Searching for "/usr/local/share/nvim/site/syntax/syncolor.vim"
+Searching for "/usr/share/nvim/site/syntax/syncolor.vim"
+Searching for "/var/lib/snapd/desktop/nvim/site/syntax/syncolor.vim"
+Searching for "/usr/share/nvim/runtime/syntax/syncolor.vim"
+chdir(/home/unchained/.config/nvim)
+chdir(/usr/share/nvim/runtime/syntax)
+chdir(/home/unchained/.config/nvim)
+line 21: sourcing "/usr/share/nvim/runtime/syntax/syncolor.vim"
+finished sourcing /usr/share/nvim/runtime/syntax/syncolor.vim
+continuing in /usr/share/nvim/runtime/syntax/synload.vim
+Searching for "/var/lib/snapd/desktop/nvim/site/after/syntax/syncolor.vim"
+Searching for "/usr/share/nvim/site/after/syntax/syncolor.vim"
+Searching for "/usr/local/share/nvim/site/after/syntax/syncolor.vim"
+Searching for "/home/unchained/.local/share/nvim/site/after/syntax/syncolor.vim"
+Searching for "/etc/xdg/nvim/after/syntax/syncolor.vim"
+Searching for "/home/unchained/.config/nvim/after/syntax/syncolor.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-css-color/after/syntax/syncolor.vim"
+Searching for "/usr/share/vim/vimfiles/syntax/syncolor.vim"
+finished sourcing /usr/share/nvim/runtime/syntax/synload.vim
+continuing in /usr/share/nvim/runtime/syntax/syntax.vim
+finished sourcing /usr/share/nvim/runtime/syntax/syntax.vim
+continuing in /home/unchained/.config/nvim/init.vim
+Searching for "spell/en.utf-8.spl" in "/home/unchained/.config/nvim,/home/unchained/.config/nvim/plugged/goyo.vim,/home/unchained/.config/nvim/plugged/vifm.vim,/home/unchained/.config/nvim/plugged/limelight.vim,/home/unchained/.config/nvim/plugged/coc.nvim,/home/unchained/.config/nvim/plugged/ctrlp.vim,/home/unchained/.config/nvim/plugged/vim-markdown,/home/unchained/.config/nvim/plugged/vim-css-color,/home/unchained/.config/nvim/plugged/fountain.vim,/home/unchained/.config/nvim/plugged/gruvbox,/home/unchained/.config/nvim/plugged/vim-hybrid-material,/home/unchained/.config/nvim/plugged/papercolor-theme,/home/unchained/.config/nvim/plugged/Spacegray.vim,/home/unchained/.config/nvim/plugged/base16-vim,/etc/xdg/nvim,/home/unchained/.local/share/nvim/site,/usr/local/share/nvim/site,/usr/share/nvim/site,/var/lib/snapd/desktop/nvim/site,/usr/share/nvim/runtime,/var/lib/snapd/desktop/nvim/site/after,/usr/share/nvim/site/after,/usr/local/share/nvim/site/after,/home/unchained/.local/share/nvim/site/after,/etc/xdg/nvi
+Searching for "/home/unchained/.config/nvim/spell/en.utf-8.spl"
+Searching for "/home/unchained/.config/nvim/plugged/goyo.vim/spell/en.utf-8.spl"
+Searching for "/home/unchained/.config/nvim/plugged/vifm.vim/spell/en.utf-8.spl"
+Searching for "/home/unchained/.config/nvim/plugged/limelight.vim/spell/en.utf-8.spl"
+Searching for "/home/unchained/.config/nvim/plugged/coc.nvim/spell/en.utf-8.spl"
+Searching for "/home/unchained/.config/nvim/plugged/ctrlp.vim/spell/en.utf-8.spl"
+Searching for "/home/unchained/.config/nvim/plugged/vim-markdown/spell/en.utf-8.spl"
+Searching for "/home/unchained/.config/nvim/plugged/vim-css-color/spell/en.utf-8.spl"
+Searching for "/home/unchained/.config/nvim/plugged/fountain.vim/spell/en.utf-8.spl"
+Searching for "/home/unchained/.config/nvim/plugged/gruvbox/spell/en.utf-8.spl"
+Searching for "/home/unchained/.config/nvim/plugged/vim-hybrid-material/spell/en.utf-8.spl"
+Searching for "/home/unchained/.config/nvim/plugged/papercolor-theme/spell/en.utf-8.spl"
+Searching for "/home/unchained/.config/nvim/plugged/Spacegray.vim/spell/en.utf-8.spl"
+Searching for "/home/unchained/.config/nvim/plugged/base16-vim/spell/en.utf-8.spl"
+Searching for "/etc/xdg/nvim/spell/en.utf-8.spl"
+Searching for "/home/unchained/.local/share/nvim/site/spell/en.utf-8.spl"
+Searching for "/usr/local/share/nvim/site/spell/en.utf-8.spl"
+Searching for "/usr/share/nvim/site/spell/en.utf-8.spl"
+Searching for "/var/lib/snapd/desktop/nvim/site/spell/en.utf-8.spl"
+Searching for "/usr/share/nvim/runtime/spell/en.utf-8.spl"
+Reading spell file "/usr/share/nvim/runtime/spell/en.utf-8.spl"
+Searching for "spell/en.utf-8.add.spl" in "/home/unchained/.config/nvim,/home/unchained/.config/nvim/plugged/goyo.vim,/home/unchained/.config/nvim/plugged/vifm.vim,/home/unchained/.config/nvim/plugged/limelight.vim,/home/unchained/.config/nvim/plugged/coc.nvim,/home/unchained/.config/nvim/plugged/ctrlp.vim,/home/unchained/.config/nvim/plugged/vim-markdown,/home/unchained/.config/nvim/plugged/vim-css-color,/home/unchained/.config/nvim/plugged/fountain.vim,/home/unchained/.config/nvim/plugged/gruvbox,/home/unchained/.config/nvim/plugged/vim-hybrid-material,/home/unchained/.config/nvim/plugged/papercolor-theme,/home/unchained/.config/nvim/plugged/Spacegray.vim,/home/unchained/.config/nvim/plugged/base16-vim,/etc/xdg/nvim,/home/unchained/.local/share/nvim/site,/usr/local/share/nvim/site,/usr/share/nvim/site,/var/lib/snapd/desktop/nvim/site,/usr/share/nvim/runtime,/var/lib/snapd/desktop/nvim/site/after,/usr/share/nvim/site/after,/usr/local/share/nvim/site/after,/home/unchained/.local/share/nvim/site/after,/etc/xdg
+Searching for "/home/unchained/.config/nvim/spell/en.utf-8.add.spl"
+Searching for "/home/unchained/.config/nvim/plugged/goyo.vim/spell/en.utf-8.add.spl"
+Searching for "/home/unchained/.config/nvim/plugged/vifm.vim/spell/en.utf-8.add.spl"
+Searching for "/home/unchained/.config/nvim/plugged/limelight.vim/spell/en.utf-8.add.spl"
+Searching for "/home/unchained/.config/nvim/plugged/coc.nvim/spell/en.utf-8.add.spl"
+Searching for "/home/unchained/.config/nvim/plugged/ctrlp.vim/spell/en.utf-8.add.spl"
+Searching for "/home/unchained/.config/nvim/plugged/vim-markdown/spell/en.utf-8.add.spl"
+Searching for "/home/unchained/.config/nvim/plugged/vim-css-color/spell/en.utf-8.add.spl"
+Searching for "/home/unchained/.config/nvim/plugged/fountain.vim/spell/en.utf-8.add.spl"
+Searching for "/home/unchained/.config/nvim/plugged/gruvbox/spell/en.utf-8.add.spl"
+Searching for "/home/unchained/.config/nvim/plugged/vim-hybrid-material/spell/en.utf-8.add.spl"
+Searching for "/home/unchained/.config/nvim/plugged/papercolor-theme/spell/en.utf-8.add.spl"
+Searching for "/home/unchained/.config/nvim/plugged/Spacegray.vim/spell/en.utf-8.add.spl"
+Searching for "/home/unchained/.config/nvim/plugged/base16-vim/spell/en.utf-8.add.spl"
+Searching for "/etc/xdg/nvim/spell/en.utf-8.add.spl"
+Searching for "/home/unchained/.local/share/nvim/site/spell/en.utf-8.add.spl"
+Searching for "/usr/local/share/nvim/site/spell/en.utf-8.add.spl"
+Searching for "/usr/share/nvim/site/spell/en.utf-8.add.spl"
+Searching for "/var/lib/snapd/desktop/nvim/site/spell/en.utf-8.add.spl"
+Searching for "/usr/share/nvim/runtime/spell/en.utf-8.add.spl"
+Searching for "/var/lib/snapd/desktop/nvim/site/after/spell/en.utf-8.add.spl"
+Searching for "/usr/share/nvim/site/after/spell/en.utf-8.add.spl"
+Searching for "/usr/local/share/nvim/site/after/spell/en.utf-8.add.spl"
+Searching for "/home/unchained/.local/share/nvim/site/after/spell/en.utf-8.add.spl"
+Searching for "/etc/xdg/nvim/after/spell/en.utf-8.add.spl"
+Searching for "/home/unchained/.config/nvim/after/spell/en.utf-8.add.spl"
+Searching for "/home/unchained/.config/nvim/plugged/vim-css-color/after/spell/en.utf-8.add.spl"
+Searching for "/usr/share/vim/vimfiles/spell/en.utf-8.add.spl"
+not found in 'runtimepath': "spell/en.utf-8.add.spl"
+Searching for "spell/en.vim" in "/home/unchained/.config/nvim,/home/unchained/.config/nvim/plugged/goyo.vim,/home/unchained/.config/nvim/plugged/vifm.vim,/home/unchained/.config/nvim/plugged/limelight.vim,/home/unchained/.config/nvim/plugged/coc.nvim,/home/unchained/.config/nvim/plugged/ctrlp.vim,/home/unchained/.config/nvim/plugged/vim-markdown,/home/unchained/.config/nvim/plugged/vim-css-color,/home/unchained/.config/nvim/plugged/fountain.vim,/home/unchained/.config/nvim/plugged/gruvbox,/home/unchained/.config/nvim/plugged/vim-hybrid-material,/home/unchained/.config/nvim/plugged/papercolor-theme,/home/unchained/.config/nvim/plugged/Spacegray.vim,/home/unchained/.config/nvim/plugged/base16-vim,/etc/xdg/nvim,/home/unchained/.local/share/nvim/site,/usr/local/share/nvim/site,/usr/share/nvim/site,/var/lib/snapd/desktop/nvim/site,/usr/share/nvim/runtime,/var/lib/snapd/desktop/nvim/site/after,/usr/share/nvim/site/after,/usr/local/share/nvim/site/after,/home/unchained/.local/share/nvim/site/after,/etc/xdg/nvim/afte
+Searching for "/home/unchained/.config/nvim/spell/en.vim"
+Searching for "/home/unchained/.config/nvim/plugged/goyo.vim/spell/en.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vifm.vim/spell/en.vim"
+Searching for "/home/unchained/.config/nvim/plugged/limelight.vim/spell/en.vim"
+Searching for "/home/unchained/.config/nvim/plugged/coc.nvim/spell/en.vim"
+Searching for "/home/unchained/.config/nvim/plugged/ctrlp.vim/spell/en.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-markdown/spell/en.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-css-color/spell/en.vim"
+Searching for "/home/unchained/.config/nvim/plugged/fountain.vim/spell/en.vim"
+Searching for "/home/unchained/.config/nvim/plugged/gruvbox/spell/en.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-hybrid-material/spell/en.vim"
+Searching for "/home/unchained/.config/nvim/plugged/papercolor-theme/spell/en.vim"
+Searching for "/home/unchained/.config/nvim/plugged/Spacegray.vim/spell/en.vim"
+Searching for "/home/unchained/.config/nvim/plugged/base16-vim/spell/en.vim"
+Searching for "/etc/xdg/nvim/spell/en.vim"
+Searching for "/home/unchained/.local/share/nvim/site/spell/en.vim"
+Searching for "/usr/local/share/nvim/site/spell/en.vim"
+Searching for "/usr/share/nvim/site/spell/en.vim"
+Searching for "/var/lib/snapd/desktop/nvim/site/spell/en.vim"
+Searching for "/usr/share/nvim/runtime/spell/en.vim"
+Searching for "/var/lib/snapd/desktop/nvim/site/after/spell/en.vim"
+Searching for "/usr/share/nvim/site/after/spell/en.vim"
+Searching for "/usr/local/share/nvim/site/after/spell/en.vim"
+Searching for "/home/unchained/.local/share/nvim/site/after/spell/en.vim"
+Searching for "/etc/xdg/nvim/after/spell/en.vim"
+Searching for "/home/unchained/.config/nvim/after/spell/en.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-css-color/after/spell/en.vim"
+Searching for "/usr/share/vim/vimfiles/spell/en.vim"
+not found in 'runtimepath': "spell/en.vim"
+Searching for "colors/gruvbox.vim" in "/home/unchained/.config/nvim,/home/unchained/.config/nvim/plugged/goyo.vim,/home/unchained/.config/nvim/plugged/vifm.vim,/home/unchained/.config/nvim/plugged/limelight.vim,/home/unchained/.config/nvim/plugged/coc.nvim,/home/unchained/.config/nvim/plugged/ctrlp.vim,/home/unchained/.config/nvim/plugged/vim-markdown,/home/unchained/.config/nvim/plugged/vim-css-color,/home/unchained/.config/nvim/plugged/fountain.vim,/home/unchained/.config/nvim/plugged/gruvbox,/home/unchained/.config/nvim/plugged/vim-hybrid-material,/home/unchained/.config/nvim/plugged/papercolor-theme,/home/unchained/.config/nvim/plugged/Spacegray.vim,/home/unchained/.config/nvim/plugged/base16-vim,/etc/xdg/nvim,/home/unchained/.local/share/nvim/site,/usr/local/share/nvim/site,/usr/share/nvim/site,/var/lib/snapd/desktop/nvim/site,/usr/share/nvim/runtime,/var/lib/snapd/desktop/nvim/site/after,/usr/share/nvim/site/after,/usr/local/share/nvim/site/after,/home/unchained/.local/share/nvim/site/after,/etc/xdg/nvi
+Searching for "/home/unchained/.config/nvim/colors/gruvbox.vim"
+Searching for "/home/unchained/.config/nvim/plugged/goyo.vim/colors/gruvbox.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vifm.vim/colors/gruvbox.vim"
+Searching for "/home/unchained/.config/nvim/plugged/limelight.vim/colors/gruvbox.vim"
+Searching for "/home/unchained/.config/nvim/plugged/coc.nvim/colors/gruvbox.vim"
+Searching for "/home/unchained/.config/nvim/plugged/ctrlp.vim/colors/gruvbox.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-markdown/colors/gruvbox.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-css-color/colors/gruvbox.vim"
+Searching for "/home/unchained/.config/nvim/plugged/fountain.vim/colors/gruvbox.vim"
+Searching for "/home/unchained/.config/nvim/plugged/gruvbox/colors/gruvbox.vim"
+chdir(/home/unchained/.config/nvim)
+chdir(/home/unchained/.config/nvim/plugged/gruvbox/colors)
+chdir(/home/unchained/.config/nvim)
+line 82: sourcing "/home/unchained/.config/nvim/plugged/gruvbox/colors/gruvbox.vim"
+Searching for "syntax/syncolor.vim" in "/home/unchained/.config/nvim,/home/unchained/.config/nvim/plugged/goyo.vim,/home/unchained/.config/nvim/plugged/vifm.vim,/home/unchained/.config/nvim/plugged/limelight.vim,/home/unchained/.config/nvim/plugged/coc.nvim,/home/unchained/.config/nvim/plugged/ctrlp.vim,/home/unchained/.config/nvim/plugged/vim-markdown,/home/unchained/.config/nvim/plugged/vim-css-color,/home/unchained/.config/nvim/plugged/fountain.vim,/home/unchained/.config/nvim/plugged/gruvbox,/home/unchained/.config/nvim/plugged/vim-hybrid-material,/home/unchained/.config/nvim/plugged/papercolor-theme,/home/unchained/.config/nvim/plugged/Spacegray.vim,/home/unchained/.config/nvim/plugged/base16-vim,/etc/xdg/nvim,/home/unchained/.local/share/nvim/site,/usr/local/share/nvim/site,/usr/share/nvim/site,/var/lib/snapd/desktop/nvim/site,/usr/share/nvim/runtime,/var/lib/snapd/desktop/nvim/site/after,/usr/share/nvim/site/after,/usr/local/share/nvim/site/after,/home/unchained/.local/share/nvim/site/after,/etc/xdg/nv
+Searching for "/home/unchained/.config/nvim/syntax/syncolor.vim"
+Searching for "/home/unchained/.config/nvim/plugged/goyo.vim/syntax/syncolor.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vifm.vim/syntax/syncolor.vim"
+Searching for "/home/unchained/.config/nvim/plugged/limelight.vim/syntax/syncolor.vim"
+Searching for "/home/unchained/.config/nvim/plugged/coc.nvim/syntax/syncolor.vim"
+Searching for "/home/unchained/.config/nvim/plugged/ctrlp.vim/syntax/syncolor.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-markdown/syntax/syncolor.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-css-color/syntax/syncolor.vim"
+Searching for "/home/unchained/.config/nvim/plugged/fountain.vim/syntax/syncolor.vim"
+Searching for "/home/unchained/.config/nvim/plugged/gruvbox/syntax/syncolor.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-hybrid-material/syntax/syncolor.vim"
+Searching for "/home/unchained/.config/nvim/plugged/papercolor-theme/syntax/syncolor.vim"
+Searching for "/home/unchained/.config/nvim/plugged/Spacegray.vim/syntax/syncolor.vim"
+Searching for "/home/unchained/.config/nvim/plugged/base16-vim/syntax/syncolor.vim"
+Searching for "/etc/xdg/nvim/syntax/syncolor.vim"
+Searching for "/home/unchained/.local/share/nvim/site/syntax/syncolor.vim"
+Searching for "/usr/local/share/nvim/site/syntax/syncolor.vim"
+Searching for "/usr/share/nvim/site/syntax/syncolor.vim"
+Searching for "/var/lib/snapd/desktop/nvim/site/syntax/syncolor.vim"
+Searching for "/usr/share/nvim/runtime/syntax/syncolor.vim"
+chdir(/home/unchained/.config/nvim)
+chdir(/usr/share/nvim/runtime/syntax)
+chdir(/home/unchained/.config/nvim)
+line 13: sourcing "/usr/share/nvim/runtime/syntax/syncolor.vim"
+finished sourcing /usr/share/nvim/runtime/syntax/syncolor.vim
+continuing in /home/unchained/.config/nvim/plugged/gruvbox/colors/gruvbox.vim
+Searching for "/var/lib/snapd/desktop/nvim/site/after/syntax/syncolor.vim"
+Searching for "/usr/share/nvim/site/after/syntax/syncolor.vim"
+Searching for "/usr/local/share/nvim/site/after/syntax/syncolor.vim"
+Searching for "/home/unchained/.local/share/nvim/site/after/syntax/syncolor.vim"
+Searching for "/etc/xdg/nvim/after/syntax/syncolor.vim"
+Searching for "/home/unchained/.config/nvim/after/syntax/syncolor.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-css-color/after/syntax/syncolor.vim"
+Searching for "/usr/share/vim/vimfiles/syntax/syncolor.vim"
+Searching for "syntax/syncolor.vim" in "/home/unchained/.config/nvim,/home/unchained/.config/nvim/plugged/goyo.vim,/home/unchained/.config/nvim/plugged/vifm.vim,/home/unchained/.config/nvim/plugged/limelight.vim,/home/unchained/.config/nvim/plugged/coc.nvim,/home/unchained/.config/nvim/plugged/ctrlp.vim,/home/unchained/.config/nvim/plugged/vim-markdown,/home/unchained/.config/nvim/plugged/vim-css-color,/home/unchained/.config/nvim/plugged/fountain.vim,/home/unchained/.config/nvim/plugged/gruvbox,/home/unchained/.config/nvim/plugged/vim-hybrid-material,/home/unchained/.config/nvim/plugged/papercolor-theme,/home/unchained/.config/nvim/plugged/Spacegray.vim,/home/unchained/.config/nvim/plugged/base16-vim,/etc/xdg/nvim,/home/unchained/.local/share/nvim/site,/usr/local/share/nvim/site,/usr/share/nvim/site,/var/lib/snapd/desktop/nvim/site,/usr/share/nvim/runtime,/var/lib/snapd/desktop/nvim/site/after,/usr/share/nvim/site/after,/usr/local/share/nvim/site/after,/home/unchained/.local/share/nvim/site/after,/etc/xdg/nv
+Searching for "/home/unchained/.config/nvim/syntax/syncolor.vim"
+Searching for "/home/unchained/.config/nvim/plugged/goyo.vim/syntax/syncolor.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vifm.vim/syntax/syncolor.vim"
+Searching for "/home/unchained/.config/nvim/plugged/limelight.vim/syntax/syncolor.vim"
+Searching for "/home/unchained/.config/nvim/plugged/coc.nvim/syntax/syncolor.vim"
+Searching for "/home/unchained/.config/nvim/plugged/ctrlp.vim/syntax/syncolor.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-markdown/syntax/syncolor.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-css-color/syntax/syncolor.vim"
+Searching for "/home/unchained/.config/nvim/plugged/fountain.vim/syntax/syncolor.vim"
+Searching for "/home/unchained/.config/nvim/plugged/gruvbox/syntax/syncolor.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-hybrid-material/syntax/syncolor.vim"
+Searching for "/home/unchained/.config/nvim/plugged/papercolor-theme/syntax/syncolor.vim"
+Searching for "/home/unchained/.config/nvim/plugged/Spacegray.vim/syntax/syncolor.vim"
+Searching for "/home/unchained/.config/nvim/plugged/base16-vim/syntax/syncolor.vim"
+Searching for "/etc/xdg/nvim/syntax/syncolor.vim"
+Searching for "/home/unchained/.local/share/nvim/site/syntax/syncolor.vim"
+Searching for "/usr/local/share/nvim/site/syntax/syncolor.vim"
+Searching for "/usr/share/nvim/site/syntax/syncolor.vim"
+Searching for "/var/lib/snapd/desktop/nvim/site/syntax/syncolor.vim"
+Searching for "/usr/share/nvim/runtime/syntax/syncolor.vim"
+chdir(/home/unchained/.config/nvim)
+chdir(/usr/share/nvim/runtime/syntax)
+chdir(/home/unchained/.config/nvim)
+line 15: sourcing "/usr/share/nvim/runtime/syntax/syncolor.vim"
+finished sourcing /usr/share/nvim/runtime/syntax/syncolor.vim
+continuing in /home/unchained/.config/nvim/plugged/gruvbox/colors/gruvbox.vim
+Searching for "/var/lib/snapd/desktop/nvim/site/after/syntax/syncolor.vim"
+Searching for "/usr/share/nvim/site/after/syntax/syncolor.vim"
+Searching for "/usr/local/share/nvim/site/after/syntax/syncolor.vim"
+Searching for "/home/unchained/.local/share/nvim/site/after/syntax/syncolor.vim"
+Searching for "/etc/xdg/nvim/after/syntax/syncolor.vim"
+Searching for "/home/unchained/.config/nvim/after/syntax/syncolor.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-css-color/after/syntax/syncolor.vim"
+Searching for "/usr/share/vim/vimfiles/syntax/syncolor.vim"
+finished sourcing /home/unchained/.config/nvim/plugged/gruvbox/colors/gruvbox.vim
+continuing in /home/unchained/.config/nvim/init.vim
+Searching for "colors/gruvbox.vim" in "/home/unchained/.config/nvim,/home/unchained/.config/nvim/plugged/goyo.vim,/home/unchained/.config/nvim/plugged/vifm.vim,/home/unchained/.config/nvim/plugged/limelight.vim,/home/unchained/.config/nvim/plugged/coc.nvim,/home/unchained/.config/nvim/plugged/ctrlp.vim,/home/unchained/.config/nvim/plugged/vim-markdown,/home/unchained/.config/nvim/plugged/vim-css-color,/home/unchained/.config/nvim/plugged/fountain.vim,/home/unchained/.config/nvim/plugged/gruvbox,/home/unchained/.config/nvim/plugged/vim-hybrid-material,/home/unchained/.config/nvim/plugged/papercolor-theme,/home/unchained/.config/nvim/plugged/Spacegray.vim,/home/unchained/.config/nvim/plugged/base16-vim,/etc/xdg/nvim,/home/unchained/.local/share/nvim/site,/usr/local/share/nvim/site,/usr/share/nvim/site,/var/lib/snapd/desktop/nvim/site,/usr/share/nvim/runtime,/var/lib/snapd/desktop/nvim/site/after,/usr/share/nvim/site/after,/usr/local/share/nvim/site/after,/home/unchained/.local/share/nvim/site/after,/etc/xdg/nvi
+Searching for "/home/unchained/.config/nvim/colors/gruvbox.vim"
+Searching for "/home/unchained/.config/nvim/plugged/goyo.vim/colors/gruvbox.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vifm.vim/colors/gruvbox.vim"
+Searching for "/home/unchained/.config/nvim/plugged/limelight.vim/colors/gruvbox.vim"
+Searching for "/home/unchained/.config/nvim/plugged/coc.nvim/colors/gruvbox.vim"
+Searching for "/home/unchained/.config/nvim/plugged/ctrlp.vim/colors/gruvbox.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-markdown/colors/gruvbox.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-css-color/colors/gruvbox.vim"
+Searching for "/home/unchained/.config/nvim/plugged/fountain.vim/colors/gruvbox.vim"
+Searching for "/home/unchained/.config/nvim/plugged/gruvbox/colors/gruvbox.vim"
+chdir(/home/unchained/.config/nvim)
+chdir(/home/unchained/.config/nvim/plugged/gruvbox/colors)
+chdir(/home/unchained/.config/nvim)
+line 83: sourcing "/home/unchained/.config/nvim/plugged/gruvbox/colors/gruvbox.vim"
+Searching for "syntax/syncolor.vim" in "/home/unchained/.config/nvim,/home/unchained/.config/nvim/plugged/goyo.vim,/home/unchained/.config/nvim/plugged/vifm.vim,/home/unchained/.config/nvim/plugged/limelight.vim,/home/unchained/.config/nvim/plugged/coc.nvim,/home/unchained/.config/nvim/plugged/ctrlp.vim,/home/unchained/.config/nvim/plugged/vim-markdown,/home/unchained/.config/nvim/plugged/vim-css-color,/home/unchained/.config/nvim/plugged/fountain.vim,/home/unchained/.config/nvim/plugged/gruvbox,/home/unchained/.config/nvim/plugged/vim-hybrid-material,/home/unchained/.config/nvim/plugged/papercolor-theme,/home/unchained/.config/nvim/plugged/Spacegray.vim,/home/unchained/.config/nvim/plugged/base16-vim,/etc/xdg/nvim,/home/unchained/.local/share/nvim/site,/usr/local/share/nvim/site,/usr/share/nvim/site,/var/lib/snapd/desktop/nvim/site,/usr/share/nvim/runtime,/var/lib/snapd/desktop/nvim/site/after,/usr/share/nvim/site/after,/usr/local/share/nvim/site/after,/home/unchained/.local/share/nvim/site/after,/etc/xdg/nv
+Searching for "/home/unchained/.config/nvim/syntax/syncolor.vim"
+Searching for "/home/unchained/.config/nvim/plugged/goyo.vim/syntax/syncolor.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vifm.vim/syntax/syncolor.vim"
+Searching for "/home/unchained/.config/nvim/plugged/limelight.vim/syntax/syncolor.vim"
+Searching for "/home/unchained/.config/nvim/plugged/coc.nvim/syntax/syncolor.vim"
+Searching for "/home/unchained/.config/nvim/plugged/ctrlp.vim/syntax/syncolor.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-markdown/syntax/syncolor.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-css-color/syntax/syncolor.vim"
+Searching for "/home/unchained/.config/nvim/plugged/fountain.vim/syntax/syncolor.vim"
+Searching for "/home/unchained/.config/nvim/plugged/gruvbox/syntax/syncolor.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-hybrid-material/syntax/syncolor.vim"
+Searching for "/home/unchained/.config/nvim/plugged/papercolor-theme/syntax/syncolor.vim"
+Searching for "/home/unchained/.config/nvim/plugged/Spacegray.vim/syntax/syncolor.vim"
+Searching for "/home/unchained/.config/nvim/plugged/base16-vim/syntax/syncolor.vim"
+Searching for "/etc/xdg/nvim/syntax/syncolor.vim"
+Searching for "/home/unchained/.local/share/nvim/site/syntax/syncolor.vim"
+Searching for "/usr/local/share/nvim/site/syntax/syncolor.vim"
+Searching for "/usr/share/nvim/site/syntax/syncolor.vim"
+Searching for "/var/lib/snapd/desktop/nvim/site/syntax/syncolor.vim"
+Searching for "/usr/share/nvim/runtime/syntax/syncolor.vim"
+chdir(/home/unchained/.config/nvim)
+chdir(/usr/share/nvim/runtime/syntax)
+chdir(/home/unchained/.config/nvim)
+line 13: sourcing "/usr/share/nvim/runtime/syntax/syncolor.vim"
+finished sourcing /usr/share/nvim/runtime/syntax/syncolor.vim
+continuing in /home/unchained/.config/nvim/plugged/gruvbox/colors/gruvbox.vim
+Searching for "/var/lib/snapd/desktop/nvim/site/after/syntax/syncolor.vim"
+Searching for "/usr/share/nvim/site/after/syntax/syncolor.vim"
+Searching for "/usr/local/share/nvim/site/after/syntax/syncolor.vim"
+Searching for "/home/unchained/.local/share/nvim/site/after/syntax/syncolor.vim"
+Searching for "/etc/xdg/nvim/after/syntax/syncolor.vim"
+Searching for "/home/unchained/.config/nvim/after/syntax/syncolor.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-css-color/after/syntax/syncolor.vim"
+Searching for "/usr/share/vim/vimfiles/syntax/syncolor.vim"
+Searching for "syntax/syncolor.vim" in "/home/unchained/.config/nvim,/home/unchained/.config/nvim/plugged/goyo.vim,/home/unchained/.config/nvim/plugged/vifm.vim,/home/unchained/.config/nvim/plugged/limelight.vim,/home/unchained/.config/nvim/plugged/coc.nvim,/home/unchained/.config/nvim/plugged/ctrlp.vim,/home/unchained/.config/nvim/plugged/vim-markdown,/home/unchained/.config/nvim/plugged/vim-css-color,/home/unchained/.config/nvim/plugged/fountain.vim,/home/unchained/.config/nvim/plugged/gruvbox,/home/unchained/.config/nvim/plugged/vim-hybrid-material,/home/unchained/.config/nvim/plugged/papercolor-theme,/home/unchained/.config/nvim/plugged/Spacegray.vim,/home/unchained/.config/nvim/plugged/base16-vim,/etc/xdg/nvim,/home/unchained/.local/share/nvim/site,/usr/local/share/nvim/site,/usr/share/nvim/site,/var/lib/snapd/desktop/nvim/site,/usr/share/nvim/runtime,/var/lib/snapd/desktop/nvim/site/after,/usr/share/nvim/site/after,/usr/local/share/nvim/site/after,/home/unchained/.local/share/nvim/site/after,/etc/xdg/nv
+Searching for "/home/unchained/.config/nvim/syntax/syncolor.vim"
+Searching for "/home/unchained/.config/nvim/plugged/goyo.vim/syntax/syncolor.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vifm.vim/syntax/syncolor.vim"
+Searching for "/home/unchained/.config/nvim/plugged/limelight.vim/syntax/syncolor.vim"
+Searching for "/home/unchained/.config/nvim/plugged/coc.nvim/syntax/syncolor.vim"
+Searching for "/home/unchained/.config/nvim/plugged/ctrlp.vim/syntax/syncolor.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-markdown/syntax/syncolor.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-css-color/syntax/syncolor.vim"
+Searching for "/home/unchained/.config/nvim/plugged/fountain.vim/syntax/syncolor.vim"
+Searching for "/home/unchained/.config/nvim/plugged/gruvbox/syntax/syncolor.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-hybrid-material/syntax/syncolor.vim"
+Searching for "/home/unchained/.config/nvim/plugged/papercolor-theme/syntax/syncolor.vim"
+Searching for "/home/unchained/.config/nvim/plugged/Spacegray.vim/syntax/syncolor.vim"
+Searching for "/home/unchained/.config/nvim/plugged/base16-vim/syntax/syncolor.vim"
+Searching for "/etc/xdg/nvim/syntax/syncolor.vim"
+Searching for "/home/unchained/.local/share/nvim/site/syntax/syncolor.vim"
+Searching for "/usr/local/share/nvim/site/syntax/syncolor.vim"
+Searching for "/usr/share/nvim/site/syntax/syncolor.vim"
+Searching for "/var/lib/snapd/desktop/nvim/site/syntax/syncolor.vim"
+Searching for "/usr/share/nvim/runtime/syntax/syncolor.vim"
+chdir(/home/unchained/.config/nvim)
+chdir(/usr/share/nvim/runtime/syntax)
+chdir(/home/unchained/.config/nvim)
+line 15: sourcing "/usr/share/nvim/runtime/syntax/syncolor.vim"
+finished sourcing /usr/share/nvim/runtime/syntax/syncolor.vim
+continuing in /home/unchained/.config/nvim/plugged/gruvbox/colors/gruvbox.vim
+Searching for "/var/lib/snapd/desktop/nvim/site/after/syntax/syncolor.vim"
+Searching for "/usr/share/nvim/site/after/syntax/syncolor.vim"
+Searching for "/usr/local/share/nvim/site/after/syntax/syncolor.vim"
+Searching for "/home/unchained/.local/share/nvim/site/after/syntax/syncolor.vim"
+Searching for "/etc/xdg/nvim/after/syntax/syncolor.vim"
+Searching for "/home/unchained/.config/nvim/after/syntax/syncolor.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-css-color/after/syntax/syncolor.vim"
+Searching for "/usr/share/vim/vimfiles/syntax/syncolor.vim"
+finished sourcing /home/unchained/.config/nvim/plugged/gruvbox/colors/gruvbox.vim
+continuing in /home/unchained/.config/nvim/init.vim
+finished sourcing /home/unchained/.config/nvim/init.vim
+Searching for "pack/*/start/*" in "/home/unchained/.config/nvim,/etc/xdg/nvim,/home/unchained/.local/share/nvim/site,/usr/local/share/nvim/site,/usr/share/nvim/site,/var/lib/snapd/desktop/nvim/site,/usr/share/nvim/runtime,/var/lib/snapd/desktop/nvim/site/after,/usr/share/nvim/site/after,/usr/local/share/nvim/site/after,/home/unchained/.local/share/nvim/site/after,/etc/xdg/nvim/after,/home/unchained/.config/nvim/after"
+Searching for "/home/unchained/.config/nvim/pack/*/start/*"
+Searching for "/etc/xdg/nvim/pack/*/start/*"
+Searching for "/home/unchained/.local/share/nvim/site/pack/*/start/*"
+Searching for "/usr/local/share/nvim/site/pack/*/start/*"
+Searching for "/usr/share/nvim/site/pack/*/start/*"
+Searching for "/var/lib/snapd/desktop/nvim/site/pack/*/start/*"
+Searching for "/usr/share/nvim/runtime/pack/*/start/*"
+Searching for "/var/lib/snapd/desktop/nvim/site/after/pack/*/start/*"
+Searching for "/usr/share/nvim/site/after/pack/*/start/*"
+Searching for "/usr/local/share/nvim/site/after/pack/*/start/*"
+Searching for "/home/unchained/.local/share/nvim/site/after/pack/*/start/*"
+Searching for "/etc/xdg/nvim/after/pack/*/start/*"
+Searching for "/home/unchained/.config/nvim/after/pack/*/start/*"
+not found in 'packpath': "pack/*/start/*"
+Searching for "plugin/**/*.vim" in "/home/unchained/.config/nvim,/home/unchained/.config/nvim/plugged/goyo.vim,/home/unchained/.config/nvim/plugged/vifm.vim,/home/unchained/.config/nvim/plugged/limelight.vim,/home/unchained/.config/nvim/plugged/coc.nvim,/home/unchained/.config/nvim/plugged/ctrlp.vim,/home/unchained/.config/nvim/plugged/vim-markdown,/home/unchained/.config/nvim/plugged/vim-css-color,/home/unchained/.config/nvim/plugged/fountain.vim,/home/unchained/.config/nvim/plugged/gruvbox,/home/unchained/.config/nvim/plugged/vim-hybrid-material,/home/unchained/.config/nvim/plugged/papercolor-theme,/home/unchained/.config/nvim/plugged/Spacegray.vim,/home/unchained/.config/nvim/plugged/base16-vim,/etc/xdg/nvim,/home/unchained/.local/share/nvim/site,/usr/local/share/nvim/site,/usr/share/nvim/site,/var/lib/snapd/desktop/nvim/site,/usr/share/nvim/runtime,/var/lib/snapd/desktop/nvim/site/after,/usr/share/nvim/site/after,/usr/local/share/nvim/site/after,/home/unchained/.local/share/nvim/site/after,/etc/xdg/nvim/a
+Searching for "/home/unchained/.config/nvim/plugin/**/*.vim"
+Searching for "/home/unchained/.config/nvim/plugged/goyo.vim/plugin/**/*.vim"
+chdir(/home/unchained/.config/nvim)
+chdir(/home/unchained/.config/nvim/plugged/goyo.vim/plugin)
+chdir(/home/unchained/.config/nvim)
+sourcing "/home/unchained/.config/nvim/plugged/goyo.vim/plugin/goyo.vim"
+finished sourcing /home/unchained/.config/nvim/plugged/goyo.vim/plugin/goyo.vim
+Searching for "/home/unchained/.config/nvim/plugged/vifm.vim/plugin/**/*.vim"
+chdir(/home/unchained/.config/nvim)
+chdir(/home/unchained/.config/nvim/plugged/vifm.vim/plugin)
+chdir(/home/unchained/.config/nvim)
+sourcing "/home/unchained/.config/nvim/plugged/vifm.vim/plugin/vifm.vim"
+Searching for "autoload/vifm/globals.vim" in "/home/unchained/.config/nvim,/home/unchained/.config/nvim/plugged/goyo.vim,/home/unchained/.config/nvim/plugged/vifm.vim,/home/unchained/.config/nvim/plugged/limelight.vim,/home/unchained/.config/nvim/plugged/coc.nvim,/home/unchained/.config/nvim/plugged/ctrlp.vim,/home/unchained/.config/nvim/plugged/vim-markdown,/home/unchained/.config/nvim/plugged/vim-css-color,/home/unchained/.config/nvim/plugged/fountain.vim,/home/unchained/.config/nvim/plugged/gruvbox,/home/unchained/.config/nvim/plugged/vim-hybrid-material,/home/unchained/.config/nvim/plugged/papercolor-theme,/home/unchained/.config/nvim/plugged/Spacegray.vim,/home/unchained/.config/nvim/plugged/base16-vim,/etc/xdg/nvim,/home/unchained/.local/share/nvim/site,/usr/local/share/nvim/site,/usr/share/nvim/site,/var/lib/snapd/desktop/nvim/site,/usr/share/nvim/runtime,/var/lib/snapd/desktop/nvim/site/after,/usr/share/nvim/site/after,/usr/local/share/nvim/site/after,/home/unchained/.local/share/nvim/site/after,/etc/
+Searching for "/home/unchained/.config/nvim/autoload/vifm/globals.vim"
+Searching for "/home/unchained/.config/nvim/plugged/goyo.vim/autoload/vifm/globals.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vifm.vim/autoload/vifm/globals.vim"
+chdir(/home/unchained/.config/nvim)
+chdir(/home/unchained/.config/nvim/plugged/vifm.vim/autoload/vifm)
+chdir(/home/unchained/.config/nvim)
+line 57: sourcing "/home/unchained/.config/nvim/plugged/vifm.vim/autoload/vifm/globals.vim"
+finished sourcing /home/unchained/.config/nvim/plugged/vifm.vim/autoload/vifm/globals.vim
+continuing in /home/unchained/.config/nvim/plugged/vifm.vim/plugin/vifm.vim
+finished sourcing /home/unchained/.config/nvim/plugged/vifm.vim/plugin/vifm.vim
+Searching for "/home/unchained/.config/nvim/plugged/limelight.vim/plugin/**/*.vim"
+chdir(/home/unchained/.config/nvim)
+chdir(/home/unchained/.config/nvim/plugged/limelight.vim/plugin)
+chdir(/home/unchained/.config/nvim)
+sourcing "/home/unchained/.config/nvim/plugged/limelight.vim/plugin/limelight.vim"
+finished sourcing /home/unchained/.config/nvim/plugged/limelight.vim/plugin/limelight.vim
+Searching for "/home/unchained/.config/nvim/plugged/coc.nvim/plugin/**/*.vim"
+chdir(/home/unchained/.config/nvim)
+chdir(/home/unchained/.config/nvim/plugged/coc.nvim/plugin)
+chdir(/home/unchained/.config/nvim)
+sourcing "/home/unchained/.config/nvim/plugged/coc.nvim/plugin/coc.vim"
+Searching for "autoload/coc/rpc.vim" in "/home/unchained/.config/nvim,/home/unchained/.config/nvim/plugged/goyo.vim,/home/unchained/.config/nvim/plugged/vifm.vim,/home/unchained/.config/nvim/plugged/limelight.vim,/home/unchained/.config/nvim/plugged/coc.nvim,/home/unchained/.config/nvim/plugged/ctrlp.vim,/home/unchained/.config/nvim/plugged/vim-markdown,/home/unchained/.config/nvim/plugged/vim-css-color,/home/unchained/.config/nvim/plugged/fountain.vim,/home/unchained/.config/nvim/plugged/gruvbox,/home/unchained/.config/nvim/plugged/vim-hybrid-material,/home/unchained/.config/nvim/plugged/papercolor-theme,/home/unchained/.config/nvim/plugged/Spacegray.vim,/home/unchained/.config/nvim/plugged/base16-vim,/etc/xdg/nvim,/home/unchained/.local/share/nvim/site,/usr/local/share/nvim/site,/usr/share/nvim/site,/var/lib/snapd/desktop/nvim/site,/usr/share/nvim/runtime,/var/lib/snapd/desktop/nvim/site/after,/usr/share/nvim/site/after,/usr/local/share/nvim/site/after,/home/unchained/.local/share/nvim/site/after,/etc/xdg/n
+Searching for "/home/unchained/.config/nvim/autoload/coc/rpc.vim"
+Searching for "/home/unchained/.config/nvim/plugged/goyo.vim/autoload/coc/rpc.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vifm.vim/autoload/coc/rpc.vim"
+Searching for "/home/unchained/.config/nvim/plugged/limelight.vim/autoload/coc/rpc.vim"
+Searching for "/home/unchained/.config/nvim/plugged/coc.nvim/autoload/coc/rpc.vim"
+chdir(/home/unchained/.config/nvim)
+chdir(/home/unchained/.config/nvim/plugged/coc.nvim/autoload/coc)
+chdir(/home/unchained/.config/nvim)
+line 15: sourcing "/home/unchained/.config/nvim/plugged/coc.nvim/autoload/coc/rpc.vim"
+finished sourcing /home/unchained/.config/nvim/plugged/coc.nvim/autoload/coc/rpc.vim
+continuing in /home/unchained/.config/nvim/plugged/coc.nvim/plugin/coc.vim
+Searching for "autoload/coc/util.vim" in "/home/unchained/.config/nvim,/home/unchained/.config/nvim/plugged/goyo.vim,/home/unchained/.config/nvim/plugged/vifm.vim,/home/unchained/.config/nvim/plugged/limelight.vim,/home/unchained/.config/nvim/plugged/coc.nvim,/home/unchained/.config/nvim/plugged/ctrlp.vim,/home/unchained/.config/nvim/plugged/vim-markdown,/home/unchained/.config/nvim/plugged/vim-css-color,/home/unchained/.config/nvim/plugged/fountain.vim,/home/unchained/.config/nvim/plugged/gruvbox,/home/unchained/.config/nvim/plugged/vim-hybrid-material,/home/unchained/.config/nvim/plugged/papercolor-theme,/home/unchained/.config/nvim/plugged/Spacegray.vim,/home/unchained/.config/nvim/plugged/base16-vim,/etc/xdg/nvim,/home/unchained/.local/share/nvim/site,/usr/local/share/nvim/site,/usr/share/nvim/site,/var/lib/snapd/desktop/nvim/site,/usr/share/nvim/runtime,/var/lib/snapd/desktop/nvim/site/after,/usr/share/nvim/site/after,/usr/local/share/nvim/site/after,/home/unchained/.local/share/nvim/site/after,/etc/xdg/
+Searching for "/home/unchained/.config/nvim/autoload/coc/util.vim"
+Searching for "/home/unchained/.config/nvim/plugged/goyo.vim/autoload/coc/util.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vifm.vim/autoload/coc/util.vim"
+Searching for "/home/unchained/.config/nvim/plugged/limelight.vim/autoload/coc/util.vim"
+Searching for "/home/unchained/.config/nvim/plugged/coc.nvim/autoload/coc/util.vim"
+chdir(/home/unchained/.config/nvim)
+chdir(/home/unchained/.config/nvim/plugged/coc.nvim/autoload/coc)
+chdir(/home/unchained/.config/nvim)
+line 10: sourcing "/home/unchained/.config/nvim/plugged/coc.nvim/autoload/coc/util.vim"
+finished sourcing /home/unchained/.config/nvim/plugged/coc.nvim/autoload/coc/util.vim
+continuing in function coc#rpc#start_server
+Searching for "autoload/coc/client.vim" in "/home/unchained/.config/nvim,/home/unchained/.config/nvim/plugged/goyo.vim,/home/unchained/.config/nvim/plugged/vifm.vim,/home/unchained/.config/nvim/plugged/limelight.vim,/home/unchained/.config/nvim/plugged/coc.nvim,/home/unchained/.config/nvim/plugged/ctrlp.vim,/home/unchained/.config/nvim/plugged/vim-markdown,/home/unchained/.config/nvim/plugged/vim-css-color,/home/unchained/.config/nvim/plugged/fountain.vim,/home/unchained/.config/nvim/plugged/gruvbox,/home/unchained/.config/nvim/plugged/vim-hybrid-material,/home/unchained/.config/nvim/plugged/papercolor-theme,/home/unchained/.config/nvim/plugged/Spacegray.vim,/home/unchained/.config/nvim/plugged/base16-vim,/etc/xdg/nvim,/home/unchained/.local/share/nvim/site,/usr/local/share/nvim/site,/usr/share/nvim/site,/var/lib/snapd/desktop/nvim/site,/usr/share/nvim/runtime,/var/lib/snapd/desktop/nvim/site/after,/usr/share/nvim/site/after,/usr/local/share/nvim/site/after,/home/unchained/.local/share/nvim/site/after,/etc/xd
+Searching for "/home/unchained/.config/nvim/autoload/coc/client.vim"
+Searching for "/home/unchained/.config/nvim/plugged/goyo.vim/autoload/coc/client.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vifm.vim/autoload/coc/client.vim"
+Searching for "/home/unchained/.config/nvim/plugged/limelight.vim/autoload/coc/client.vim"
+Searching for "/home/unchained/.config/nvim/plugged/coc.nvim/autoload/coc/client.vim"
+chdir(/home/unchained/.config/nvim)
+chdir(/home/unchained/.config/nvim/plugged/coc.nvim/autoload/coc)
+chdir(/home/unchained/.config/nvim)
+line 14: sourcing "/home/unchained/.config/nvim/plugged/coc.nvim/autoload/coc/client.vim"
+finished sourcing /home/unchained/.config/nvim/plugged/coc.nvim/autoload/coc/client.vim
+continuing in function coc#rpc#start_server
+finished sourcing /home/unchained/.config/nvim/plugged/coc.nvim/plugin/coc.vim
+Searching for "/home/unchained/.config/nvim/plugged/ctrlp.vim/plugin/**/*.vim"
+chdir(/home/unchained/.config/nvim)
+chdir(/home/unchained/.config/nvim/plugged/ctrlp.vim/plugin)
+chdir(/home/unchained/.config/nvim)
+sourcing "/home/unchained/.config/nvim/plugged/ctrlp.vim/plugin/ctrlp.vim"
+Searching for "autoload/ctrlp/mrufiles.vim" in "/home/unchained/.config/nvim,/home/unchained/.config/nvim/plugged/goyo.vim,/home/unchained/.config/nvim/plugged/vifm.vim,/home/unchained/.config/nvim/plugged/limelight.vim,/home/unchained/.config/nvim/plugged/coc.nvim,/home/unchained/.config/nvim/plugged/ctrlp.vim,/home/unchained/.config/nvim/plugged/vim-markdown,/home/unchained/.config/nvim/plugged/vim-css-color,/home/unchained/.config/nvim/plugged/fountain.vim,/home/unchained/.config/nvim/plugged/gruvbox,/home/unchained/.config/nvim/plugged/vim-hybrid-material,/home/unchained/.config/nvim/plugged/papercolor-theme,/home/unchained/.config/nvim/plugged/Spacegray.vim,/home/unchained/.config/nvim/plugged/base16-vim,/etc/xdg/nvim,/home/unchained/.local/share/nvim/site,/usr/local/share/nvim/site,/usr/share/nvim/site,/var/lib/snapd/desktop/nvim/site,/usr/share/nvim/runtime,/var/lib/snapd/desktop/nvim/site/after,/usr/share/nvim/site/after,/usr/local/share/nvim/site/after,/home/unchained/.local/share/nvim/site/after,/et
+Searching for "/home/unchained/.config/nvim/autoload/ctrlp/mrufiles.vim"
+Searching for "/home/unchained/.config/nvim/plugged/goyo.vim/autoload/ctrlp/mrufiles.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vifm.vim/autoload/ctrlp/mrufiles.vim"
+Searching for "/home/unchained/.config/nvim/plugged/limelight.vim/autoload/ctrlp/mrufiles.vim"
+Searching for "/home/unchained/.config/nvim/plugged/coc.nvim/autoload/ctrlp/mrufiles.vim"
+Searching for "/home/unchained/.config/nvim/plugged/ctrlp.vim/autoload/ctrlp/mrufiles.vim"
+chdir(/home/unchained/.config/nvim)
+chdir(/home/unchained/.config/nvim/plugged/ctrlp.vim/autoload/ctrlp)
+chdir(/home/unchained/.config/nvim)
+line 43: sourcing "/home/unchained/.config/nvim/plugged/ctrlp.vim/autoload/ctrlp/mrufiles.vim"
+finished sourcing /home/unchained/.config/nvim/plugged/ctrlp.vim/autoload/ctrlp/mrufiles.vim
+continuing in /home/unchained/.config/nvim/plugged/ctrlp.vim/plugin/ctrlp.vim
+finished sourcing /home/unchained/.config/nvim/plugged/ctrlp.vim/plugin/ctrlp.vim
+Searching for "/home/unchained/.config/nvim/plugged/vim-markdown/plugin/**/*.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-css-color/plugin/**/*.vim"
+Searching for "/home/unchained/.config/nvim/plugged/fountain.vim/plugin/**/*.vim"
+Searching for "/home/unchained/.config/nvim/plugged/gruvbox/plugin/**/*.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-hybrid-material/plugin/**/*.vim"
+Searching for "/home/unchained/.config/nvim/plugged/papercolor-theme/plugin/**/*.vim"
+Searching for "/home/unchained/.config/nvim/plugged/Spacegray.vim/plugin/**/*.vim"
+Searching for "/home/unchained/.config/nvim/plugged/base16-vim/plugin/**/*.vim"
+Searching for "/etc/xdg/nvim/plugin/**/*.vim"
+Searching for "/home/unchained/.local/share/nvim/site/plugin/**/*.vim"
+Searching for "/usr/local/share/nvim/site/plugin/**/*.vim"
+Searching for "/usr/share/nvim/site/plugin/**/*.vim"
+Searching for "/var/lib/snapd/desktop/nvim/site/plugin/**/*.vim"
+Searching for "/usr/share/nvim/runtime/plugin/**/*.vim"
+chdir(/home/unchained/.config/nvim)
+chdir(/usr/share/nvim/runtime/plugin)
+chdir(/home/unchained/.config/nvim)
+sourcing "/usr/share/nvim/runtime/plugin/gzip.vim"
+finished sourcing /usr/share/nvim/runtime/plugin/gzip.vim
+chdir(/home/unchained/.config/nvim)
+chdir(/usr/share/nvim/runtime/plugin)
+chdir(/home/unchained/.config/nvim)
+sourcing "/usr/share/nvim/runtime/plugin/health.vim"
+finished sourcing /usr/share/nvim/runtime/plugin/health.vim
+chdir(/home/unchained/.config/nvim)
+chdir(/usr/share/nvim/runtime/plugin)
+chdir(/home/unchained/.config/nvim)
+sourcing "/usr/share/nvim/runtime/plugin/man.vim"
+finished sourcing /usr/share/nvim/runtime/plugin/man.vim
+chdir(/home/unchained/.config/nvim)
+chdir(/usr/share/nvim/runtime/plugin)
+chdir(/home/unchained/.config/nvim)
+sourcing "/usr/share/nvim/runtime/plugin/matchit.vim"
+Searching for "pack/*/start/matchit" in "/home/unchained/.config/nvim,/etc/xdg/nvim,/home/unchained/.local/share/nvim/site,/usr/local/share/nvim/site,/usr/share/nvim/site,/var/lib/snapd/desktop/nvim/site,/usr/share/nvim/runtime,/var/lib/snapd/desktop/nvim/site/after,/usr/share/nvim/site/after,/usr/local/share/nvim/site/after,/home/unchained/.local/share/nvim/site/after,/etc/xdg/nvim/after,/home/unchained/.config/nvim/after"
+Searching for "/home/unchained/.config/nvim/pack/*/start/matchit"
+Searching for "/etc/xdg/nvim/pack/*/start/matchit"
+Searching for "/home/unchained/.local/share/nvim/site/pack/*/start/matchit"
+Searching for "/usr/local/share/nvim/site/pack/*/start/matchit"
+Searching for "/usr/share/nvim/site/pack/*/start/matchit"
+Searching for "/var/lib/snapd/desktop/nvim/site/pack/*/start/matchit"
+Searching for "/usr/share/nvim/runtime/pack/*/start/matchit"
+Searching for "/var/lib/snapd/desktop/nvim/site/after/pack/*/start/matchit"
+Searching for "/usr/share/nvim/site/after/pack/*/start/matchit"
+Searching for "/usr/local/share/nvim/site/after/pack/*/start/matchit"
+Searching for "/home/unchained/.local/share/nvim/site/after/pack/*/start/matchit"
+Searching for "/etc/xdg/nvim/after/pack/*/start/matchit"
+Searching for "/home/unchained/.config/nvim/after/pack/*/start/matchit"
+not found in 'packpath': "pack/*/start/matchit"
+Searching for "pack/*/opt/matchit" in "/home/unchained/.config/nvim,/etc/xdg/nvim,/home/unchained/.local/share/nvim/site,/usr/local/share/nvim/site,/usr/share/nvim/site,/var/lib/snapd/desktop/nvim/site,/usr/share/nvim/runtime,/var/lib/snapd/desktop/nvim/site/after,/usr/share/nvim/site/after,/usr/local/share/nvim/site/after,/home/unchained/.local/share/nvim/site/after,/etc/xdg/nvim/after,/home/unchained/.config/nvim/after"
+Searching for "/home/unchained/.config/nvim/pack/*/opt/matchit"
+Searching for "/etc/xdg/nvim/pack/*/opt/matchit"
+Searching for "/home/unchained/.local/share/nvim/site/pack/*/opt/matchit"
+Searching for "/usr/local/share/nvim/site/pack/*/opt/matchit"
+Searching for "/usr/share/nvim/site/pack/*/opt/matchit"
+Searching for "/var/lib/snapd/desktop/nvim/site/pack/*/opt/matchit"
+Searching for "/usr/share/nvim/runtime/pack/*/opt/matchit"
+chdir(/home/unchained/.config/nvim)
+chdir(/usr/share/nvim/runtime)
+chdir(/home/unchained/.config/nvim)
+chdir(/home/unchained/.config/nvim)
+chdir(/home/unchained/.config/nvim)
+chdir(/home/unchained/.config/nvim)
+chdir(/home/unchained/.config/nvim)
+chdir(/home/unchained/.config/nvim/plugged/goyo.vim)
+chdir(/home/unchained/.config/nvim)
+chdir(/home/unchained/.config/nvim)
+chdir(/home/unchained/.config/nvim/plugged/vifm.vim)
+chdir(/home/unchained/.config/nvim)
+chdir(/home/unchained/.config/nvim)
+chdir(/home/unchained/.config/nvim/plugged/limelight.vim)
+chdir(/home/unchained/.config/nvim)
+chdir(/home/unchained/.config/nvim)
+chdir(/home/unchained/.config/nvim/plugged/coc.nvim)
+chdir(/home/unchained/.config/nvim)
+chdir(/home/unchained/.config/nvim)
+chdir(/home/unchained/.config/nvim/plugged/ctrlp.vim)
+chdir(/home/unchained/.config/nvim)
+chdir(/home/unchained/.config/nvim)
+chdir(/home/unchained/.config/nvim/plugged/vim-markdown)
+chdir(/home/unchained/.config/nvim)
+chdir(/home/unchained/.config/nvim)
+chdir(/home/unchained/.config/nvim/plugged/vim-css-color)
+chdir(/home/unchained/.config/nvim)
+chdir(/home/unchained/.config/nvim)
+chdir(/home/unchained/.config/nvim/plugged/fountain.vim)
+chdir(/home/unchained/.config/nvim)
+chdir(/home/unchained/.config/nvim)
+chdir(/home/unchained/.config/nvim/plugged/gruvbox)
+chdir(/home/unchained/.config/nvim)
+chdir(/home/unchained/.config/nvim)
+chdir(/home/unchained/.config/nvim/plugged/vim-hybrid-material)
+chdir(/home/unchained/.config/nvim)
+chdir(/home/unchained/.config/nvim)
+chdir(/home/unchained/.config/nvim/plugged/papercolor-theme)
+chdir(/home/unchained/.config/nvim)
+chdir(/home/unchained/.config/nvim)
+chdir(/home/unchained/.config/nvim/plugged/Spacegray.vim)
+chdir(/home/unchained/.config/nvim)
+chdir(/home/unchained/.config/nvim)
+chdir(/home/unchained/.config/nvim/plugged/base16-vim)
+chdir(/home/unchained/.config/nvim)
+chdir(/home/unchained/.config/nvim)
+chdir(/etc/xdg/nvim)
+chdir(/home/unchained/.config/nvim)
+chdir(/home/unchained/.config/nvim)
+chdir(/home/unchained/.local/share/nvim/site)
+chdir(/home/unchained/.config/nvim)
+chdir(/home/unchained/.config/nvim)
+chdir(/usr/local/share/nvim/site)
+chdir(/home/unchained/.config/nvim)
+chdir(/home/unchained/.config/nvim)
+chdir(/usr/share/nvim/site)
+chdir(/home/unchained/.config/nvim)
+chdir(/home/unchained/.config/nvim)
+chdir(/var/lib/snapd/desktop/nvim/site)
+chdir(/home/unchained/.config/nvim)
+chdir(/home/unchained/.config/nvim)
+chdir(/usr/share/nvim/runtime)
+chdir(/home/unchained/.config/nvim)
+chdir(/home/unchained/.config/nvim)
+chdir(/usr/share/nvim/runtime/pack/dist/opt)
+chdir(/home/unchained/.config/nvim)
+chdir(/home/unchained/.config/nvim)
+chdir(/usr/share/nvim/runtime/pack/dist/opt/matchit/plugin)
+chdir(/home/unchained/.config/nvim)
+line 3: sourcing "/usr/share/nvim/runtime/pack/dist/opt/matchit/plugin/matchit.vim"
+finished sourcing /usr/share/nvim/runtime/pack/dist/opt/matchit/plugin/matchit.vim
+continuing in /usr/share/nvim/runtime/plugin/matchit.vim
+Searching for "/var/lib/snapd/desktop/nvim/site/after/pack/*/opt/matchit"
+Searching for "/usr/share/nvim/site/after/pack/*/opt/matchit"
+Searching for "/usr/local/share/nvim/site/after/pack/*/opt/matchit"
+Searching for "/home/unchained/.local/share/nvim/site/after/pack/*/opt/matchit"
+Searching for "/etc/xdg/nvim/after/pack/*/opt/matchit"
+Searching for "/home/unchained/.config/nvim/after/pack/*/opt/matchit"
+finished sourcing /usr/share/nvim/runtime/plugin/matchit.vim
+chdir(/home/unchained/.config/nvim)
+chdir(/usr/share/nvim/runtime/plugin)
+chdir(/home/unchained/.config/nvim)
+sourcing "/usr/share/nvim/runtime/plugin/matchparen.vim"
+finished sourcing /usr/share/nvim/runtime/plugin/matchparen.vim
+chdir(/home/unchained/.config/nvim)
+chdir(/usr/share/nvim/runtime/plugin)
+chdir(/home/unchained/.config/nvim)
+sourcing "/usr/share/nvim/runtime/plugin/netrwPlugin.vim"
+finished sourcing /usr/share/nvim/runtime/plugin/netrwPlugin.vim
+chdir(/home/unchained/.config/nvim)
+chdir(/usr/share/nvim/runtime/plugin)
+chdir(/home/unchained/.config/nvim)
+sourcing "/usr/share/nvim/runtime/plugin/rplugin.vim"
+finished sourcing /usr/share/nvim/runtime/plugin/rplugin.vim
+chdir(/home/unchained/.config/nvim)
+chdir(/usr/share/nvim/runtime/plugin)
+chdir(/home/unchained/.config/nvim)
+sourcing "/usr/share/nvim/runtime/plugin/shada.vim"
+finished sourcing /usr/share/nvim/runtime/plugin/shada.vim
+chdir(/home/unchained/.config/nvim)
+chdir(/usr/share/nvim/runtime/plugin)
+chdir(/home/unchained/.config/nvim)
+sourcing "/usr/share/nvim/runtime/plugin/spellfile.vim"
+finished sourcing /usr/share/nvim/runtime/plugin/spellfile.vim
+chdir(/home/unchained/.config/nvim)
+chdir(/usr/share/nvim/runtime/plugin)
+chdir(/home/unchained/.config/nvim)
+sourcing "/usr/share/nvim/runtime/plugin/tarPlugin.vim"
+finished sourcing /usr/share/nvim/runtime/plugin/tarPlugin.vim
+chdir(/home/unchained/.config/nvim)
+chdir(/usr/share/nvim/runtime/plugin)
+chdir(/home/unchained/.config/nvim)
+sourcing "/usr/share/nvim/runtime/plugin/tohtml.vim"
+finished sourcing /usr/share/nvim/runtime/plugin/tohtml.vim
+chdir(/home/unchained/.config/nvim)
+chdir(/usr/share/nvim/runtime/plugin)
+chdir(/home/unchained/.config/nvim)
+sourcing "/usr/share/nvim/runtime/plugin/tutor.vim"
+finished sourcing /usr/share/nvim/runtime/plugin/tutor.vim
+chdir(/home/unchained/.config/nvim)
+chdir(/usr/share/nvim/runtime/plugin)
+chdir(/home/unchained/.config/nvim)
+sourcing "/usr/share/nvim/runtime/plugin/zipPlugin.vim"
+finished sourcing /usr/share/nvim/runtime/plugin/zipPlugin.vim
+Searching for "/usr/share/vim/vimfiles/plugin/**/*.vim"
+chdir(/home/unchained/.config/nvim)
+chdir(/usr/share/vim/vimfiles/plugin)
+chdir(/home/unchained/.config/nvim)
+sourcing "/usr/share/vim/vimfiles/plugin/fzf.vim"
+finished sourcing /usr/share/vim/vimfiles/plugin/fzf.vim
+Searching for "pack/*/start/*" in "/home/unchained/.config/nvim,/etc/xdg/nvim,/home/unchained/.local/share/nvim/site,/usr/local/share/nvim/site,/usr/share/nvim/site,/var/lib/snapd/desktop/nvim/site,/usr/share/nvim/runtime,/var/lib/snapd/desktop/nvim/site/after,/usr/share/nvim/site/after,/usr/local/share/nvim/site/after,/home/unchained/.local/share/nvim/site/after,/etc/xdg/nvim/after,/home/unchained/.config/nvim/after"
+Searching for "/home/unchained/.config/nvim/pack/*/start/*"
+Searching for "/etc/xdg/nvim/pack/*/start/*"
+Searching for "/home/unchained/.local/share/nvim/site/pack/*/start/*"
+Searching for "/usr/local/share/nvim/site/pack/*/start/*"
+Searching for "/usr/share/nvim/site/pack/*/start/*"
+Searching for "/var/lib/snapd/desktop/nvim/site/pack/*/start/*"
+Searching for "/usr/share/nvim/runtime/pack/*/start/*"
+Searching for "/var/lib/snapd/desktop/nvim/site/after/pack/*/start/*"
+Searching for "/usr/share/nvim/site/after/pack/*/start/*"
+Searching for "/usr/local/share/nvim/site/after/pack/*/start/*"
+Searching for "/home/unchained/.local/share/nvim/site/after/pack/*/start/*"
+Searching for "/etc/xdg/nvim/after/pack/*/start/*"
+Searching for "/home/unchained/.config/nvim/after/pack/*/start/*"
+not found in 'packpath': "pack/*/start/*"
+Searching for "plugin/**/*.vim" in "/home/unchained/.config/nvim,/home/unchained/.config/nvim/plugged/goyo.vim,/home/unchained/.config/nvim/plugged/vifm.vim,/home/unchained/.config/nvim/plugged/limelight.vim,/home/unchained/.config/nvim/plugged/coc.nvim,/home/unchained/.config/nvim/plugged/ctrlp.vim,/home/unchained/.config/nvim/plugged/vim-markdown,/home/unchained/.config/nvim/plugged/vim-css-color,/home/unchained/.config/nvim/plugged/fountain.vim,/home/unchained/.config/nvim/plugged/gruvbox,/home/unchained/.config/nvim/plugged/vim-hybrid-material,/home/unchained/.config/nvim/plugged/papercolor-theme,/home/unchained/.config/nvim/plugged/Spacegray.vim,/home/unchained/.config/nvim/plugged/base16-vim,/etc/xdg/nvim,/home/unchained/.local/share/nvim/site,/usr/local/share/nvim/site,/usr/share/nvim/site,/var/lib/snapd/desktop/nvim/site,/usr/share/nvim/runtime,/usr/share/nvim/runtime/pack/dist/opt/matchit,/var/lib/snapd/desktop/nvim/site/after,/usr/share/nvim/site/after,/usr/local/share/nvim/site/after,/home/unchaine
+Searching for "/var/lib/snapd/desktop/nvim/site/after/plugin/**/*.vim"
+Searching for "/usr/share/nvim/site/after/plugin/**/*.vim"
+Searching for "/usr/local/share/nvim/site/after/plugin/**/*.vim"
+Searching for "/home/unchained/.local/share/nvim/site/after/plugin/**/*.vim"
+Searching for "/etc/xdg/nvim/after/plugin/**/*.vim"
+Searching for "/home/unchained/.config/nvim/after/plugin/**/*.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-css-color/after/plugin/**/*.vim"
+not found in 'runtimepath': "plugin/**/*.vim"
+Reading ShaDa file "/home/unchained/.local/share/nvim/shada/main.shada" info marks oldfiles
+"init.vim" 116L, 3103C
+Reading ShaDa file "/home/unchained/.local/share/nvim/shada/main.shada" marks
+Executing BufReadPost Autocommands for "*.vim"
+autocommand setf vim
+
+Executing FileType Autocommands for "*"
+autocommand call s:LoadFTPlugin()
+
+Searching for "ftplugin/vim.vim ftplugin/vim_*.vim ftplugin/vim/*.vim" in "/home/unchained/.config/nvim,/home/unchained/.config/nvim/plugged/goyo.vim,/home/unchained/.config/nvim/plugged/vifm.vim,/home/unchained/.config/nvim/plugged/limelight.vim,/home/unchained/.config/nvim/plugged/coc.nvim,/home/unchained/.config/nvim/plugged/ctrlp.vim,/home/unchained/.config/nvim/plugged/vim-markdown,/home/unchained/.config/nvim/plugged/vim-css-color,/home/unchained/.config/nvim/plugged/fountain.vim,/home/unchained/.config/nvim/plugged/gruvbox,/home/unchained/.config/nvim/plugged/vim-hybrid-material,/home/unchained/.config/nvim/plugged/papercolor-theme,/home/unchained/.config/nvim/plugged/Spacegray.vim,/home/unchained/.config/nvim/plugged/base16-vim,/etc/xdg/nvim,/home/unchained/.local/share/nvim/site,/usr/local/share/nvim/site,/usr/share/nvim/site,/var/lib/snapd/desktop/nvim/site,/usr/share/nvim/runtime,/usr/share/nvim/runtime/pack/dist/opt/matchit,/var/lib/snapd/desktop/nvim/site/after,/usr/share/nvim/site/after,/usr/loc
+Searching for "/home/unchained/.config/nvim/ftplugin/vim.vim"
+Searching for "/home/unchained/.config/nvim/ftplugin/vim_*.vim"
+Searching for "/home/unchained/.config/nvim/ftplugin/vim/*.vim"
+Searching for "/home/unchained/.config/nvim/plugged/goyo.vim/ftplugin/vim.vim"
+Searching for "/home/unchained/.config/nvim/plugged/goyo.vim/ftplugin/vim_*.vim"
+Searching for "/home/unchained/.config/nvim/plugged/goyo.vim/ftplugin/vim/*.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vifm.vim/ftplugin/vim.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vifm.vim/ftplugin/vim_*.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vifm.vim/ftplugin/vim/*.vim"
+Searching for "/home/unchained/.config/nvim/plugged/limelight.vim/ftplugin/vim.vim"
+Searching for "/home/unchained/.config/nvim/plugged/limelight.vim/ftplugin/vim_*.vim"
+Searching for "/home/unchained/.config/nvim/plugged/limelight.vim/ftplugin/vim/*.vim"
+Searching for "/home/unchained/.config/nvim/plugged/coc.nvim/ftplugin/vim.vim"
+Searching for "/home/unchained/.config/nvim/plugged/coc.nvim/ftplugin/vim_*.vim"
+Searching for "/home/unchained/.config/nvim/plugged/coc.nvim/ftplugin/vim/*.vim"
+Searching for "/home/unchained/.config/nvim/plugged/ctrlp.vim/ftplugin/vim.vim"
+Searching for "/home/unchained/.config/nvim/plugged/ctrlp.vim/ftplugin/vim_*.vim"
+Searching for "/home/unchained/.config/nvim/plugged/ctrlp.vim/ftplugin/vim/*.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-markdown/ftplugin/vim.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-markdown/ftplugin/vim_*.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-markdown/ftplugin/vim/*.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-css-color/ftplugin/vim.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-css-color/ftplugin/vim_*.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-css-color/ftplugin/vim/*.vim"
+Searching for "/home/unchained/.config/nvim/plugged/fountain.vim/ftplugin/vim.vim"
+Searching for "/home/unchained/.config/nvim/plugged/fountain.vim/ftplugin/vim_*.vim"
+Searching for "/home/unchained/.config/nvim/plugged/fountain.vim/ftplugin/vim/*.vim"
+Searching for "/home/unchained/.config/nvim/plugged/gruvbox/ftplugin/vim.vim"
+Searching for "/home/unchained/.config/nvim/plugged/gruvbox/ftplugin/vim_*.vim"
+Searching for "/home/unchained/.config/nvim/plugged/gruvbox/ftplugin/vim/*.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-hybrid-material/ftplugin/vim.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-hybrid-material/ftplugin/vim_*.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-hybrid-material/ftplugin/vim/*.vim"
+Searching for "/home/unchained/.config/nvim/plugged/papercolor-theme/ftplugin/vim.vim"
+Searching for "/home/unchained/.config/nvim/plugged/papercolor-theme/ftplugin/vim_*.vim"
+Searching for "/home/unchained/.config/nvim/plugged/papercolor-theme/ftplugin/vim/*.vim"
+Searching for "/home/unchained/.config/nvim/plugged/Spacegray.vim/ftplugin/vim.vim"
+Searching for "/home/unchained/.config/nvim/plugged/Spacegray.vim/ftplugin/vim_*.vim"
+Searching for "/home/unchained/.config/nvim/plugged/Spacegray.vim/ftplugin/vim/*.vim"
+Searching for "/home/unchained/.config/nvim/plugged/base16-vim/ftplugin/vim.vim"
+Searching for "/home/unchained/.config/nvim/plugged/base16-vim/ftplugin/vim_*.vim"
+Searching for "/home/unchained/.config/nvim/plugged/base16-vim/ftplugin/vim/*.vim"
+Searching for "/etc/xdg/nvim/ftplugin/vim.vim"
+Searching for "/etc/xdg/nvim/ftplugin/vim_*.vim"
+Searching for "/etc/xdg/nvim/ftplugin/vim/*.vim"
+Searching for "/home/unchained/.local/share/nvim/site/ftplugin/vim.vim"
+Searching for "/home/unchained/.local/share/nvim/site/ftplugin/vim_*.vim"
+Searching for "/home/unchained/.local/share/nvim/site/ftplugin/vim/*.vim"
+Searching for "/usr/local/share/nvim/site/ftplugin/vim.vim"
+Searching for "/usr/local/share/nvim/site/ftplugin/vim_*.vim"
+Searching for "/usr/local/share/nvim/site/ftplugin/vim/*.vim"
+Searching for "/usr/share/nvim/site/ftplugin/vim.vim"
+Searching for "/usr/share/nvim/site/ftplugin/vim_*.vim"
+Searching for "/usr/share/nvim/site/ftplugin/vim/*.vim"
+Searching for "/var/lib/snapd/desktop/nvim/site/ftplugin/vim.vim"
+Searching for "/var/lib/snapd/desktop/nvim/site/ftplugin/vim_*.vim"
+Searching for "/var/lib/snapd/desktop/nvim/site/ftplugin/vim/*.vim"
+Searching for "/usr/share/nvim/runtime/ftplugin/vim.vim"
+chdir(/home/unchained/.config/nvim)
+chdir(/usr/share/nvim/runtime/ftplugin)
+chdir(/home/unchained/.config/nvim)
+line 17: sourcing "/usr/share/nvim/runtime/ftplugin/vim.vim"
+finished sourcing /usr/share/nvim/runtime/ftplugin/vim.vim
+continuing in function <SNR>12_LoadFTPlugin
+Searching for "/usr/share/nvim/runtime/ftplugin/vim_*.vim"
+Searching for "/usr/share/nvim/runtime/ftplugin/vim/*.vim"
+Searching for "/usr/share/nvim/runtime/pack/dist/opt/matchit/ftplugin/vim.vim"
+Searching for "/usr/share/nvim/runtime/pack/dist/opt/matchit/ftplugin/vim_*.vim"
+Searching for "/usr/share/nvim/runtime/pack/dist/opt/matchit/ftplugin/vim/*.vim"
+Searching for "/var/lib/snapd/desktop/nvim/site/after/ftplugin/vim.vim"
+Searching for "/var/lib/snapd/desktop/nvim/site/after/ftplugin/vim_*.vim"
+Searching for "/var/lib/snapd/desktop/nvim/site/after/ftplugin/vim/*.vim"
+Searching for "/usr/share/nvim/site/after/ftplugin/vim.vim"
+Searching for "/usr/share/nvim/site/after/ftplugin/vim_*.vim"
+Searching for "/usr/share/nvim/site/after/ftplugin/vim/*.vim"
+Searching for "/usr/local/share/nvim/site/after/ftplugin/vim.vim"
+Searching for "/usr/local/share/nvim/site/after/ftplugin/vim_*.vim"
+Searching for "/usr/local/share/nvim/site/after/ftplugin/vim/*.vim"
+Searching for "/home/unchained/.local/share/nvim/site/after/ftplugin/vim.vim"
+Searching for "/home/unchained/.local/share/nvim/site/after/ftplugin/vim_*.vim"
+Searching for "/home/unchained/.local/share/nvim/site/after/ftplugin/vim/*.vim"
+Searching for "/etc/xdg/nvim/after/ftplugin/vim.vim"
+Searching for "/etc/xdg/nvim/after/ftplugin/vim_*.vim"
+Searching for "/etc/xdg/nvim/after/ftplugin/vim/*.vim"
+Searching for "/home/unchained/.config/nvim/after/ftplugin/vim.vim"
+Searching for "/home/unchained/.config/nvim/after/ftplugin/vim_*.vim"
+Searching for "/home/unchained/.config/nvim/after/ftplugin/vim/*.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-css-color/after/ftplugin/vim.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-css-color/after/ftplugin/vim_*.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-css-color/after/ftplugin/vim/*.vim"
+Searching for "/usr/share/vim/vimfiles/ftplugin/vim.vim"
+Searching for "/usr/share/vim/vimfiles/ftplugin/vim_*.vim"
+Searching for "/usr/share/vim/vimfiles/ftplugin/vim/*.vim"
+Executing FileType Autocommands for "*"
+autocommand call s:LoadIndent()
+
+Searching for "indent/vim.vim" in "/home/unchained/.config/nvim,/home/unchained/.config/nvim/plugged/goyo.vim,/home/unchained/.config/nvim/plugged/vifm.vim,/home/unchained/.config/nvim/plugged/limelight.vim,/home/unchained/.config/nvim/plugged/coc.nvim,/home/unchained/.config/nvim/plugged/ctrlp.vim,/home/unchained/.config/nvim/plugged/vim-markdown,/home/unchained/.config/nvim/plugged/vim-css-color,/home/unchained/.config/nvim/plugged/fountain.vim,/home/unchained/.config/nvim/plugged/gruvbox,/home/unchained/.config/nvim/plugged/vim-hybrid-material,/home/unchained/.config/nvim/plugged/papercolor-theme,/home/unchained/.config/nvim/plugged/Spacegray.vim,/home/unchained/.config/nvim/plugged/base16-vim,/etc/xdg/nvim,/home/unchained/.local/share/nvim/site,/usr/local/share/nvim/site,/usr/share/nvim/site,/var/lib/snapd/desktop/nvim/site,/usr/share/nvim/runtime,/usr/share/nvim/runtime/pack/dist/opt/matchit,/var/lib/snapd/desktop/nvim/site/after,/usr/share/nvim/site/after,/usr/local/share/nvim/site/after,/home/unchained
+Searching for "/home/unchained/.config/nvim/indent/vim.vim"
+Searching for "/home/unchained/.config/nvim/plugged/goyo.vim/indent/vim.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vifm.vim/indent/vim.vim"
+Searching for "/home/unchained/.config/nvim/plugged/limelight.vim/indent/vim.vim"
+Searching for "/home/unchained/.config/nvim/plugged/coc.nvim/indent/vim.vim"
+Searching for "/home/unchained/.config/nvim/plugged/ctrlp.vim/indent/vim.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-markdown/indent/vim.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-css-color/indent/vim.vim"
+Searching for "/home/unchained/.config/nvim/plugged/fountain.vim/indent/vim.vim"
+Searching for "/home/unchained/.config/nvim/plugged/gruvbox/indent/vim.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-hybrid-material/indent/vim.vim"
+Searching for "/home/unchained/.config/nvim/plugged/papercolor-theme/indent/vim.vim"
+Searching for "/home/unchained/.config/nvim/plugged/Spacegray.vim/indent/vim.vim"
+Searching for "/home/unchained/.config/nvim/plugged/base16-vim/indent/vim.vim"
+Searching for "/etc/xdg/nvim/indent/vim.vim"
+Searching for "/home/unchained/.local/share/nvim/site/indent/vim.vim"
+Searching for "/usr/local/share/nvim/site/indent/vim.vim"
+Searching for "/usr/share/nvim/site/indent/vim.vim"
+Searching for "/var/lib/snapd/desktop/nvim/site/indent/vim.vim"
+Searching for "/usr/share/nvim/runtime/indent/vim.vim"
+chdir(/home/unchained/.config/nvim)
+chdir(/usr/share/nvim/runtime/indent)
+chdir(/home/unchained/.config/nvim)
+line 14: sourcing "/usr/share/nvim/runtime/indent/vim.vim"
+finished sourcing /usr/share/nvim/runtime/indent/vim.vim
+continuing in function <SNR>13_LoadIndent
+Searching for "/usr/share/nvim/runtime/pack/dist/opt/matchit/indent/vim.vim"
+Searching for "/var/lib/snapd/desktop/nvim/site/after/indent/vim.vim"
+Searching for "/usr/share/nvim/site/after/indent/vim.vim"
+Searching for "/usr/local/share/nvim/site/after/indent/vim.vim"
+Searching for "/home/unchained/.local/share/nvim/site/after/indent/vim.vim"
+Searching for "/etc/xdg/nvim/after/indent/vim.vim"
+Searching for "/home/unchained/.config/nvim/after/indent/vim.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-css-color/after/indent/vim.vim"
+Searching for "/usr/share/vim/vimfiles/indent/vim.vim"
+Executing FileType Autocommands for "*"
+autocommand exe "set syntax=" . expand("<amatch>")
+
+Executing Syntax Autocommands for "*"
+autocommand call s:SynSet()
+
+Searching for "syntax/vim.vim syntax/vim/*.vim" in "/home/unchained/.config/nvim,/home/unchained/.config/nvim/plugged/goyo.vim,/home/unchained/.config/nvim/plugged/vifm.vim,/home/unchained/.config/nvim/plugged/limelight.vim,/home/unchained/.config/nvim/plugged/coc.nvim,/home/unchained/.config/nvim/plugged/ctrlp.vim,/home/unchained/.config/nvim/plugged/vim-markdown,/home/unchained/.config/nvim/plugged/vim-css-color,/home/unchained/.config/nvim/plugged/fountain.vim,/home/unchained/.config/nvim/plugged/gruvbox,/home/unchained/.config/nvim/plugged/vim-hybrid-material,/home/unchained/.config/nvim/plugged/papercolor-theme,/home/unchained/.config/nvim/plugged/Spacegray.vim,/home/unchained/.config/nvim/plugged/base16-vim,/etc/xdg/nvim,/home/unchained/.local/share/nvim/site,/usr/local/share/nvim/site,/usr/share/nvim/site,/var/lib/snapd/desktop/nvim/site,/usr/share/nvim/runtime,/usr/share/nvim/runtime/pack/dist/opt/matchit,/var/lib/snapd/desktop/nvim/site/after,/usr/share/nvim/site/after,/usr/local/share/nvim/site/afte
+Searching for "/home/unchained/.config/nvim/syntax/vim.vim"
+Searching for "/home/unchained/.config/nvim/syntax/vim/*.vim"
+Searching for "/home/unchained/.config/nvim/plugged/goyo.vim/syntax/vim.vim"
+Searching for "/home/unchained/.config/nvim/plugged/goyo.vim/syntax/vim/*.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vifm.vim/syntax/vim.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vifm.vim/syntax/vim/*.vim"
+Searching for "/home/unchained/.config/nvim/plugged/limelight.vim/syntax/vim.vim"
+Searching for "/home/unchained/.config/nvim/plugged/limelight.vim/syntax/vim/*.vim"
+Searching for "/home/unchained/.config/nvim/plugged/coc.nvim/syntax/vim.vim"
+Searching for "/home/unchained/.config/nvim/plugged/coc.nvim/syntax/vim/*.vim"
+Searching for "/home/unchained/.config/nvim/plugged/ctrlp.vim/syntax/vim.vim"
+Searching for "/home/unchained/.config/nvim/plugged/ctrlp.vim/syntax/vim/*.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-markdown/syntax/vim.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-markdown/syntax/vim/*.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-css-color/syntax/vim.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-css-color/syntax/vim/*.vim"
+Searching for "/home/unchained/.config/nvim/plugged/fountain.vim/syntax/vim.vim"
+Searching for "/home/unchained/.config/nvim/plugged/fountain.vim/syntax/vim/*.vim"
+Searching for "/home/unchained/.config/nvim/plugged/gruvbox/syntax/vim.vim"
+Searching for "/home/unchained/.config/nvim/plugged/gruvbox/syntax/vim/*.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-hybrid-material/syntax/vim.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-hybrid-material/syntax/vim/*.vim"
+Searching for "/home/unchained/.config/nvim/plugged/papercolor-theme/syntax/vim.vim"
+Searching for "/home/unchained/.config/nvim/plugged/papercolor-theme/syntax/vim/*.vim"
+Searching for "/home/unchained/.config/nvim/plugged/Spacegray.vim/syntax/vim.vim"
+Searching for "/home/unchained/.config/nvim/plugged/Spacegray.vim/syntax/vim/*.vim"
+Searching for "/home/unchained/.config/nvim/plugged/base16-vim/syntax/vim.vim"
+Searching for "/home/unchained/.config/nvim/plugged/base16-vim/syntax/vim/*.vim"
+Searching for "/etc/xdg/nvim/syntax/vim.vim"
+Searching for "/etc/xdg/nvim/syntax/vim/*.vim"
+Searching for "/home/unchained/.local/share/nvim/site/syntax/vim.vim"
+Searching for "/home/unchained/.local/share/nvim/site/syntax/vim/*.vim"
+Searching for "/usr/local/share/nvim/site/syntax/vim.vim"
+Searching for "/usr/local/share/nvim/site/syntax/vim/*.vim"
+Searching for "/usr/share/nvim/site/syntax/vim.vim"
+Searching for "/usr/share/nvim/site/syntax/vim/*.vim"
+Searching for "/var/lib/snapd/desktop/nvim/site/syntax/vim.vim"
+Searching for "/var/lib/snapd/desktop/nvim/site/syntax/vim/*.vim"
+Searching for "/usr/share/nvim/runtime/syntax/vim.vim"
+chdir(/home/unchained/.config/nvim)
+chdir(/usr/share/nvim/runtime/syntax)
+chdir(/home/unchained/.config/nvim)
+line 24: sourcing "/usr/share/nvim/runtime/syntax/vim.vim"
+finished sourcing /usr/share/nvim/runtime/syntax/vim.vim
+continuing in function <SNR>15_SynSet
+Searching for "/usr/share/nvim/runtime/syntax/vim/*.vim"
+chdir(/home/unchained/.config/nvim)
+chdir(/usr/share/nvim/runtime/syntax/vim)
+chdir(/home/unchained/.config/nvim)
+line 24: sourcing "/usr/share/nvim/runtime/syntax/vim/generated.vim"
+finished sourcing /usr/share/nvim/runtime/syntax/vim/generated.vim
+continuing in function <SNR>15_SynSet
+Searching for "/usr/share/nvim/runtime/pack/dist/opt/matchit/syntax/vim.vim"
+Searching for "/usr/share/nvim/runtime/pack/dist/opt/matchit/syntax/vim/*.vim"
+Searching for "/var/lib/snapd/desktop/nvim/site/after/syntax/vim.vim"
+Searching for "/var/lib/snapd/desktop/nvim/site/after/syntax/vim/*.vim"
+Searching for "/usr/share/nvim/site/after/syntax/vim.vim"
+Searching for "/usr/share/nvim/site/after/syntax/vim/*.vim"
+Searching for "/usr/local/share/nvim/site/after/syntax/vim.vim"
+Searching for "/usr/local/share/nvim/site/after/syntax/vim/*.vim"
+Searching for "/home/unchained/.local/share/nvim/site/after/syntax/vim.vim"
+Searching for "/home/unchained/.local/share/nvim/site/after/syntax/vim/*.vim"
+Searching for "/etc/xdg/nvim/after/syntax/vim.vim"
+Searching for "/etc/xdg/nvim/after/syntax/vim/*.vim"
+Searching for "/home/unchained/.config/nvim/after/syntax/vim.vim"
+Searching for "/home/unchained/.config/nvim/after/syntax/vim/*.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-css-color/after/syntax/vim.vim"
+chdir(/home/unchained/.config/nvim)
+chdir(/home/unchained/.config/nvim/plugged/vim-css-color/after/syntax)
+chdir(/home/unchained/.config/nvim)
+line 24: sourcing "/home/unchained/.config/nvim/plugged/vim-css-color/after/syntax/vim.vim"
+Searching for "autoload/css_color.vim" in "/home/unchained/.config/nvim,/home/unchained/.config/nvim/plugged/goyo.vim,/home/unchained/.config/nvim/plugged/vifm.vim,/home/unchained/.config/nvim/plugged/limelight.vim,/home/unchained/.config/nvim/plugged/coc.nvim,/home/unchained/.config/nvim/plugged/ctrlp.vim,/home/unchained/.config/nvim/plugged/vim-markdown,/home/unchained/.config/nvim/plugged/vim-css-color,/home/unchained/.config/nvim/plugged/fountain.vim,/home/unchained/.config/nvim/plugged/gruvbox,/home/unchained/.config/nvim/plugged/vim-hybrid-material,/home/unchained/.config/nvim/plugged/papercolor-theme,/home/unchained/.config/nvim/plugged/Spacegray.vim,/home/unchained/.config/nvim/plugged/base16-vim,/etc/xdg/nvim,/home/unchained/.local/share/nvim/site,/usr/local/share/nvim/site,/usr/share/nvim/site,/var/lib/snapd/desktop/nvim/site,/usr/share/nvim/runtime,/usr/share/nvim/runtime/pack/dist/opt/matchit,/var/lib/snapd/desktop/nvim/site/after,/usr/share/nvim/site/after,/usr/local/share/nvim/site/after,/home/u
+Searching for "/home/unchained/.config/nvim/autoload/css_color.vim"
+Searching for "/home/unchained/.config/nvim/plugged/goyo.vim/autoload/css_color.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vifm.vim/autoload/css_color.vim"
+Searching for "/home/unchained/.config/nvim/plugged/limelight.vim/autoload/css_color.vim"
+Searching for "/home/unchained/.config/nvim/plugged/coc.nvim/autoload/css_color.vim"
+Searching for "/home/unchained/.config/nvim/plugged/ctrlp.vim/autoload/css_color.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-markdown/autoload/css_color.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vim-css-color/autoload/css_color.vim"
+chdir(/home/unchained/.config/nvim)
+chdir(/home/unchained/.config/nvim/plugged/vim-css-color/autoload)
+chdir(/home/unchained/.config/nvim)
+line 1: sourcing "/home/unchained/.config/nvim/plugged/vim-css-color/autoload/css_color.vim"
+finished sourcing /home/unchained/.config/nvim/plugged/vim-css-color/autoload/css_color.vim
+continuing in /home/unchained/.config/nvim/plugged/vim-css-color/after/syntax/vim.vim
+Executing CursorMoved Autocommands for "<buffer=1>"
+autocommand call s:parse_screen()
+
+finished sourcing /home/unchained/.config/nvim/plugged/vim-css-color/after/syntax/vim.vim
+continuing in function <SNR>15_SynSet
+Searching for "/home/unchained/.config/nvim/plugged/vim-css-color/after/syntax/vim/*.vim"
+Searching for "/usr/share/vim/vimfiles/syntax/vim.vim"
+Searching for "/usr/share/vim/vimfiles/syntax/vim/*.vim"
+Executing FileType Autocommands for "*"
+autocommand call s:Autocmd('FileType', expand('<amatch>'), +expand('<abuf>'))
+
+Executing BufReadPost Autocommands for "*"
+autocommand if !did_filetype() && expand("<amatch>") !~ g:ft_ignore_pat | runtime! scripts.vim | endif
+
+Executing BufReadPost Autocommands for "*"
+autocommand if !did_filetype() && expand("<amatch>") !~ g:ft_ignore_pat    && (getline(1) =~ '^#' || getline(2) =~ '^#' || getline(3) =~ '^#'^I|| getline(4) =~ '^#' || getline(5) =~ '^#') |   setf FALLBACK conf | endif
+
+Executing BufReadPost Autocommands for "*"
+autocommand call s:Autocmd('BufCreate', +expand('<abuf>'))
+
+Executing BufWinEnter Autocommands for "*"
+autocommand call s:Autocmd('BufWinEnter', +expand('<abuf>'), win_getid())
+
+Executing BufWinEnter Autocommands for "*"
+autocommand cal s:record(expand('<abuf>', 1))
+
+Searching for "autoload/ctrlp/utils.vim" in "/home/unchained/.config/nvim,/home/unchained/.config/nvim/plugged/goyo.vim,/home/unchained/.config/nvim/plugged/vifm.vim,/home/unchained/.config/nvim/plugged/limelight.vim,/home/unchained/.config/nvim/plugged/coc.nvim,/home/unchained/.config/nvim/plugged/ctrlp.vim,/home/unchained/.config/nvim/plugged/vim-markdown,/home/unchained/.config/nvim/plugged/vim-css-color,/home/unchained/.config/nvim/plugged/fountain.vim,/home/unchained/.config/nvim/plugged/gruvbox,/home/unchained/.config/nvim/plugged/vim-hybrid-material,/home/unchained/.config/nvim/plugged/papercolor-theme,/home/unchained/.config/nvim/plugged/Spacegray.vim,/home/unchained/.config/nvim/plugged/base16-vim,/etc/xdg/nvim,/home/unchained/.local/share/nvim/site,/usr/local/share/nvim/site,/usr/share/nvim/site,/var/lib/snapd/desktop/nvim/site,/usr/share/nvim/runtime,/usr/share/nvim/runtime/pack/dist/opt/matchit,/var/lib/snapd/desktop/nvim/site/after,/usr/share/nvim/site/after,/usr/local/share/nvim/site/after,/home
+Searching for "/home/unchained/.config/nvim/autoload/ctrlp/utils.vim"
+Searching for "/home/unchained/.config/nvim/plugged/goyo.vim/autoload/ctrlp/utils.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vifm.vim/autoload/ctrlp/utils.vim"
+Searching for "/home/unchained/.config/nvim/plugged/limelight.vim/autoload/ctrlp/utils.vim"
+Searching for "/home/unchained/.config/nvim/plugged/coc.nvim/autoload/ctrlp/utils.vim"
+Searching for "/home/unchained/.config/nvim/plugged/ctrlp.vim/autoload/ctrlp/utils.vim"
+chdir(/home/unchained/.config/nvim)
+chdir(/home/unchained/.config/nvim/plugged/ctrlp.vim/autoload/ctrlp)
+chdir(/home/unchained/.config/nvim)
+line 2: sourcing "/home/unchained/.config/nvim/plugged/ctrlp.vim/autoload/ctrlp/utils.vim"
+finished sourcing /home/unchained/.config/nvim/plugged/ctrlp.vim/autoload/ctrlp/utils.vim
+continuing in function <SNR>28_record[7]..<SNR>28_addtomrufs[13]..<SNR>28_mergelists[1]..ctrlp#mrufiles#cachefile
+Executing BufEnter Autocommands for "*"
+autocommand call s:Autocmd('BufEnter', +expand('<abuf>'))
+
+Executing BufEnter Autocommands for "*"
+autocommand sil call s:LocalBrowse(expand("<amatch>"))
+
+Executing VimEnter Autocommands for "*"
+autocommand call coc#rpc#notify('VimEnter', [])
+
+Executing VimEnter Autocommands for "*"
+autocommand sil call s:VimEnter(expand("<amatch>"))
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Autocmd('CursorMoved', +expand('<abuf>'), [line('.'), col('.')])
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "<buffer=1>"
+autocommand call s:parse_screen()
+
+
+--- Terminal info --- {{{
+&term: rxvt-unicode-256color
+Description: rxvt-unicode terminal with 256 colors (X Window System)
+Aliases: rxvt-unicode-256color
+Boolean capabilities:
+  auto_left_margin          bw         = true
+  auto_right_margin         am         = true
+  no_esc_ctlc               xsb        = false
+  ceol_standout_glitch      xhp        = false
+  eat_newline_glitch        xenl       = true
+  erase_overstrike          eo         = true
+  generic_type              gn         = false
+  hard_copy                 hc         = false
+  has_meta_key              km         = true
+  has_status_line           hs         = true
+  insert_null_glitch        in         = false
+  memory_above              da         = false
+  memory_below              db         = false
+  move_insert_mode          mir        = true
+  move_standout_mode        msgr       = true
+  over_strike               os         = false
+  status_line_esc_ok        eslok      = false
+  dest_tabs_magic_smso      xt         = false
+  tilde_glitch              hz         = false
+  transparent_underline     ul         = false
+  xon_xoff                  xon        = true
+  needs_xon_xoff            nxon       = false
+  prtr_silent               mc5i       = true
+  hard_cursor               chts       = false
+  non_rev_rmcup             nrrmc      = false
+  no_pad_char               npc        = true
+  non_dest_scroll_region    ndscr      = false
+  can_change                ccc        = true
+  back_color_erase          bce        = true
+  hue_lightness_saturation  hls        = false
+  col_addr_glitch           xhpa       = false
+  cr_cancels_micro_mode     crxm       = false
+  has_print_wheel           daisy      = false
+  row_addr_glitch           xvpa       = false
+  semi_auto_right_margin    sam        = false
+  cpi_changes_res           cpix       = false
+  lpi_changes_res           lpix       = false
+  backspaces_with_bs        OTbs       = false
+  crt_no_scrolling          OTns       = false
+  no_correctly_working_cr   OTnc       = false
+  gnu_has_meta_key          OTMT       = false
+  linefeed_is_newline       OTNL       = false
+  has_hardware_tabs         OTpt       = false
+  return_does_clr_eol       OTxr       = false
+Numeric capabilities:
+  columns                   cols       = 80
+  init_tabs                 it         = 8
+  lines                     lines      = 24
+  lines_of_memory           lm         = 0
+  magic_cookie_glitch       xmc        = -1
+  padding_baud_rate         pb         = -1
+  virtual_terminal          vt         = -1
+  width_status_line         wsl        = -1
+  num_labels                nlab       = -1
+  label_height              lh         = -1
+  label_width               lw         = -1
+  max_attributes            ma         = -1
+  maximum_windows           wnum       = -1
+  max_colors                colors     = 256
+  max_pairs                 pairs      = 32767
+  no_color_video            ncv        = 0
+  buffer_capacity           bufsz      = -1
+  dot_vert_spacing          spinv      = -1
+  dot_horz_spacing          spinh      = -1
+  max_micro_address         maddr      = -1
+  max_micro_jump            mjump      = -1
+  micro_col_size            mcs        = -1
+  micro_line_size           mls        = -1
+  number_of_pins            npins      = -1
+  output_res_char           orc        = -1
+  output_res_line           orl        = -1
+  output_res_horz_inch      orhi       = -1
+  output_res_vert_inch      orvi       = -1
+  print_rate                cps        = -1
+  wide_char_size            widcs      = -1
+  buttons                   btns       = 5
+  bit_image_entwining       bitwin     = -1
+  bit_image_type            bitype     = -1
+  magic_cookie_glitch_ul    OTug       = -1
+  carriage_return_delay     OTdC       = -1
+  new_line_delay            OTdN       = -1
+  backspace_delay           OTdB       = -1
+  horizontal_tab_delay      OTdT       = -1
+  number_of_function_keys   OTkn       = -1
+String capabilities:
+  bell                      bel        = <C-G>
+  carriage_return           cr         = <CR>
+  change_scroll_region      csr        = <Esc>[%i%p1%d;%p2%dr
+  clear_all_tabs            tbc        = <Esc>[3g
+  clear_screen              clear      = <Esc>[H<Esc>[2J
+  clr_eol                   el         = <Esc>[K
+  clr_eos                   ed         = <Esc>[J
+  column_address            hpa        = <Esc>[%i%p1%dG
+  cursor_address            cup        = <Esc>[%i%p1%d;%p2%dH
+  cursor_down               cud1       = <NL>
+  cursor_home               home       = <Esc>[H
+  cursor_invisible          civis      = <Esc>[?25l
+  cursor_left               cub1       = <C-H>
+  cursor_normal             cnorm      = <Esc>[?25h
+  cursor_right              cuf1       = <Esc>[C
+  cursor_up                 cuu1       = <Esc>[A
+  cursor_visible            cvvis      = <Esc>[?12;25h
+  delete_character          dch1       = <Esc>[P
+  delete_line               dl1        = <Esc>[M
+  dis_status_line           dsl        = <Esc>]2;<C-G>
+  enter_alt_charset_mode    smacs      = <Esc>(0
+  enter_blink_mode          blink      = <Esc>[5m
+  enter_bold_mode           bold       = <Esc>[1m
+  enter_ca_mode             smcup      = <Esc>[?1049h
+  enter_insert_mode         smir       = <Esc>[4h
+  enter_reverse_mode        rev        = <Esc>[7m
+  enter_standout_mode       smso       = <Esc>[7m
+  enter_underline_mode      smul       = <Esc>[4m
+  erase_chars               ech        = <Esc>[%p1%dX
+  exit_alt_charset_mode     rmacs      = <Esc>(B
+  exit_attribute_mode       sgr0       = <Esc>[m<Esc>(B
+  exit_ca_mode              rmcup      = <Esc>[?1049l
+  exit_insert_mode          rmir       = <Esc>[4l
+  exit_standout_mode        rmso       = <Esc>[27m
+  exit_underline_mode       rmul       = <Esc>[24m
+  flash_screen              flash      = <Esc>[?5h$<20/><Esc>[?5l
+  from_status_line          fsl        = <C-G>
+  init_1string              is1        = <Esc>[!p
+  init_2string              is2        = <Esc>[r<Esc>[m<Esc>[2J<Esc>[?7;25h<Esc>[?1;3;4;5;6;9;66;1000;1001;1049l<Esc>[4l
+  insert_character          ich1       = <Esc>[@
+  insert_line               il1        = <Esc>[L
+  key_backspace             kbs        = <^?>
+  key_dc                    kdch1      = <Esc>[3~
+  key_down                  kcud1      = <Esc>[B
+  key_eol                   kel        = <Esc>[8^
+  key_f1                    kf1        = <Esc>[11~
+  key_f10                   kf10       = <Esc>[21~
+  key_f2                    kf2        = <Esc>[12~
+  key_f3                    kf3        = <Esc>[13~
+  key_f4                    kf4        = <Esc>[14~
+  key_f5                    kf5        = <Esc>[15~
+  key_f6                    kf6        = <Esc>[17~
+  key_f7                    kf7        = <Esc>[18~
+  key_f8                    kf8        = <Esc>[19~
+  key_f9                    kf9        = <Esc>[20~
+  key_home                  khome      = <Esc>[7~
+  key_ic                    kich1      = <Esc>[2~
+  key_left                  kcub1      = <Esc>[D
+  key_npage                 knp        = <Esc>[6~
+  key_ppage                 kpp        = <Esc>[5~
+  key_right                 kcuf1      = <Esc>[C
+  key_up                    kcuu1      = <Esc>[A
+  keypad_local              rmkx       = <Esc>>
+  keypad_xmit               smkx       = <Esc>=
+  parm_dch                  dch        = <Esc>[%p1%dP
+  parm_delete_line          dl         = <Esc>[%p1%dM
+  parm_down_cursor          cud        = <Esc>[%p1%dB
+  parm_ich                  ich        = <Esc>[%p1%d@
+  parm_index                indn       = <Esc>[%p1%dS
+  parm_insert_line          il         = <Esc>[%p1%dL
+  parm_left_cursor          cub        = <Esc>[%p1%dD
+  parm_right_cursor         cuf        = <Esc>[%p1%dC
+  parm_rindex               rin        = <Esc>[%p1%dT
+  parm_up_cursor            cuu        = <Esc>[%p1%dA
+  print_screen              mc0        = <Esc>[i
+  prtr_off                  mc4        = <Esc>[4i
+  prtr_on                   mc5        = <Esc>[5i
+  reset_1string             rs1        = <Esc>c
+  reset_2string             rs2        = <Esc>[r<Esc>[m<Esc>[?7;25h<Esc>[?1;3;4;5;6;9;66;1000;1001;1049l<Esc>[4l
+  restore_cursor            rc         = <Esc>8
+  row_address               vpa        = <Esc>[%i%p1%dd
+  save_cursor               sc         = <Esc>7
+  scroll_forward            ind        = <NL>
+  scroll_reverse            ri         = <Esc>M
+  set_attributes            sgr        = <Esc>[%?%p6%t;1%;%?%p2%t;4%;%?%p1%p3%|%t;7%;%?%p4%t;5%;%?%p7%t;8%;m%?%p9%t<Esc>(0%e<Esc>(B%;
+  set_tab                   hts        = <Esc>H
+  tab                       ht         = <Tab>
+  to_status_line            tsl        = <Esc>]2;
+  key_a1                    ka1        = <Esc>Ow
+  key_a3                    ka3        = <Esc>Oy
+  key_b2                    kb2        = <Esc>Ou
+  key_c1                    kc1        = <Esc>Oq
+  key_c3                    kc3        = <Esc>Os
+  acs_chars                 acsc       = ``aaffggjjkkllmmnnooppqqrrssttuuvvwwxxyyzz{{||}}~~-A.B+C,D0EhFiG
+  key_btab                  kcbt       = <Esc>[Z
+  enter_am_mode             smam       = <Esc>[?7h
+  exit_am_mode              rmam       = <Esc>[?7l
+  ena_acs                   enacs      = 
+  key_end                   kend       = <Esc>[8~
+  key_enter                 kent       = <Esc>OM
+  key_find                  kfnd       = <Esc>[1~
+  key_sdc                   kDC        = <Esc>[3$
+  key_select                kslt       = <Esc>[4~
+  key_send                  kEND       = <Esc>[8$
+  key_sfind                 kFND       = <Esc>[1$
+  key_shome                 kHOM       = <Esc>[7$
+  key_sic                   kIC        = <Esc>[2$
+  key_sleft                 kLFT       = <Esc>[d
+  key_snext                 kNXT       = <Esc>[6$
+  key_sprevious             kPRV       = <Esc>[5$
+  key_sright                kRIT       = <Esc>[c
+  key_f11                   kf11       = <Esc>[23~
+  key_f12                   kf12       = <Esc>[24~
+  key_f13                   kf13       = <Esc>[25~
+  key_f14                   kf14       = <Esc>[26~
+  key_f15                   kf15       = <Esc>[28~
+  key_f16                   kf16       = <Esc>[29~
+  key_f17                   kf17       = <Esc>[31~
+  key_f18                   kf18       = <Esc>[32~
+  key_f19                   kf19       = <Esc>[33~
+  key_f20                   kf20       = <Esc>[34~
+  clr_bol                   el1        = <Esc>[1K
+  user6                     u6         = <Esc>[%i%d;%dR
+  user7                     u7         = <Esc>[6n
+  user8                     u8         = <Esc>[?1;2c
+  user9                     u9         = <Esc>[c
+  orig_pair                 op         = <Esc>[39;49m
+  initialize_color          initc      = <Esc>]4;%p1%d;rgb:%p2%{65535}%*%{1000}%/%4.4X/%p3%{65535}%*%{1000}%/%4.4X/%p4%{65535}%*%{1000}%/%4.4X<Esc>\
+  set_foreground            setf       = %?%p1%{7}%>%t<Esc>[38;5;%p1%dm%e<Esc>[3%?%p1%{1}%=%t4%e%p1%{3}%=%t6%e%p1%{4}%=%t1%e%p1%{6}%=%t3%e%p1%d%;m%;
+  set_background            setb       = %?%p1%{7}%>%t<Esc>[48;5;%p1%dm%e<Esc>[4%?%p1%{1}%=%t4%e%p1%{3}%=%t6%e%p1%{4}%=%t1%e%p1%{6}%=%t3%e%p1%d%;m%;
+  enter_italics_mode        sitm       = <Esc>[3m
+  exit_italics_mode         ritm       = <Esc>[23m
+  key_mouse                 kmous      = <Esc>[M
+  set_a_foreground          setaf      = <Esc>[38;5;%p1%dm
+  set_a_background          setab      = <Esc>[48;5;%p1%dm
+  set0_des_seq              s0ds       = <Esc>(B
+  set1_des_seq              s1ds       = <Esc>(0
+  set2_des_seq              s2ds       = <Esc>*B
+  set3_des_seq              s3ds       = <Esc>+B
+Extended string capabilities:
+  ext.get_bg                = <Esc>]11;?<C-G>
+  Ss                        = <Esc>[%p1%d q
+  Se                        = <Esc>[ q
+  ext.resize_screen         = <Esc>[8;%p1%d;%p2%dt
+  ext.reset_scroll_region   = <Esc>[r
+  setrgbf                   = <Esc>[38;2;%p1%d;%p2%d;%p3%dm
+  setrgbb                   = <Esc>[48;2;%p1%d;%p2%d;%p3%dm
+  ext.set_cursor_color      = <Esc>]12;#%p1%06x<C-G>
+  ext.reset_cursor_color    = <Esc>]112<C-G>
+  ext.save_title            = <Esc>[22;0;0t
+  ext.restore_title         = <Esc>[23;0;0t
+  ext.enable_lr_margin      = <Esc>[?69h
+  ext.disable_lr_margin     = <Esc>[?69l
+  ext.enable_bpaste         = <Esc>[?2004h
+  ext.disable_bpaste        = <Esc>[?2004l
+  ext.enable_focus          = <Esc>[?1004h<Esc>]777;focus;on<C-G>
+  ext.disable_focus         = <Esc>[?1004l<Esc>]777;focus;off<C-G>
+  ext.enable_mouse          = <Esc>[?1002h<Esc>[?1006h
+  ext.disable_mouse         = <Esc>[?1002l<Esc>[?1006l
+}}}
+
+
+NVIM v0.4.3
+Build type: Release
+LuaJIT 2.0.5
+Compilation: /usr/bin/cc -march=x86-64 -mtune=generic -O2 -pipe -fno-plt -O2 -DNDEBUG -DMIN_LOG_LEVEL=3 -Wall -Wextra -pedantic -Wno-unused-parameter -Wstrict-prototypes -std=gnu99 -Wshadow -Wconversion -Wmissing-prototypes -Wimplicit-fallthrough -Wvla -fstack-protector-strong -fdiagnostics-color=always -DINCLUDE_GENERATED_DECLARATIONS -D_GNU_SOURCE -DNVIM_MSGPACK_HAS_FLOAT32 -DNVIM_UNIBI_HAS_VAR_FROM -I/build/neovim/src/build/config -I/build/neovim/src/neovim-0.4.3/src -I/usr/include -I/build/neovim/src/build/src/nvim/auto -I/build/neovim/src/build/include
+Compiled by builduser
+
+Features: +acl +iconv +tui
+See ":help feature-compile"
+
+   system vimrc file: "$VIM/sysinit.vim"
+  fall-back for $VIM: "/usr/share/nvim"
+
+Run :checkhealth for more info
+Searching for "autoload/coc.vim" in "/home/unchained/.config/nvim,/home/unchained/.config/nvim/plugged/goyo.vim,/home/unchained/.config/nvim/plugged/vifm.vim,/home/unchained/.config/nvim/plugged/limelight.vim,/home/unchained/.config/nvim/plugged/coc.nvim,/home/unchained/.config/nvim/plugged/ctrlp.vim,/home/unchained/.config/nvim/plugged/vim-markdown,/home/unchained/.config/nvim/plugged/vim-css-color,/home/unchained/.config/nvim/plugged/fountain.vim,/home/unchained/.config/nvim/plugged/gruvbox,/home/unchained/.config/nvim/plugged/vim-hybrid-material,/home/unchained/.config/nvim/plugged/papercolor-theme,/home/unchained/.config/nvim/plugged/Spacegray.vim,/home/unchained/.config/nvim/plugged/base16-vim,/etc/xdg/nvim,/home/unchained/.local/share/nvim/site,/usr/local/share/nvim/site,/usr/share/nvim/site,/var/lib/snapd/desktop/nvim/site,/usr/share/nvim/runtime,/usr/share/nvim/runtime/pack/dist/opt/matchit,/var/lib/snapd/desktop/nvim/site/after,/usr/share/nvim/site/after,/usr/local/share/nvim/site/after,/home/unchain
+Searching for "/home/unchained/.config/nvim/autoload/coc.vim"
+Searching for "/home/unchained/.config/nvim/plugged/goyo.vim/autoload/coc.vim"
+Searching for "/home/unchained/.config/nvim/plugged/vifm.vim/autoload/coc.vim"
+Searching for "/home/unchained/.config/nvim/plugged/limelight.vim/autoload/coc.vim"
+Searching for "/home/unchained/.config/nvim/plugged/coc.nvim/autoload/coc.vim"
+chdir(/home/unchained/.config/nvim)
+chdir(/home/unchained/.config/nvim/plugged/coc.nvim/autoload)
+chdir(/home/unchained/.config/nvim)
+sourcing "/home/unchained/.config/nvim/plugged/coc.nvim/autoload/coc.vim"
+finished sourcing /home/unchained/.config/nvim/plugged/coc.nvim/autoload/coc.vim
+chdir(/home/unchained/.config/nvim)
+chdir(/tmp/coc.nvim-50237)
+chdir(/home/unchained/.config/nvim)
+sourcing "/tmp/coc.nvim-50237/coc-50237.vim"
+finished sourcing /tmp/coc.nvim-50237/coc-50237.vim
+
+Executing BufWinLeave Autocommands for "*"
+autocommand call s:Autocmd('BufWinLeave', +expand('<abuf>'), win_getid())
+
+Executing BufWinLeave Autocommands for "*"
+autocommand cal s:record(expand('<abuf>', 1))
+
+Executing BufUnload Autocommands for "*"
+autocommand call s:SyncAutocmd('BufUnload', +expand('<abuf>'))
+
+Executing VimLeavePre Autocommands for "*"
+autocommand let g:coc_vim_leaving = 1
+
+Executing VimLeavePre Autocommands for "*"
+autocommand cal s:savetofile(s:mergelists())
+
+Writing ShaDa file "/home/unchained/.local/share/nvim/shada/main.shada"
+chdir(/home/unchained/.config/nvim)
+chdir(/home/unchained/.config)
+chdir(/home/unchained/.config/nvim)
+chdir(/home/unchained/.config/nvim)
+chdir(nvim)
+chdir(/home/unchained/.config/nvim)
+chdir(/home/unchained/.config/nvim)
+chdir(/home/unchained/.config)
+chdir(/home/unchained/.config/nvim)
+chdir(/home/unchained/.config/nvim)
+chdir(/home/unchained/.config/nvim)
+chdir(/home/unchained/.config/nvim)
+chdir(/home/unchained/.config/nvim)
+chdir(/home/unchained)
+chdir(/home/unchained/.config/nvim)
+chdir(/home/unchained/.config/nvim)
+chdir(/home/unchained/.config/nvim)
+chdir(/home/unchained/.config/nvim)
+Executing VimLeave Autocommands for "*"
+autocommand call s:SyncAutocmd('VimLeave')

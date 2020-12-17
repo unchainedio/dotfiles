@@ -1,0 +1,21 @@
+set imap_user = "me@hytham.me"
+set imap_pass = "3msc6qezxgv8edd5"
+set smtp_url = "smtp://smtp.fastmail.com:465/"
+set smtp_pass = "3msc6qezxgv8edd5"
+set from = "me@hytham.me"
+set realname = "H"
+set folder = "imaps://imap.fastmail.com:993"
+set spoolfile = "+INBOX"
+set postponed = "+[Fastmail]/Drafts"
+set header_cache = ~/.mutt/fastmail.hytham/cache/headers
+set message_cachedir = ~/.mutt/com.gmail.foo/cache/bodies
+set certificate_file = ~/.mutt/com.gmail.foo/certificates
+
+
+
+
+
+
+
+
+

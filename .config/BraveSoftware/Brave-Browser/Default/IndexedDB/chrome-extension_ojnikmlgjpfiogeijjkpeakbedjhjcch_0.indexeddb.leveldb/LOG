@@ -1,0 +1,8 @@
+2020/05/18-12:37:50.601 24c3f Reusing MANIFEST /home/unchained/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/chrome-extension_ojnikmlgjpfiogeijjkpeakbedjhjcch_0.indexeddb.leveldb/MANIFEST-000001
+2020/05/18-12:37:50.601 24c3f Recovering log #4
+2020/05/18-12:37:50.601 24c3f Reusing old log /home/unchained/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/chrome-extension_ojnikmlgjpfiogeijjkpeakbedjhjcch_0.indexeddb.leveldb/000004.log 
+2020/05/18-12:38:01.386 24de0 Level-0 table #8: started
+2020/05/18-12:38:01.386 24de0 Level-0 table #8: 0 bytes OK
+2020/05/18-12:38:01.387 24de0 Delete type=0 #4
+2020/05/18-12:38:01.388 24de0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/05/18-12:38:01.388 24de0 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,70 @@
+{
+   "background": {
+      "persistent": false,
+      "scripts": [ "bgrollbar.js", "background.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "128": "assets/img/icons/logo-mark-outline-128.png",
+         "16": "assets/img/icons/logo-mark-outline-16.png",
+         "19": "assets/img/icons/logo-mark-outline-19.png",
+         "256": "assets/img/icons/logo-mark-outline-256.png",
+         "32": "assets/img/icons/logo-mark-outline-32.png",
+         "38": "assets/img/icons/logo-mark-outline-38.png",
+         "48": "assets/img/icons/logo-mark-outline-48.png"
+      },
+      "default_title": "CloudApp (Alt+Shift+V)"
+   },
+   "commands": {
+      "cloudapp-entire-page": {
+         "description": "Capture entire page",
+         "suggested_key": {
+            "default": "Alt+Shift+F"
+         }
+      },
+      "cloudapp-record-screen": {
+         "description": "Screen Recording",
+         "suggested_key": {
+            "default": "Alt+Shift+L"
+         }
+      },
+      "cloudapp-visible-area": {
+         "description": "Capture visible area",
+         "suggested_key": {
+            "default": "Alt+Shift+V"
+         }
+      }
+   },
+   "content_scripts": [ {
+      "js": [ "toggle_icon.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": true,
+      "js": [ "content.js" ],
+      "match_about_blank": false,
+      "matches": [ "https://mail.google.com/*" ],
+      "run_at": "document_start"
+   } ],
+   "description": "The #1 screen recorder for Chrome. Capture your screen, webcam, and instantly share videos and screenshots in seconds.",
+   "differential_fingerprint": "1.0ea085debb23bba01d310b799428134d4a7114e97591c72ce91e72261906d49c",
+   "homepage_url": "https://www.getcloudapp.com",
+   "icons": {
+      "128": "assets/img/icons/logo-mark-outline-128.png",
+      "16": "assets/img/icons/logo-mark-outline-16.png",
+      "19": "assets/img/icons/logo-mark-outline-19.png",
+      "256": "assets/img/icons/logo-mark-outline-256.png",
+      "32": "assets/img/icons/logo-mark-outline-32.png",
+      "38": "assets/img/icons/logo-mark-outline-38.png",
+      "48": "assets/img/icons/logo-mark-outline-48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAthHs31cwaVQBHRyw28GMUIHt6AK1Z6G8mhuyEsaMWDoEobhMyeacKxhRSyyTLFGDt/0Nvy4igzQkXcjW2bZteoU7XFQpW81PVH7bBOpyWvUAVwem1nV2ly+iMpmXkh6mDhaDBRhG77vRzDBic+rYbJi9ePQq8MKkK2lPVveYOOHKkWjIGvGTQb6DtJkg6vMiYFrQTPTUiRAnxbJASXukHHQaDwj89hCC3q/vi6Q8AJIpQYK+Ll49Q0TgTNemgtmtG94s5+tvToIHUE2CvGc9oMR6DwGN+oqgUSQ4gY2sqH5LEMhk+NnFZ9/CcXUl5jwzsGe/pcB29rIQEda2qsr0YQIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "76",
+   "name": "CloudApp Screen Recorder, Screenshots",
+   "permissions": [ "\u003Call_urls>", "notifications", "storage", "unlimitedStorage", "activeTab", "tabCapture", "desktopCapture", "clipboardWrite" ],
+   "short_name": "CloudApp",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "5.7.15",
+   "web_accessible_resources": [ "*.mp3", "assets/*", "popup.html", "settings.html", "displaycamera.html" ]
+}

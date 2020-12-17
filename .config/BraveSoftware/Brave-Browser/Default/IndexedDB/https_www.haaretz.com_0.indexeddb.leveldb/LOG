@@ -1,0 +1,15 @@
+2020/11/14-14:34:57.928 7f1a Reusing MANIFEST /home/unchained/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.haaretz.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/14-14:34:57.929 7f1a Recovering log #4
+2020/11/14-14:34:57.929 7f1a Reusing old log /home/unchained/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.haaretz.com_0.indexeddb.leveldb/000004.log 
+2020/11/14-14:35:43.959 8012 Level-0 table #8: started
+2020/11/14-14:35:43.960 8012 Level-0 table #8: 2412 bytes OK
+2020/11/14-14:35:43.961 8012 Delete type=0 #4
+2020/11/14-14:35:43.962 8012 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/11/14-14:35:43.962 8012 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x02!\x01\x04\x00i\x00n\x00f\x00o\x00\x03\x00\x00\x00\x00\x00\x00\x10@' @ 807 : 1
+2020/11/14-14:35:43.962 8012 Compacting 1@1 + 1@2 files
+2020/11/14-14:35:43.963 8012 Generated table #9@1: 155 keys, 4600 bytes
+2020/11/14-14:35:43.963 8012 Compacted 1@1 + 1@2 files => 4600 bytes
+2020/11/14-14:35:43.964 8012 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/11/14-14:35:43.964 8012 Delete type=2 #5
+2020/11/14-14:35:43.964 8012 Delete type=2 #8
+2020/11/14-14:35:43.964 8012 Manual compaction at level-1 from '\x00\x01\x02!\x01\x04\x00i\x00n\x00f\x00o\x00\x03\x00\x00\x00\x00\x00\x00\x10@' @ 807 : 1 .. (end); will stop at (end)

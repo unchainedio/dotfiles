@@ -1,0 +1,67 @@
+/** Webcam (iframe) styles **/
+* {
+  padding: 0;
+  margin: 0;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  background-color: #f5f5f5;
+}
+
+.webcam-wrapper video {
+  width: 135%;
+  left: -15%;
+  display: block;
+  position: absolute;
+  height: auto;
+  margin: 0;
+  padding: 0;
+  -webkit-animation: 2s ease 0s normal forwards 1 caCamFadein;
+  animation: 2s ease 0s normal forwards 1 caCamFadein;
+  z-index: 5;
+}
+
+.webcam-wrapper video.flipped {
+  transform: scaleX(-1);
+  -webkit-transform: scaleX(-1);
+}
+
+@keyframes caCamFadein {
+  0% { opacity:0; }
+  66% { opacity:0; }
+  100% { opacity:1; }
+}
+
+@-webkit-keyframes caCamFadein {
+  0% { opacity:0; }
+  66% { opacity:0; }
+  100% { opacity:1; }
+}
+
+.webcam-wrapper .loading {
+  margin: auto;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  border: 3px solid #4a90e2;
+  -webkit-border-radius: 30px;
+  height: 50px;
+  width: 50px;
+  position: absolute;
+  -webkit-animation: pulsate 1s ease-out;
+  -webkit-animation-iteration-count: infinite; 
+  opacity: 0.0;
+  z-index: 1;
+}
+
+@-webkit-keyframes pulsate {
+  0% {-webkit-transform: scale(0.1, 0.1); opacity: 0.0;}
+  50% {opacity: 1.0;}
+  100% {-webkit-transform: scale(1.2, 1.2); opacity: 0.0;}
+}

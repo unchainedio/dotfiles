@@ -1,0 +1,6 @@
+2020/05/29-06:43:45.772 781 Reusing MANIFEST /home/unchained/.config/Franz/Partitions/service-787fe697-3731-44de-bb9e-4bd9a96f91de/Local Storage/leveldb/MANIFEST-000001
+2020/05/29-06:43:45.772 781 Recovering log #68
+2020/05/29-06:43:45.772 781 Reusing old log /home/unchained/.config/Franz/Partitions/service-787fe697-3731-44de-bb9e-4bd9a96f91de/Local Storage/leveldb/000068.log 
+2020/05/29-11:45:45.774 da3 Level-0 table #72: started
+2020/05/29-11:45:45.810 da3 Level-0 table #72: 12424 bytes OK
+2020/05/29-11:45:45.811 da3 Delete type=0 #68

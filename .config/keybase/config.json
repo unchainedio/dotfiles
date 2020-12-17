@@ -1,0 +1,13 @@
+{
+    "current_user": "unchained",
+    "mountdir": "/home/unchained/keybase",
+    "mountdirdefault": "/run/user/1000/keybase/kbfs",
+    "users": {
+        "unchained": {
+            "device": "cd71e32c490e53fb546b7afd1fac2118",
+            "id": "c30918192504ec72781774674f1ad319",
+            "name": "unchained",
+            "salt": "a163ccd5b05169c1268f53a27c627481"
+        }
+    }
+}

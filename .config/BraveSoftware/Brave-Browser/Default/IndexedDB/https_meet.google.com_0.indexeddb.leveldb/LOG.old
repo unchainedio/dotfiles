@@ -1,0 +1,15 @@
+2020/12/08-17:02:13.578 208c5 Reusing MANIFEST /home/unchained/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_meet.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/08-17:02:13.578 208c5 Recovering log #50
+2020/12/08-17:02:13.578 208c5 Reusing old log /home/unchained/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_meet.google.com_0.indexeddb.leveldb/000050.log 
+2020/12/08-18:27:35.446 22839 Level-0 table #54: started
+2020/12/08-18:27:35.448 22839 Level-0 table #54: 190 bytes OK
+2020/12/08-18:27:35.449 22839 Delete type=0 #50
+2020/12/08-18:27:35.450 22839 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/12/08-18:27:35.450 22839 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x05' @ 52 : 1
+2020/12/08-18:27:35.450 22839 Compacting 1@1 + 1@2 files
+2020/12/08-18:27:35.452 22839 Generated table #55@1: 18 keys, 506 bytes
+2020/12/08-18:27:35.452 22839 Compacted 1@1 + 1@2 files => 506 bytes
+2020/12/08-18:27:35.453 22839 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/12/08-18:27:35.454 22839 Delete type=2 #48
+2020/12/08-18:27:35.454 22839 Delete type=2 #54
+2020/12/08-18:27:35.454 22839 Manual compaction at level-1 from '\x00\x00\x00\x00\x05' @ 52 : 1 .. (end); will stop at (end)

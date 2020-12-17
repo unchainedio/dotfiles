@@ -1,0 +1,79 @@
+00:00:00.002300 main     VirtualBox XPCOM Server 6.1.8 r137981 linux.amd64 (May 18 2020 06:23:25) release log
+00:00:00.002307 main     Log opened 2020-06-19T05:10:37.886182000Z
+00:00:00.002309 main     Build Type: release
+00:00:00.002313 main     OS Product: Linux
+00:00:00.002315 main     OS Release: 5.6.16-1-MANJARO
+00:00:00.002317 main     OS Version: #1 SMP PREEMPT Wed Jun 3 14:26:28 UTC 2020
+00:00:00.002362 main     DMI Product Name: 20QD003MCX
+00:00:00.002381 main     DMI Product Version: ThinkPad X1 Carbon 7th
+00:00:00.002392 main     Firmware type: UEFI
+00:00:00.002947 main     Secure Boot: Disabled
+00:00:00.003030 main     Host RAM: 15693MB (15.3GB) total, 11328MB (11.0GB) available
+00:00:00.003038 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.003039 main     Process ID: 22280
+00:00:00.003041 main     Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.008626 main     IPC socket path: /tmp/.vbox-unchained-ipc/ipcd
+00:00:00.125653 nspr-2   VirtualBox: object creation starts
+00:00:00.125842 nspr-2   Home directory: '/home/unchained/.config/VirtualBox'
+00:00:00.126780 nspr-2   Loading settings file "/home/unchained/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.134617 nspr-2   USB: Unknown USB device detected (idVendor: 0x06cb, idProduct: 0x00bd)
+00:00:00.134698 nspr-2   USB: Unknown USB device detected (idVendor: 0x8087, idProduct: 0x0aaa)
+00:00:00.134885 nspr-2   Successfully initialised host USB using sysfs
+00:00:00.143934 nspr-2   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp0s20f3: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:00.145239 nspr-2   HostDnsMonitor: initializing
+00:00:00.145504 nspr-2   NAT: resolv.conf: nameserver 172.24.117.23
+00:00:00.145518 nspr-2   NAT: resolv.conf: nameserver fd00::8:7517
+00:00:00.145531 nspr-2   HostDnsMonitor: updating information
+00:00:00.145547 nspr-2   HostDnsMonitor: old information
+00:00:00.145551 nspr-2     no server entries
+00:00:00.145555 nspr-2     no domain set
+00:00:00.145559 nspr-2     no search string entries
+00:00:00.145562 nspr-2   HostDnsMonitor: new information
+00:00:00.145566 nspr-2     server 1: 172.24.117.23
+00:00:00.145571 nspr-2     server 2: fd00::8:7517
+00:00:00.145574 nspr-2     no domain set
+00:00:00.145578 nspr-2     no search string entries
+00:00:00.149932 nspr-2   VD: VDInit finished with VINF_SUCCESS
+00:00:00.150358 nspr-2   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={027bc463-929c-40e8-bf16-fea557cd8e7e} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:00:00.154909 nspr-2   Loading settings file "/home/unchained/VirtualBox VMs/Kali Linux/Kali Linux.vbox" with version "1.16-linux"
+00:00:00.155587 nspr-2   VirtualBox: object created
+00:00:55.562536 createBase Saving settings file "/home/unchained/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:56.132463 nspr-4   Saving settings file "/home/unchained/VirtualBox VMs/Ubuntu 20 LTS/Ubuntu 20 LTS.vbox" with version "1.16-linux"
+00:00:56.135229 nspr-2   Saving settings file "/home/unchained/VirtualBox VMs/Ubuntu 20 LTS/Ubuntu 20 LTS.vbox" with version "1.16-linux"
+00:00:56.136707 nspr-2   Saving settings file "/home/unchained/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:56.141063 nspr-4   Saving settings file "/home/unchained/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:56.143311 nspr-4   Saving settings file "/home/unchained/VirtualBox VMs/Ubuntu 20 LTS/Ubuntu 20 LTS.vbox" with version "1.16-linux"
+00:01:07.635192 nspr-3   Launched VM: 469827904 pid: 22419 (0x5793) frontend: GUI/Qt name: Ubuntu 20 LTS
+00:01:08.368389 nspr-2   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:01:08.416439 nspr-3   ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:01:08.428590 nspr-3   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp0s20f3: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:01:21.758857 nspr-4   Saving settings file "/home/unchained/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:01:30.643721 nspr-6   Saving settings file "/home/unchained/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:01:30.657378 nspr-3   Saving settings file "/home/unchained/VirtualBox VMs/Ubuntu 20 LTS/Ubuntu 20 LTS.vbox" with version "1.16-linux"
+00:02:30.236579 nspr-8   Saving settings file "/home/unchained/VirtualBox VMs/Ubuntu 20 LTS/Ubuntu 20 LTS.vbox" with version "1.16-linux"
+00:02:30.259660 nspr-4   ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:03:28.159284 nspr-8   Saving settings file "/home/unchained/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:06:25.666709 nspr-8   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp0s20f3: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:06:25.671918 nspr-4   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp0s20f3: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:06:44.227122 nspr-7   Saving settings file "/home/unchained/VirtualBox VMs/Ubuntu 20 LTS/Ubuntu 20 LTS.vbox" with version "1.16-linux"
+00:07:18.937111 nspr-3   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp0s20f3: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:07:18.942001 nspr-8   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp0s20f3: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:07:32.766825 nspr-2   Saving settings file "/home/unchained/VirtualBox VMs/Ubuntu 20 LTS/Ubuntu 20 LTS.vbox" with version "1.16-linux"
+00:07:40.641248 nspr-6   Saving settings file "/home/unchained/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:07:40.684452 nspr-7   Saving settings file "/home/unchained/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:07:40.722856 nspr-6   Saving settings file "/home/unchained/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:07:40.730143 nspr-8   Saving settings file "/home/unchained/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:07:40.738130 nspr-6   Saving settings file "/home/unchained/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:10:39.510209 nspr-4   Saving settings file "/home/unchained/VirtualBox VMs/Ubuntu 20 LTS/Ubuntu 20 LTS.vbox" with version "1.16-linux"
+00:10:48.148388 nspr-4   Saving settings file "/home/unchained/VirtualBox VMs/Ubuntu 20 LTS/Ubuntu 20 LTS.vbox" with version "1.16-linux"
+00:10:48.183223 nspr-8   Saving settings file "/home/unchained/VirtualBox VMs/Ubuntu 20 LTS/Ubuntu 20 LTS.vbox" with version "1.16-linux"
+00:10:48.199892 nspr-4   Saving settings file "/home/unchained/VirtualBox VMs/Ubuntu 20 LTS/Ubuntu 20 LTS.vbox" with version "1.16-linux"
+00:10:48.224521 nspr-4   Saving settings file "/home/unchained/VirtualBox VMs/Ubuntu 20 LTS/Ubuntu 20 LTS.vbox" with version "1.16-linux"
+00:10:53.754988 main     VirtualBox: object deletion starts
+00:10:53.755100 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/home/unchained/VirtualBox VMs/Kali Linux/Kali Linux.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:10:53.755430 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/home/unchained/VirtualBox VMs/Ubuntu 20 LTS/Ubuntu 20 LTS.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:10:53.756292 main     HostDnsMonitor: shutting down ...
+00:10:53.773001 main     HostDnsMonitor: shut down
+00:10:54.164608 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:10:58.786442 main     {00007f7d30017e50} HostPowerServiceLinux::~HostPowerServiceLinux: RTThreadWait() for 5000 ms failed with VERR_TIMEOUT
+00:10:58.787099 main     VirtualBox: object deleted

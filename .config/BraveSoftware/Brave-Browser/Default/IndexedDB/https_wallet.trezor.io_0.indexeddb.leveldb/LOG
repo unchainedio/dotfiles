@@ -1,0 +1,15 @@
+2020/10/26-07:46:01.812 2c010 Reusing MANIFEST /home/unchained/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_wallet.trezor.io_0.indexeddb.leveldb/MANIFEST-000001
+2020/10/26-07:46:01.812 2c010 Recovering log #19
+2020/10/26-07:46:01.813 2c010 Reusing old log /home/unchained/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_wallet.trezor.io_0.indexeddb.leveldb/000019.log 
+2020/10/26-08:02:33.304 c83 Level-0 table #23: started
+2020/10/26-08:02:33.306 c83 Level-0 table #23: 190 bytes OK
+2020/10/26-08:02:33.307 c83 Delete type=0 #19
+2020/10/26-08:02:33.308 c83 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/10/26-08:02:33.308 c83 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x05' @ 150 : 1
+2020/10/26-08:02:33.309 c83 Compacting 1@1 + 1@2 files
+2020/10/26-08:02:33.310 c83 Generated table #24@1: 49 keys, 919 bytes
+2020/10/26-08:02:33.310 c83 Compacted 1@1 + 1@2 files => 919 bytes
+2020/10/26-08:02:33.312 c83 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/10/26-08:02:33.314 c83 Delete type=2 #23
+2020/10/26-08:02:33.314 c83 Delete type=2 #17
+2020/10/26-08:02:33.316 c83 Manual compaction at level-1 from '\x00\x00\x00\x00\x05' @ 150 : 1 .. (end); will stop at (end)

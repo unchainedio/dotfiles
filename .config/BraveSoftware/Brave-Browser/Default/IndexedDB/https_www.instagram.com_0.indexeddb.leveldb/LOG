@@ -1,0 +1,15 @@
+2020/11/11-05:48:18.994 17b6d Reusing MANIFEST /home/unchained/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/11-05:48:18.994 17b6d Recovering log #158
+2020/11/11-05:48:18.994 17b6d Reusing old log /home/unchained/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/000158.log 
+2020/11/11-05:48:30.813 17dbf Level-0 table #163: started
+2020/11/11-05:48:30.828 17dbf Level-0 table #163: 28082 bytes OK
+2020/11/11-05:48:30.829 17dbf Delete type=0 #158
+2020/11/11-05:48:30.830 17dbf Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/11/11-05:48:30.830 17dbf Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x03\x01\x0a\x00p\x00o\x00s\x00t\x00s\x00.\x00b\x00y\x00I\x00d' @ 15460 : 0
+2020/11/11-05:48:30.830 17dbf Compacting 1@1 + 1@2 files
+2020/11/11-05:48:30.833 17dbf Generated table #164@1: 45 keys, 16831 bytes
+2020/11/11-05:48:30.833 17dbf Compacted 1@1 + 1@2 files => 16831 bytes
+2020/11/11-05:48:30.834 17dbf compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/11/11-05:48:30.835 17dbf Delete type=2 #160
+2020/11/11-05:48:30.835 17dbf Delete type=2 #163
+2020/11/11-05:48:30.836 17dbf Manual compaction at level-1 from '\x00\x01\x01\x03\x01\x0a\x00p\x00o\x00s\x00t\x00s\x00.\x00b\x00y\x00I\x00d' @ 15460 : 0 .. (end); will stop at (end)

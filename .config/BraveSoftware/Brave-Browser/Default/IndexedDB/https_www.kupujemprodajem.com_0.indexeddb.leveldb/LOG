@@ -1,0 +1,15 @@
+2020/12/14-10:42:19.391 290ec Reusing MANIFEST /home/unchained/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.kupujemprodajem.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/14-10:42:19.392 290ec Recovering log #4
+2020/12/14-10:42:19.392 290ec Reusing old log /home/unchained/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.kupujemprodajem.com_0.indexeddb.leveldb/000004.log 
+2020/12/14-11:43:20.261 29f1b Level-0 table #8: started
+2020/12/14-11:43:20.274 29f1b Level-0 table #8: 1058 bytes OK
+2020/12/14-11:43:20.276 29f1b Delete type=0 #4
+2020/12/14-11:43:20.276 29f1b Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/12/14-11:43:20.277 29f1b Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x0e\x00_\x00_\x00s\x00a\x00k\x009\x001\x000\x007\x002\x007\x003\x005\x006' @ 75 : 1
+2020/12/14-11:43:20.277 29f1b Compacting 1@1 + 1@2 files
+2020/12/14-11:43:20.278 29f1b Generated table #9@1: 18 keys, 558 bytes
+2020/12/14-11:43:20.278 29f1b Compacted 1@1 + 1@2 files => 558 bytes
+2020/12/14-11:43:20.279 29f1b compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/12/14-11:43:20.280 29f1b Delete type=2 #5
+2020/12/14-11:43:20.280 29f1b Delete type=2 #8
+2020/12/14-11:43:20.280 29f1b Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x0e\x00_\x00_\x00s\x00a\x00k\x009\x001\x000\x007\x002\x007\x003\x005\x006' @ 75 : 1 .. (end); will stop at (end)

@@ -1,0 +1,15 @@
+2020/06/27-11:54:53.010 1c5b2 Reusing MANIFEST /home/unchained/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_parler.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/06/27-11:54:53.010 1c5b2 Recovering log #27
+2020/06/27-11:54:53.010 1c5b2 Reusing old log /home/unchained/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_parler.com_0.indexeddb.leveldb/000027.log 
+2020/06/27-11:57:35.219 cfd Level-0 table #32: started
+2020/06/27-11:57:35.221 cfd Level-0 table #32: 850 bytes OK
+2020/06/27-11:57:35.222 cfd Delete type=0 #27
+2020/06/27-11:57:35.222 cfd Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/06/27-11:57:35.222 cfd Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01 \x03\x00\xf0\x1c8S/wB\x00\x016\x00i\x00m\x00a\x00g\x00e\x00s\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00p\x00a\x00r\x00l\x00e\x00r\x00.\x00c\x00o\x00m\x00/\x00a\x00s\x00s\x00e\x00t\x00s\x00/\x00S\x00V\x00G\x00/\x00n\x00e\x00w\x00-\x00b\x00a\x00d\x00g\x00e\x00s\x00/\x000\x004\x00.\x00s\x00v\x00g' @ 667 : 1
+2020/06/27-11:57:35.222 cfd Compacting 1@1 + 1@2 files
+2020/06/27-11:57:35.224 cfd Generated table #33@1: 134 keys, 8828 bytes
+2020/06/27-11:57:35.224 cfd Compacted 1@1 + 1@2 files => 8828 bytes
+2020/06/27-11:57:35.225 cfd compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/06/27-11:57:35.225 cfd Delete type=2 #29
+2020/06/27-11:57:35.225 cfd Delete type=2 #32
+2020/06/27-11:57:35.225 cfd Manual compaction at level-1 from '\x00\x01\x01 \x03\x00\xf0\x1c8S/wB\x00\x016\x00i\x00m\x00a\x00g\x00e\x00s\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00p\x00a\x00r\x00l\x00e\x00r\x00.\x00c\x00o\x00m\x00/\x00a\x00s\x00s\x00e\x00t\x00s\x00/\x00S\x00V\x00G\x00/\x00n\x00e\x00w\x00-\x00b\x00a\x00d\x00g\x00e\x00s\x00/\x000\x004\x00.\x00s\x00v\x00g' @ 667 : 1 .. (end); will stop at (end)

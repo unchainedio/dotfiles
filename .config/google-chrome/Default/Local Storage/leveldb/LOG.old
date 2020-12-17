@@ -1,0 +1,20 @@
+2020/12/14-07:37:44.052 25b97 Reusing MANIFEST /home/unchained/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2020/12/14-07:37:44.052 25b97 Recovering log #139
+2020/12/14-07:37:44.052 25b97 Reusing old log /home/unchained/.config/google-chrome/Default/Local Storage/leveldb/000139.log 
+2020/12/14-07:55:09.595 2636e Level-0 table #143: started
+2020/12/14-07:55:09.635 2636e Level-0 table #143: 14757 bytes OK
+2020/12/14-07:55:09.637 2636e Delete type=0 #139
+2020/12/14-07:55:09.638 2636e Compacting 4@0 + 2@1 files
+2020/12/14-07:55:09.698 2636e Generated table #144@0: 245 keys, 2413237 bytes
+2020/12/14-07:55:09.700 2636e Generated table #145@0: 70 keys, 41644 bytes
+2020/12/14-07:55:09.700 2636e Compacted 4@0 + 2@1 files => 2454881 bytes
+2020/12/14-07:55:09.701 2636e compacted to: files[ 0 2 0 0 0 0 0 ]
+2020/12/14-07:55:09.701 2636e Delete type=2 #138
+2020/12/14-07:55:09.701 2636e Delete type=2 #140
+2020/12/14-07:55:09.701 2636e Delete type=2 #143
+2020/12/14-07:55:09.701 2636e Delete type=2 #133
+2020/12/14-07:55:09.701 2636e Delete type=2 #132
+2020/12/14-07:55:09.701 2636e Delete type=2 #136
+2020/12/14-10:47:52.134 2636e Level-0 table #147: started
+2020/12/14-10:47:52.138 2636e Level-0 table #147: 16719 bytes OK
+2020/12/14-10:47:52.139 2636e Delete type=0 #142

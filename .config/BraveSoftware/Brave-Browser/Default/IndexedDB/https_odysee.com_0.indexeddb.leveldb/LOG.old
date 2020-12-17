@@ -1,0 +1,46 @@
+2020/12/15-18:26:17.369 56b Reusing MANIFEST /home/unchained/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_odysee.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/15-18:26:17.370 56b Recovering log #906
+2020/12/15-18:26:17.373 56b Reusing old log /home/unchained/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_odysee.com_0.indexeddb.leveldb/000906.log 
+2020/12/15-19:21:23.901 17fb Compacting 2@0 + 1@1 files
+2020/12/15-19:21:23.938 17fb Generated table #909@0: 13459 keys, 157627 bytes
+2020/12/15-19:21:23.938 17fb Compacted 2@0 + 1@1 files => 157627 bytes
+2020/12/15-19:21:23.939 17fb compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/12/15-19:21:23.940 17fb Delete type=2 #903
+2020/12/15-19:21:23.940 17fb Delete type=2 #907
+2020/12/15-19:21:23.940 17fb Delete type=2 #905
+2020/12/15-20:21:17.959 2c44 Level-0 table #911: started
+2020/12/15-20:21:17.995 2c44 Level-0 table #911: 4198767 bytes OK
+2020/12/15-20:21:17.999 2c44 Delete type=0 #906
+2020/12/16-01:03:47.200 7062 Level-0 table #913: started
+2020/12/16-01:03:47.213 7062 Level-0 table #913: 4199815 bytes OK
+2020/12/16-01:03:47.216 7062 Delete type=0 #910
+2020/12/16-04:23:48.179 9fe1 Level-0 table #915: started
+2020/12/16-04:23:48.212 9fe1 Level-0 table #915: 4201455 bytes OK
+2020/12/16-04:23:48.217 9fe1 Delete type=0 #912
+2020/12/16-05:43:18.180 b691 Compacting 3@0 + 1@1 files
+2020/12/16-05:43:18.212 b691 Generated table #916@0: 13459 keys, 157866 bytes
+2020/12/16-05:43:18.212 b691 Compacted 3@0 + 1@1 files => 157866 bytes
+2020/12/16-05:43:18.213 b691 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/12/16-05:43:18.213 b691 Delete type=2 #909
+2020/12/16-05:43:18.213 b691 Delete type=2 #911
+2020/12/16-05:43:18.213 b691 Delete type=2 #913
+2020/12/16-05:43:18.213 b691 Delete type=2 #915
+2020/12/16-06:18:47.305 c558 Level-0 table #918: started
+2020/12/16-06:18:47.319 c558 Level-0 table #918: 4176371 bytes OK
+2020/12/16-06:18:47.321 c558 Delete type=0 #914
+2020/12/16-08:13:20.173 f015 Level-0 table #920: started
+2020/12/16-08:13:20.215 f015 Level-0 table #920: 4186643 bytes OK
+2020/12/16-08:13:20.219 f015 Delete type=0 #917
+2020/12/16-10:13:48.194 12177 Compacting 2@0 + 1@1 files
+2020/12/16-10:13:48.217 12177 Generated table #921@0: 13459 keys, 157485 bytes
+2020/12/16-10:13:48.217 12177 Compacted 2@0 + 1@1 files => 157485 bytes
+2020/12/16-10:13:48.218 12177 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/12/16-10:13:48.218 12177 Delete type=2 #918
+2020/12/16-10:13:48.218 12177 Delete type=2 #916
+2020/12/16-10:13:48.218 12177 Delete type=2 #920
+2020/12/16-11:43:20.174 144c3 Level-0 table #923: started
+2020/12/16-11:43:20.201 144c3 Level-0 table #923: 4191012 bytes OK
+2020/12/16-11:43:20.204 144c3 Delete type=0 #919
+2020/12/16-15:08:47.224 17439 Level-0 table #925: started
+2020/12/16-15:08:47.237 17439 Level-0 table #925: 4190989 bytes OK
+2020/12/16-15:08:47.239 17439 Delete type=0 #922
